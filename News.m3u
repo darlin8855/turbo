@@ -31,7 +31,7 @@ http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a8
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-id="6036" tvg-name="国家地理频道" tvg-logo="https://iptv-pro.github.io/logo/ngo.png" group-title="资讯",国家地理
 http://59.125.101.187:8709/http/192.168.77.24:8081/hls/61/803/ch01.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="国家地理野生" tvg-logo="https://iptv-pro.github.io/logo/ngowild.png" group-title="资讯",国家地理野生
+#EXTINF:-1 tvg-id="427" tvg-name="国家地理野生" tvg-logo="https://iptv-pro.github.io/logo/ngowild.png" group-title="资讯",国家地理野生
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="https://iptv-pro.github.io/logo/Discovery%20Channel.png" group-title="资讯",探索发现
 http://50.7.218.42:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B1462900214629002&ct=18393&tsum=ce9990e01102bf91728bdbbb549b04a7
