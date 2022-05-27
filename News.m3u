@@ -32,7 +32,7 @@ http://59.125.101.187:8709/http/192.168.77.24:8081/hls/61/803/ch01.m3u8?
 #EXTINF:-1 tvg-id="427" tvg-name="国家地理野生" tvg-logo="https://iptv-pro.github.io/logo/ngowild.png" group-title="资讯",国家地理野生
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="https://iptv-pro.github.io/logo/Discovery%20Channel.png" group-title="资讯",探索发现
-http://59.125.101.187:8709/http/192.168.77.24:8081/hls/61/803/ch01.m3u8?
+http://50.7.218.42:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="资讯",动物星球
 http://59.125.101.187:8719/http/192.168.77.24:8088/hls/70/812/ch37.m3u8?
 #EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="资讯",纬来体育台
