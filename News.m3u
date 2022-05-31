@@ -27,14 +27,6 @@ http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN News" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="资讯",CNN News
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:-1 tvg-id="6036" tvg-name="国家地理频道" tvg-logo="https://iptv-pro.github.io/logo/ngo.png" group-title="资讯",国家地理
-https://iptv.52sf.ga/hls/natlgeo.m3u8
-#EXTINF:-1 tvg-id="6189" tvg-name="BBCEarth" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" group-title="特区",BBC Earth
-https://iptv.52sf.ga/hls/bbcearth.m3u8
-#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="https://iptv-pro.github.io/logo/Discovery%20Channel.png" group-title="资讯",探索发现
-https://iptv.52sf.ga/hls/discovery.m3u8
-#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="资讯",动物星球
-https://iptv.52sf.ga/hls/animal.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1
 http://39.134.67.226/PLTV/88888888/224/3221225816/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2
