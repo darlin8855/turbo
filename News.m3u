@@ -119,5 +119,5 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
 http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000291503.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
 http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8?$全网超清1080P
-#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",兵团卫视
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
 http://test5.btzx.com.cn/live/btxjbtws.stream/chunklist_w544078748.m3u8
