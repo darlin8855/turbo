@@ -7,6 +7,8 @@ http://23.237.10.66:16110
 https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=29
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/Now%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="资讯",NOW新闻
 https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=10
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="资讯",J2
+http://198.16.64.10:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="资讯",香港开电视
 https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=23
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="资讯",ViuTV
