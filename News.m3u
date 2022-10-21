@@ -15,8 +15,8 @@ http://livetv.dnsfor.me:80/channel.20.m3u8
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻台" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png" group-title="资讯",中天新闻
 http://198.16.64.10:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
-#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB.png" group-title="资讯",东森新闻
-http://www.penis18.org/stream/8754b876b693f938e79f13b5e26a3467
+#EXTINF:-1 tvg-id="" tvg-name="三立新闻台" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%89%E7%AB%8B%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BBiNEWS.png" group-title="资讯",三立新闻
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="https://iptv-pro.github.io/logo/TVBS%E6%96%B0%E9%97%BB.png" group-title="资讯",TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="资讯",寰宇新闻
