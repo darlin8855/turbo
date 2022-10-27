@@ -1,11 +1,11 @@
-- DOMAIN-SUFFIX,i-cable.com
-- DOMAIN-SUFFIX,cdn.hklive.tv
-- DOMAIN-SUFFIX,api.leonardpark.dev
-- DOMAIN-SUFFIX,livetv.dnsfor.me
-- DOMAIN-SUFFIX,for40255.sytes.net
-- DOMAIN-SUFFIX,4gtvfreepc-cds.cdn.hinet.net
-- DOMAIN-SUFFIX,4gtvfree-cds.cdn.hinet.net
-- DOMAIN-SUFFIX,4gtvfreepc-mozai.4gtv.tv
-- DOMAIN-SUFFIX,4gtvfree-mozai.4gtv.tv
-- DOMAIN-SUFFIX,media.fantv.hk
-- DOMAIN-SUFFIX,rthktv31-live.akamaized.net
+DOMAIN-SUFFIX,i-cable.com
+DOMAIN-SUFFIX,cdn.hklive.tv
+DOMAIN-SUFFIX,api.leonardpark.dev
+DOMAIN-SUFFIX,livetv.dnsfor.me
+DOMAIN-SUFFIX,for40255.sytes.net
+DOMAIN-SUFFIX,4gtvfreepc-cds.cdn.hinet.net
+DOMAIN-SUFFIX,4gtvfree-cds.cdn.hinet.net
+DOMAIN-SUFFIX,4gtvfreepc-mozai.4gtv.tv
+DOMAIN-SUFFIX,4gtvfree-mozai.4gtv.tv
+DOMAIN-SUFFIX,media.fantv.hk
+DOMAIN-SUFFIX,rthktv31-live.akamaized.net
