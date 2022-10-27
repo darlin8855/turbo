@@ -1,0 +1,22 @@
+#-----------------------emby------------------------------
+- DOMAIN-SUFFIX,jmsooo.com,🎞️ emby1
+- DOMAIN-SUFFIX,poloemby.xyz,🎞️ emby1
+- DOMAIN-SUFFIX,aaa.ax,🎞️ emby1
+- DOMAIN-SUFFIX,emby.wtf,🎞️ emby1
+- DOMAIN-SUFFIX,gcx920110.com,🎞️ emby1
+- DOMAIN-SUFFIX,mseic.com,🎞️ emby1
+- DOMAIN-SUFFIX,misakaf.org,🎞️ emby1
+- DOMAIN-SUFFIX,emby.kim,🎞️ emby2
+- DOMAIN-SUFFIX,ccemby.tk,🎞️ emby2
+#-----------------------TV------------------------------
+- DOMAIN-SUFFIX,i-cable.com,📺 TV
+- DOMAIN-SUFFIX,cdn.hklive.tv,📺 TV
+- DOMAIN-SUFFIX,api.leonardpark.dev,📺 TV
+- DOMAIN-SUFFIX,livetv.dnsfor.me,📺 TV
+- DOMAIN-SUFFIX,for40255.sytes.net,📺 TV
+- DOMAIN-SUFFIX,4gtvfreepc-cds.cdn.hinet.net,📺 TV
+- DOMAIN-SUFFIX,4gtvfree-cds.cdn.hinet.net,📺 TV
+- DOMAIN-SUFFIX,4gtvfreepc-mozai.4gtv.tv,📺 TV
+- DOMAIN-SUFFIX,4gtvfree-mozai.4gtv.tv,📺 TV
+- DOMAIN-SUFFIX,media.fantv.hk,📺 TV
+- DOMAIN-SUFFIX,rthktv31-live.akamaized.net,📺 TV
