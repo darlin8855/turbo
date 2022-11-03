@@ -14,7 +14,7 @@ http://livetv.dnsfor.me:80/channel.20.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RHK31" tvg-logo="https://iptv-pro.github.io/logo/RTHK31.png" group-title="资讯",港台RHK31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻台" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png" group-title="资讯",中天新闻
-http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
+https://epg.pm/stream/eed2da2074222063a94841b5c8348bf93384d9012e3142d25160862974c03109.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="三立新闻台" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%89%E7%AB%8B%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BBiNEWS.png" group-title="资讯",三立新闻
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="https://iptv-pro.github.io/logo/TVBS%E6%96%B0%E9%97%BB.png" group-title="资讯",TVBS新闻
