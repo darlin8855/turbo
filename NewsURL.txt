@@ -1,12 +1,18 @@
 无线新闻
 https://nettvpro.live/hls/tvb.php?id=1
 http://9.zhxinda.xyz/newss.php?id=1
+https://epg.pm/stream/17cd231ecaa64551c900793e3ef920f879669b8d8bec48f66cf617685cbf84c7.ctv
+https://epg.pm/stream/f48eacefe699d644d28babcb6d9df594d0240f6860f5636953abc86a2ba4cb5c.ctv
+https://epg.pm/stream/b03383e89dacf388198d9d94e514c98264245f4fca84fa24dc4b352e37ebe7cc.m3u8
+
 
 有线新闻
 http://livetv.dnsfor.me:80/channel.5.m3u8
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 
 翡翠台
+https://epg.pm/stream/92efcd4d58f8527d3595f006e884d0f2b496c78e5a051322d5243d305823551f.m3u8
+https://epg.pm/stream/0b98c84032eeb1fabc9ce874fdcf061b9f20b440f8ba8d649729aeae1ec3ec92.m3u8
 http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
 http://23.237.10.66:16106
 
@@ -15,5 +21,6 @@ https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 
 中天新闻
+https://epg.pm/stream/110e89a35ec2910044e0d2e67685bd4ed7e6527ed01148840bc1e9e8b436d81b.m3u8
 https://epg.pm/stream/2174ed669076013ca3c592cafa142f03fbe493681c5d4494bc7546602e3acd9f.ctv
 https://epg.pm/stream/fef1cdf7027f8913d40eed9c39949c004839b08c251fad408cdc47a7e758dbf9.m3u8
