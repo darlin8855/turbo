@@ -13,3 +13,7 @@ http://23.237.10.66:16106
 RHK31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+
+中天新闻
+https://epg.pm/stream/2174ed669076013ca3c592cafa142f03fbe493681c5d4494bc7546602e3acd9f.ctv
+https://epg.pm/stream/fef1cdf7027f8913d40eed9c39949c004839b08c251fad408cdc47a7e758dbf9.m3u8
