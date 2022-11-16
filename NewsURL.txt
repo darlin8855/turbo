@@ -14,6 +14,7 @@ https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 https://epg.pm/stream/92efcd4d58f8527d3595f006e884d0f2b496c78e5a051322d5243d305823551f.m3u8
 https://epg.pm/stream/0b98c84032eeb1fabc9ce874fdcf061b9f20b440f8ba8d649729aeae1ec3ec92.m3u8
 http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
+http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
 http://23.237.10.66:16106
 
 RHK31
