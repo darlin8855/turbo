@@ -10,7 +10,7 @@ http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="资讯",香港开电视
 http://livetv.dnsfor.me:80/channel.9.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="资讯",ViuTV
-https://epg.pm/stream/c8360456378d820eb1c5b38c605b44cabab8f6121edcfbb21f21ecb5e6b0b4f3.m3u8
+http://50.7.220.74:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514
 #EXTINF:-1 tvg-id="" tvg-name="RHK31" tvg-logo="https://iptv-pro.github.io/logo/RTHK31.png" group-title="资讯",港台RHK31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻台" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png" group-title="资讯",中天新闻
