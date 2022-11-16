@@ -1,6 +1,7 @@
 无线新闻
 https://nettvpro.live/hls/tvb.php?id=1
 http://9.zhxinda.xyz/newss.php?id=1
+http://50.7.220.74:8278/inews_twn/playlist.m3u8?tid=m2206a7a6925a&ct=18336&tsum=47d564f6425ee7ceb9ff1ed026f89669
 https://epg.pm/stream/17cd231ecaa64551c900793e3ef920f879669b8d8bec48f66cf617685cbf84c7.ctv
 https://epg.pm/stream/f48eacefe699d644d28babcb6d9df594d0240f6860f5636953abc86a2ba4cb5c.ctv
 https://epg.pm/stream/b03383e89dacf388198d9d94e514c98264245f4fca84fa24dc4b352e37ebe7cc.m3u8
