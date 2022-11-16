@@ -16,6 +16,7 @@ https://epg.pm/stream/0b98c84032eeb1fabc9ce874fdcf061b9f20b440f8ba8d649729aeae1e
 http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
 http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
 http://23.237.10.66:16106
+http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
 
 RHK31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
