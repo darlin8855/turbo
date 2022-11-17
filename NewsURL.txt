@@ -10,6 +10,7 @@ https://epg.pm/stream/b03383e89dacf388198d9d94e514c98264245f4fca84fa24dc4b352e37
 有线新闻
 http://livetv.dnsfor.me:80/channel.5.m3u8
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
+http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 
 翡翠台
 https://epg.pm/stream/92efcd4d58f8527d3595f006e884d0f2b496c78e5a051322d5243d305823551f.m3u8
@@ -18,6 +19,7 @@ http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
 http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
 http://23.237.10.66:16106
 http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
+http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
 
 RHK31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
@@ -27,3 +29,7 @@ https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 https://epg.pm/stream/110e89a35ec2910044e0d2e67685bd4ed7e6527ed01148840bc1e9e8b436d81b.m3u8
 https://epg.pm/stream/2174ed669076013ca3c592cafa142f03fbe493681c5d4494bc7546602e3acd9f.ctv
 https://epg.pm/stream/fef1cdf7027f8913d40eed9c39949c004839b08c251fad408cdc47a7e758dbf9.m3u8
+
+cctv-4K
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8 
