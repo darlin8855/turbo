@@ -30,6 +30,10 @@ https://epg.pm/stream/110e89a35ec2910044e0d2e67685bd4ed7e6527ed01148840bc1e9e8b4
 https://epg.pm/stream/2174ed669076013ca3c592cafa142f03fbe493681c5d4494bc7546602e3acd9f.ctv
 https://epg.pm/stream/fef1cdf7027f8913d40eed9c39949c004839b08c251fad408cdc47a7e758dbf9.m3u8
 
+寰宇新闻
+http://tv.redrainl.site:9500/live.m3u8?c=22
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
+
 cctv-4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8 
