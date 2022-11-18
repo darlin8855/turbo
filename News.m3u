@@ -15,8 +15,8 @@ http://198.16.64.10:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993&ct=19225
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻台" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png" group-title="资讯",中天新闻
 https://epg.pm/stream/2174ed669076013ca3c592cafa142f03fbe493681c5d4494bc7546602e3acd9f.ctv
-#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB.png" group-title="资讯",东森新闻
-http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
+#EXTINF:-1 tvg-id="6069" tvg-name="三立新闻台" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%89%E7%AB%8B%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BBiNEWS.png" group-title="资讯",三立新闻
+https://epg.pm/stream/5d5cd5d8a08ad29dbe96a2a84be5655e6f4b0e7dbed0ea9f3c5c6013a5549a99.ctv
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="https://iptv-pro.github.io/logo/TVBS%E6%96%B0%E9%97%BB.png" group-title="资讯",TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="资讯",寰宇新闻
