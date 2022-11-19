@@ -25,8 +25,8 @@ http://tv.redrainl.site:9500/live.m3u8?c=22
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://iptv-pro.github.io/logo/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="资讯",凤凰中文
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="资讯",CCTV新闻
-http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="资讯",CCTV-13
+http://39.134.115.221:8080/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX News" tvg-logo="https://iptv-pro.github.io/logo/Fox%20News.png" group-title="资讯",FOX News
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBC News" tvg-logo="https://iptv-pro.github.io/logo/NBC%20News.png" group-title="资讯",NBC News
@@ -60,7 +60,7 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221225628/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225629/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13
-http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14
 http://39.135.138.58:18890/PLTV/88888888/224/3221225639/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15
