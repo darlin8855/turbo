@@ -46,3 +46,7 @@ https://epg.pm/stream/8aa1f75754ecb155af3f104b8264634c871b5a0b9215b17e251f7c5c1e
 
 cctv-13
 http://39.135.138.58:18890/PLTV/88888888/224/3221225638/index.m3u8
+
+cctv-16
+https://epg.pm/stream/a98eca7409827e25a4c46e9f307d5fbee634dd7acedb4909f1ed368f06035693.m3u8
+https://epg.pm/stream/3afe37f11038323e87aad52774f89caa49d316ab32b2f8aab2143030a6ac309a.m3u8
