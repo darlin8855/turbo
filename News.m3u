@@ -40,7 +40,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4
 http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5
-https://epg.pm/stream/8e888b471f6fba99b8bcb4eccff0cb595fe3565588dba982e8988a5a725f83cc.m3u8
+https://epg.pm/stream/dae172a49a18bab857caca94caf2e8f0dfc9db1c1d707dfadd8c9fe201caec7a.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+
 http://39.135.138.58:18890/PLTV/88888888/224/3221225649/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6
