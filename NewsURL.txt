@@ -47,6 +47,7 @@ https://epg.pm/stream/fc929c62192c401b9db6351a5825b2b4c73f9cc6531727fa465216b528
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 https://epg.pm/stream/8aa1f75754ecb155af3f104b8264634c871b5a0b9215b17e251f7c5c1e7abd78.m3u8
+http://live.cooltv.top/tv/aishang.php?id=cctv164k
 
 cctv-13
 http://39.135.138.58:18890/PLTV/88888888/224/3221225638/index.m3u8
