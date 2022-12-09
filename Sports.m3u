@@ -1,3 +1,3 @@
 #EXTM3U x-tvg-url="https://epg.pm/xmltv/epg.xml"
-#EXTINF:-1 tvg-id="3387" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pm/media/images/channel/2022/10/18/large/20221018162839516607_74.jpg" group-title="资讯",[BD]Astro Supersport
+#EXTINF:-1 tvg-id="3387" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pm/media/images/channel/2022/10/18/large/20221018162839516607_74.jpg" group-title="",Astro Supersport
 https://epg.pm/stream/26bfa4d5061ebe52c33f90e6e1346566b5ab51b82b8c72dde1794c8916ce7b82.ctv
