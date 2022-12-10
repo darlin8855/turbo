@@ -25,7 +25,7 @@ http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="资讯",CCTV-13
 https://epg.pm/stream/3521cb85b1972226016c8c22ce91112decc7302d8ac9e85ff7b7bceeeecc1ab4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX News" tvg-logo="https://iptv-pro.github.io/logo/Fox%20News.png" group-title="资讯",FOX News
+#EXTINF:-1 tvg-id="17747" tvg-country="United States" tvg-language="English" tvg-logo="https://iptv-pro.github.io/logo/Fox%20News.png" group-title="资讯",FOX News
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="18082" tvg-country="United States" tvg-language="English" tvg-logo="https://iptv-pro.github.io/logo/NBC%20News.png" group-title="资讯",NBC News
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
