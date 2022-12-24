@@ -33,8 +33,6 @@ http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a8
 https://epg.pm/stream/6d810e5ac0c7eadd6c08b7e9b7cf8a68c76d10aa6365f4d8c0b4ac09f26b6fd2.m3u8
 #EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="资讯",纬来体育HD
 http://198.16.64.10:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/308_144.png" group-title="资讯",Astro Super Sport 4K
-http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
 #EXTINF:-1 tvg-id="3387" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pm/media/images/channel/2022/10/18/large/20221018162839516607_74.jpg" group-title="",Astro SuperSport 2HD
 https://epg.pm/stream/26bfa4d5061ebe52c33f90e6e1346566b5ab51b82b8c72dde1794c8916ce7b82.ctv
 #EXTINF:-1 tvg-name="咪咕体育4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png" group-title="资讯",咪咕体育4K
