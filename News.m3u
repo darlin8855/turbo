@@ -23,8 +23,6 @@ http://tv.redrainl.site:9500/live.m3u8?c=22
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://iptv-pro.github.io/logo/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="资讯",凤凰中文
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="资讯",CCTV-13
-https://epg.pm/stream/3521cb85b1972226016c8c22ce91112decc7302d8ac9e85ff7b7bceeeecc1ab4.m3u8
 #EXTINF:-1 tvg-id="17747" tvg-country="United States" tvg-language="English" tvg-logo="https://iptv-pro.github.io/logo/Fox%20News.png" group-title="资讯",FOX News
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="18082" tvg-country="United States" tvg-language="English" tvg-logo="https://iptv-pro.github.io/logo/NBC%20News.png" group-title="资讯",NBC News
@@ -64,15 +62,15 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221225628/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225629/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13
-https://epg.pm/stream/3521cb85b1972226016c8c22ce91112decc7302d8ac9e85ff7b7bceeeecc1ab4.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14
 http://39.135.138.58:18890/PLTV/88888888/224/3221225639/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15
 http://39.135.138.58:18890/PLTV/88888888/224/3221225641/index.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16
-http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226230/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17
-http://39.134.32.101:6610/270000001111/1110000391/index.m3u8?IASHttpSessionId=OTT
+http://39.135.138.59:18890/PLTV/88888910/224/3221225909/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K
 http://159.75.85.63:8280/cctv4k.php
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
