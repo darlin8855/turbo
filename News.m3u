@@ -32,7 +32,7 @@ https://epg.pm/stream/6d810e5ac0c7eadd6c08b7e9b7cf8a68c76d10aa6365f4d8c0b4ac09f2
 #EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="资讯",纬来体育HD
 http://198.16.64.10:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
 #EXTINF:-1 tvg-id="3387" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pm/media/images/channel/2022/10/18/large/20221018162839516607_74.jpg" group-title="",Astro SuperSport 2HD
-https://epg.pm/stream/26bfa4d5061ebe52c33f90e6e1346566b5ab51b82b8c72dde1794c8916ce7b82.ctv
+https://epg.pm/stream/5ab94c58c304471cd8ed2845966d51ff26185794746ec69d31ab96ed589b55fd.ctv
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2
