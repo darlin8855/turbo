@@ -45,15 +45,15 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="国际",凤凰香港
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="国际",HBO高清
+#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="国际",HBO高清
 https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9c/HBO_Family_Asia_logo.png/revision/latest/scale-to-width-down/180?cb=20220819042857&path-prefix=vi" group-title="国际",HBO家庭
+#EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="国际",HBO家庭
 http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
-#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="https://p.kindpng.com/picc/s/153-1531080_hbo-signature-hbo-signature-logo-hd-png-download.png" group-title="国际",group-title="国际",HBO原创
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="国际",group-title="国际",HBO原创
 http://pull-l3-cny.douyincdn.com/live/9bfb4b08fec367ed3850357a853250d5.m3u8
-#EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="https://www.kindpng.com/picc/m/34-340496_hbo-hits-hd-png-download.png" group-title="国际",group-title="国际",HBO强档
+#EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="国际",group-title="国际",HBO强档
 http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
-#EXTINF:-1 tvg-id="6089" tvg-name="CINEMAX" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/80/Cinemax_Asia_2017.png/revision/latest/scale-to-width-down/210?cb=20220416140520&path-prefix=vi" group-title="国际",CINEMAX
+#EXTINF:-1 tvg-id="6089" tvg-name="CINEMAX" tvg-logo="https://iptv-pro.github.io/logo/CINEMAX.png" group-title="国际",CINEMAX
 http://pull-l3-cny.douyincdn.com/live/af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="国际", group-title="国际",探索频道
 http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f89888.m3u8
@@ -91,7 +91,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225610/index.m3
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225611/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/chongqing.png" group-title="卫视",重庆卫视 
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225612/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/shanxi.png" group-title="卫视",陕西卫视
 http://[2409:8087:5011:1020::2b]/180000001002/00000001000000000090000000215607/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226211/index.m3u8?fmt=ts2hls
