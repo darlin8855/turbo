@@ -45,13 +45,13 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="国际",凤凰香港
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
-#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="国际",HBO高清
+#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="https://iptv-pro.github.io/logo/HBOHD.png" group-title="国际",HBO高清
 https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
-#EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="国际",HBO家庭
+#EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="https://iptv-pro.github.io/logo/HBOFamily.png" group-title="国际",HBO家庭
 http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
-#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="国际",group-title="国际",HBO原创
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="https://iptv-pro.github.io/logo/HBOSign.png" group-title="国际",group-title="国际",HBO原创
 http://pull-l3-cny.douyincdn.com/live/9bfb4b08fec367ed3850357a853250d5.m3u8
-#EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="国际",group-title="国际",HBO强档
+#EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="https://iptv-pro.github.io/logo/HBOHits.png" group-title="国际",group-title="国际",HBO强档
 http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
 #EXTINF:-1 tvg-id="6089" tvg-name="CINEMAX" tvg-logo="https://iptv-pro.github.io/logo/CINEMAX.png" group-title="国际",CINEMAX
 http://pull-l3-cny.douyincdn.com/live/af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8
