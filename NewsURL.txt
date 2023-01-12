@@ -32,6 +32,7 @@ https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 
 中天新闻
+http://www.yshmzmc.top/gtjm.php?id=live1015
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 https://epg.pm/stream/b25d1fa77951f24d82b6f83f0a6eb8e9a9d4f22fc734ff47c86e3ac7a9d3e65a.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ctitv/live
@@ -43,6 +44,7 @@ https://epg.pm/stream/fef1cdf7027f8913d40eed9c39949c004839b08c251fad408cdc47a7e7
 http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
 
 寰宇新闻
+http://tv.redrainl.site:9500/live.m3u8?c=22
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 http://tv.redrainl.site:9500/live.m3u8?c=22
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
