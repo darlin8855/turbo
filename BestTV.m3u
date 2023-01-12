@@ -47,7 +47,7 @@ http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/jswshd8m/8000000/
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/bjwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/anhui.png" group-title="卫视",安徽卫视
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/ahwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/gdwshd8m/8000000/mnf.m3u8
@@ -57,9 +57,9 @@ http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/szwshd8m/8000000/
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hubeiws8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/jxws8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/sichuan.png" group-title="卫视",四川卫视
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/scwshd/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视",重庆卫视
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/chongqing.png" group-title="卫视",重庆卫视
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cqws8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/tjwshd8m/8000000/mnf.m3u8
