@@ -3,29 +3,29 @@ https://nettvpro.live/hls/tvb.php?id=1
 http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
 http://9.zhxinda.xyz/newss.php?id=1
 http://50.7.220.74:8278/inews_twn/playlist.m3u8?tid=m2206a7a6925a&ct=18336&tsum=47d564f6425ee7ceb9ff1ed026f89669
-https://epg.pm/stream/17cd231ecaa64551c900793e3ef920f879669b8d8bec48f66cf617685cbf84c7.ctv
-https://epg.pm/stream/f48eacefe699d644d28babcb6d9df594d0240f6860f5636953abc86a2ba4cb5c.ctv
-https://epg.pm/stream/b03383e89dacf388198d9d94e514c98264245f4fca84fa24dc4b352e37ebe7cc.m3u8
+https://epg.pw/stream/17cd231ecaa64551c900793e3ef920f879669b8d8bec48f66cf617685cbf84c7.ctv
+https://epg.pw/stream/f48eacefe699d644d28babcb6d9df594d0240f6860f5636953abc86a2ba4cb5c.ctv
+https://epg.pw/stream/b03383e89dacf388198d9d94e514c98264245f4fca84fa24dc4b352e37ebe7cc.m3u8
 
 
 有线新闻
 http://livetv.dnsfor.me:80/channel.5.m3u8
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-https://epg.pm/stream/5bfbfa6bced6bff11870cafb34ae94d4753da12274a904df7d50b078ab3ae070.m3u8
-https://epg.pm/stream/c23b8ac82fc1ce0ef11730c5760a49669a54e6131b2e116353ce2b733feda5f7.m3u8
+https://epg.pw/stream/5bfbfa6bced6bff11870cafb34ae94d4753da12274a904df7d50b078ab3ae070.m3u8
+https://epg.pw/stream/c23b8ac82fc1ce0ef11730c5760a49669a54e6131b2e116353ce2b733feda5f7.m3u8
 
 翡翠台
 http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
 http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
-https://epg.pm/stream/6acd509981ab4d222d039762b20ff30cde1f749b274fc2ae3f0de2bc2bb44057.m3u8
+https://epg.pw/stream/6acd509981ab4d222d039762b20ff30cde1f749b274fc2ae3f0de2bc2bb44057.m3u8
 http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
 http://23.237.10.66:16106
 http://23.237.10.66:16410
 
 开电视
 http://livetv.dnsfor.me:80/channel.9.m3u8
-https://epg.pm/stream/9a4e3839edae4bb93f294684d087800834fc0280ad5d38baaab83ea77d898026.m3u8
+https://epg.pw/stream/9a4e3839edae4bb93f294684d087800834fc0280ad5d38baaab83ea77d898026.m3u8
 
 RHK31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
@@ -34,40 +34,40 @@ https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 中天新闻
 http://www.yshmzmc.top/gtjm.php?id=live1015
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-https://epg.pm/stream/b25d1fa77951f24d82b6f83f0a6eb8e9a9d4f22fc734ff47c86e3ac7a9d3e65a.m3u8
+https://epg.pw/stream/b25d1fa77951f24d82b6f83f0a6eb8e9a9d4f22fc734ff47c86e3ac7a9d3e65a.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ctitv/live
 http://50.7.220.74:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0https://epg.pm/stream/110e89a35ec2910044e0d2e67685bd4ed7e6527ed01148840bc1e9e8b436d81b.m3u8
-https://epg.pm/stream/2174ed669076013ca3c592cafa142f03fbe493681c5d4494bc7546602e3acd9f.ctv
-https://epg.pm/stream/fef1cdf7027f8913d40eed9c39949c004839b08c251fad408cdc47a7e758dbf9.m3u8
+https://epg.pw/stream/2174ed669076013ca3c592cafa142f03fbe493681c5d4494bc7546602e3acd9f.ctv
+https://epg.pw/stream/fef1cdf7027f8913d40eed9c39949c004839b08c251fad408cdc47a7e758dbf9.m3u8
 
 东森新闻
 http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
-https://epg.pm/stream/b25d1fa77951f24d82b6f83f0a6eb8e9a9d4f22fc734ff47c86e3ac7a9d3e65a.m3u8
+https://epg.pw/stream/b25d1fa77951f24d82b6f83f0a6eb8e9a9d4f22fc734ff47c86e3ac7a9d3e65a.m3u8
 寰宇新闻
 http://tv.redrainl.site:9500/live.m3u8?c=22
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 http://tv.redrainl.site:9500/live.m3u8?c=22
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
-https://epg.pm/stream/3d8b0c8f11ecf9d9d05599841cca6d22b2fbebf26a88a43c829d31203d8adcf2.ctv
+https://epg.pw/stream/3d8b0c8f11ecf9d9d05599841cca6d22b2fbebf26a88a43c829d31203d8adcf2.ctv
 
 纬来体育
-https://epg.pm/stream/2d7bf1122df08d6c0714ea1c297d57a8af85c934087ef8cdd723f98cdd0afd6e.m3u8
+https://epg.pw/stream/2d7bf1122df08d6c0714ea1c297d57a8af85c934087ef8cdd723f98cdd0afd6e.m3u8
 
 cctv-4K
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K
-https://epg.pm/stream/fc929c62192c401b9db6351a5825b2b4c73f9cc6531727fa465216b528021a82.m3u8
+https://epg.pw/stream/fc929c62192c401b9db6351a5825b2b4c73f9cc6531727fa465216b528021a82.m3u8
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-https://epg.pm/stream/8aa1f75754ecb155af3f104b8264634c871b5a0b9215b17e251f7c5c1e7abd78.m3u8
+https://epg.pw/stream/8aa1f75754ecb155af3f104b8264634c871b5a0b9215b17e251f7c5c1e7abd78.m3u8
 http://live.cooltv.top/tv/aishang.php?id=cctv164k
 
 cctv-13
 http://39.135.138.58:18890/PLTV/88888888/224/3221225638/index.m3u8
 
 cctv-16
-https://epg.pm/stream/a98eca7409827e25a4c46e9f307d5fbee634dd7acedb4909f1ed368f06035693.m3u8
-https://epg.pm/stream/3afe37f11038323e87aad52774f89caa49d316ab32b2f8aab2143030a6ac309a.m3u8
-https://epg.pm/stream/2b35e0b23bdeffb23b127aad1cfb748c9baa1e6047e43e212c9f9b43d2d2f260.m3u8
+https://epg.pw/stream/a98eca7409827e25a4c46e9f307d5fbee634dd7acedb4909f1ed368f06035693.m3u8
+https://epg.pw/stream/3afe37f11038323e87aad52774f89caa49d316ab32b2f8aab2143030a6ac309a.m3u8
+https://epg.pw/stream/2b35e0b23bdeffb23b127aad1cfb748c9baa1e6047e43e212c9f9b43d2d2f260.m3u8
 
 CCTV-1综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 CCTV-1综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
