@@ -39,7 +39,7 @@ http://192.168.2.1:5678/sxg.php?id=CCTV-16-4K_8000
 http://192.168.2.1:5678/sxg.php?id=CCTV-17_4000
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K 超高清
 http://192.168.2.1:5678/sxg.php?id=ys4Kcq_2000
-#EXTINF:-1,tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://github.com/darlin8855/turbo/blob/main/logo/4K%E8%B6%85%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png" group-title="央视",4K超高清电影 4K
+#EXTINF:-1,tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://github.com/darlin8855/turbo/blob/main/logo/4KMOVIE.png" group-title="央视",4K超高清电影 4K
 http://192.168.2.1:5678/sxg.php?id=emdy4k_8000
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="央视",欢笑剧场4K
 http://192.168.2.1:5678/sxg.php?id=hxjc-4k_8000
