@@ -7,4 +7,5 @@
 # 6、上传xxxx.php进去
 # 7、docker run -d --restart unless-stopped --privileged=true -p 5678:80 --name php-env youshandefeiyang/php-env:arm64
 # 8、docker cp /root/test/xxxx.php php-env:/var/www/html/
-# 9、播放地址：http://软路由地址:5678/xxxx.php/http://软路由地址:5678/xxx.php?id=xxx&xx=xxx...
+# 9、播放地址：http://软路由地址:5678/xxxx.php
+#    http://软路由地址:5678/xxx.php?id=xxx&xx=xxx...
