@@ -1,5 +1,5 @@
 # php部署
-1、docker扩容：磁盘管理新增，格式ext4，挂载点新增，uuid选新增盘，挂载给docker ,重启系统
+1、docker扩容：磁盘管理新增，格式ext4，挂载点新增，uuid选新增盘，挂载给docker,下方挂载点打√启用,重启系统
 2、ssh（finalshell）工具连接openwrt
 3、pwd进root文件夹
 4、下方root内新建test文件夹
