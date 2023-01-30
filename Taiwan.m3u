@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png" group-title="新闻",中天新闻
+http://www.yshmzmc.top/gtjm.php?id=live1015
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="新闻",东森新闻
+http://www.yshmzmc.top/gtjm.php?id=live1014
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="新闻",三立新闻
+http://www.yshmzmc.top/gtjm.php?id=live1079
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="新闻",寰宇新闻
+http://www.yshmzmc.top/gtjm.php?id=live1222
+#EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="新闻",壹新闻
+http://www.yshmzmc.top/gtjm.php?id=live1242
+#EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="新闻",年代新闻
+http://www.yshmzmc.top/gtjm.php?id=live1077
+#EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="新闻",CNN
+http://www.yshmzmc.top/gtjm.php?id=live1063
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="https://upload.112114.xyz/logo/Discovery.png" group-title="知识",Discovery
+http://www.yshmzmc.top/gtjm.php?id=live1002
+#EXTINF:-1 tvg-id="6036" tvg-name="国家地理频道(台湾)" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NationalGeographic_taiwan.png" group-title="知识",国家地理频道
+http://www.yshmzmc.top/gtjm.php?id=live1003
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="知识",动物星球
+http://www.yshmzmc.top/gtjm.php?id=live1004
+#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="电影",HBO
+http://www.yshmzmc.top/gtjm.php?id=live1029
+#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="电影",卫视电影台
+http://www.yshmzmc.top/gtjm.php?id=live1031
+#EXTINF:-1 tvg-id="7226" tvg-name="StarMoviesHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="电影",StarMovies gold
+http://www.yshmzmc.top/gtjm.php?id=live1032StarMovies
+#EXTINF:-1 tvg-id="6038" tvg-name="TLC旅游生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tlc.png" group-title="娱乐",TLC
+http://www.yshmzmc.top/gtjm.php?id=live1005
+#EXTINF:-1 tvg-id="6048" tvg-name="三立都会台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png" group-title="娱乐",三立都会台
+http://www.yshmzmc.top/gtjm.php?id=live1020
+#EXTINF:-1 tvg-id="6057" tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="娱乐",中天娱乐
+http://www.yshmzmc.top/gtjm.php?id=live1023
+#EXTINF:-1 tvg-id="6049" tvg-name="卫视中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/卫视中文.png" group-title="娱乐",卫视中文
+http://www.yshmzmc.top/gtjm.php?id=live1024
+#EXTINF:-1 tvg-id="6056" tvg-name="年代MUCH" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%B9%B4%E4%BB%A3MUCH.png" group-title="娱乐",年代MUCH
+http://www.yshmzmc.top/gtjm.php?id=live2002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ghproxy.com/https://github.com/darlin8855/turbo/blob/main/logo/STAR_World.png" group-title="娱乐",star world
+http://www.yshmzmc.top/gtjm.php?id=live1040
+#EXTINF:-1 tvg-id="" tvg-name="MOMO综合台" tvg-logo="https://upload.112114.xyz/logo/MOMO2%E5%8F%B0.png" group-title="娱乐",MOMO综合
+http://www.yshmzmc.top/gtjm.php?id=live1248
+#EXTINF:-1 tvg-id="6045" tvg-name="八大第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="娱乐",八大第一台
+http://www.yshmzmc.top/gtjm.php?id=live1043
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="体育",纬来体育
+http://www.yshmzmc.top/gtjm.php?id=live1011
+#EXTINF:-1 tvg-id="6180" tvg-name="博斯运动一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-sports_net.png" group-title="体育",博斯运动1
+http://www.yshmzmc.top/gtjm.php?id=live1225
+#EXTINF:-1 tvg-id="6093" tvg-name="ELEVEN体育一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="体育",ELEVEN1
+http://www.yshmzmc.top/gtjm.php?id=live1069
+#EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="体育",ELEVEN2
+http://www.yshmzmc.top/gtjm.php?id=live1072
+#EXTINF:-1 tvg-id="708" tvg-name="BabyTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyTV.png" group-title="儿童",BABY TV
+http://www.yshmzmc.top/gtjm.php?id=live1007
+#EXTINF:-1 tvg-id="6043" tvg-name="东森幼幼台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" group-title="儿童",东森幼幼
+http://www.yshmzmc.top/gtjm.php?id=live1008
