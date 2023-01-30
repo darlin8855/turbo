@@ -23,16 +23,16 @@ http://www.yshmzmc.top/gtjm.php?id=live1004
 http://www.yshmzmc.top/gtjm.php?id=live1029
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="电影",卫视电影台
 http://www.yshmzmc.top/gtjm.php?id=live1031
-#EXTINF:-1 tvg-id="7226" tvg-name="StarMoviesHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="电影",StarMovies gold
+#EXTINF:-1 tvg-id="7226" tvg-name="StarMoviesHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="电影",StarMoviesHD
 http://www.yshmzmc.top/gtjm.php?id=live1032StarMovies
+#EXTINF:-1 tvg-id="6049" tvg-name="卫视中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/卫视中文.png" group-title="电影",卫视中文
+http://www.yshmzmc.top/gtjm.php?id=live1024
 #EXTINF:-1 tvg-id="6038" tvg-name="TLC旅游生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tlc.png" group-title="娱乐",TLC
 http://www.yshmzmc.top/gtjm.php?id=live1005
 #EXTINF:-1 tvg-id="6048" tvg-name="三立都会台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png" group-title="娱乐",三立都会台
 http://www.yshmzmc.top/gtjm.php?id=live1020
 #EXTINF:-1 tvg-id="6057" tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="娱乐",中天娱乐
 http://www.yshmzmc.top/gtjm.php?id=live1023
-#EXTINF:-1 tvg-id="6049" tvg-name="卫视中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/卫视中文.png" group-title="娱乐",卫视中文
-http://www.yshmzmc.top/gtjm.php?id=live1024
 #EXTINF:-1 tvg-id="6056" tvg-name="年代MUCH" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%B9%B4%E4%BB%A3MUCH.png" group-title="娱乐",年代MUCH
 http://www.yshmzmc.top/gtjm.php?id=live2002
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ghproxy.com/https://github.com/darlin8855/turbo/blob/main/logo/STAR_World.png" group-title="娱乐",star world
