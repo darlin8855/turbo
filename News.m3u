@@ -1,12 +1,10 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://iptv-pro.github.io/logo/TVB%20Jade.png" group-title="资讯",翡翠台
-https://cdn.hklive.tv/xxxx/81/index.m3u8
+https://epg.pw/stream/7efe1f998522fa3e8cc2034bdec5c4f2f3ef049fd6b08b68ebb176fc8811caa5.ctv
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://iptv-pro.github.io/logo/TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0png.png" group-title="资讯",无线新闻
-https://cdn.hklive.tv/xxxx/83/index.m3u8
+http://192.168.2.1:5678/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="资讯",有线新闻
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
-#EXTINF:-1 tvg-id="4078" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://iptv-pro.github.io/logo/Now%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="资讯",NOW新闻
-http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="https://www.hklive.tv/png_logo/77.png" group-title="资讯",奇妙电视
 https://epg.pw/stream/9a4e3839edae4bb93f294684d087800834fc0280ad5d38baaab83ea77d898026.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="资讯",ViuTV
@@ -30,7 +28,7 @@ http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a8
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="资讯",CNN News
 https://epg.pw/stream/6d810e5ac0c7eadd6c08b7e9b7cf8a68c76d10aa6365f4d8c0b4ac09f26b6fd2.m3u8
 #EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="资讯",纬来体育HD
-https://epg.pw/stream/34bacb19566dbe827d638af842cb8ab472efeb5028a483ddf661dfe7c474b8a1.ctv
+https://epg.pw/stream/6660357d73f0a9709c0844ee4f3c621bfd3fd8965a58a7290b3fbc9eeea727f1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://upload.112114.xyz/logo/CCTV-1.png" group-title="央视",CCTV1
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2
