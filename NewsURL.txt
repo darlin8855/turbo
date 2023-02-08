@@ -21,6 +21,7 @@ https://epg.pw/stream/5bfbfa6bced6bff11870cafb34ae94d4753da12274a904df7d50b078ab
 https://epg.pw/stream/c23b8ac82fc1ce0ef11730c5760a49669a54e6131b2e116353ce2b733feda5f7.m3u8
 
 翡翠台
+https://epg.pw/stream/7efe1f998522fa3e8cc2034bdec5c4f2f3ef049fd6b08b68ebb176fc8811caa5.ctv
 http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
 http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
 https://epg.pw/stream/6acd509981ab4d222d039762b20ff30cde1f749b274fc2ae3f0de2bc2bb44057.m3u8
