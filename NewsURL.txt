@@ -14,7 +14,8 @@ http://livetv.dnsfor.me:80/channel.4.m3u8
 
 凤凰资讯
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?zgangd
-
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
 
 有线新闻
 http://livetv.dnsfor.me:80/channel.5.m3u8
@@ -24,6 +25,7 @@ https://epg.pw/stream/5bfbfa6bced6bff11870cafb34ae94d4753da12274a904df7d50b078ab
 https://epg.pw/stream/c23b8ac82fc1ce0ef11730c5760a49669a54e6131b2e116353ce2b733feda5f7.m3u8
 
 翡翠台
+http://v1.qiantutv.com/stream/719c558c7bbe96c4dc5f404a8c6094b3/index.m3u8
 https://epg.pw/stream/7efe1f998522fa3e8cc2034bdec5c4f2f3ef049fd6b08b68ebb176fc8811caa5.ctv
 http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
 http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
