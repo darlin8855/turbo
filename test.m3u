@@ -1,5 +1,5 @@
-#EXTM3U
 Referrer=http://www.hkkp.cnscn.com
+#EXTM3U
 CCTV1,http://livehkkp.chinamcache.com/live/CCTV-1H265_4000.m3u8
 CCTV2,http://livehkkp.chinamcache.com/live/CCTV-2H265_4000.m3u8
 CCTV3,http://livehkkp.chinamcache.com/live/CCTV-3H265_4000.m3u8
