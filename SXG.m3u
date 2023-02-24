@@ -34,15 +34,15 @@ http://livehkkp.chinamcache.com/live/CCTV-15-yyH265_4000.m3u8|Referer="https://w
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
 http://livehkkp.chinamcache.com/live/CCTV-16_4000.m3u8|Referer="https://web.hkkp.cnscn.com/sltv_html/165/165kds/2439579.shtml"
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 4K
-http://livehkkp.chinamcache.com/live/CCTV-16-4K_8000|Referer="https://web.hkkp.cnscn.com/sltv_html/165/165kds/2439579.shtml"
+http://livehkkp.chinamcache.com/live/CCTV-16-4K_8000.m3u8|Referer="https://web.hkkp.cnscn.com/sltv_html/165/165kds/2439579.shtml"
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://livehkkp.chinamcache.com/live/CCTV-17_4000.m3u8|Referer="https://web.hkkp.cnscn.com/sltv_html/165/165kds/2439579.shtml"
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K 超高清
 http://livehkkp.chinamcache.com/live/ys4Kcq_2000.m3u8|Referer="https://web.hkkp.cnscn.com/sltv_html/165/165kds/2439579.shtml"|Referer="https://web.hkkp.cnscn.com/sltv_html/165/165kds/2439579.shtml"
 #EXTINF:-1,tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://ghproxy.com/https://github.com/darlin8855/turbo/blob/main/logo/4KMOVIE.png" group-title="央视",4K超高清电影 4K
-http://livehkkp.chinamcache.com/live/emdy4k_8000|Referer="https://web.hkkp.cnscn.com/sltv_html/165/165kds/2439579.shtml"
+http://livehkkp.chinamcache.com/live/emdy4k_8000.m3u8|Referer="https://web.hkkp.cnscn.com/sltv_html/165/165kds/2439579.shtml"
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="央视",欢笑剧场4K
-http://livehkkp.chinamcache.com/live/hxjc-4k_8000|Referer="https://web.hkkp.cnscn.com/sltv_html/165/165kds/2439579.shtml"
+http://livehkkp.chinamcache.com/live/hxjc-4k_8000.m3u8|Referer="https://web.hkkp.cnscn.com/sltv_html/165/165kds/2439579.shtml"
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="卫视",凤凰中文
 http://livehkkp.chinamcache.com/live/test1_4000.m3u8|Referer="https://web.hkkp.cnscn.com/sltv_html/165/165kds/2439579.shtml"
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="卫视",凤凰资讯
