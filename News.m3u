@@ -12,11 +12,11 @@ https://cdn.hklive.tv/xxxx/99/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RHK31" tvg-logo="https://iptv-pro.github.io/logo/RTHK31.png" group-title="资讯",港台RHK31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻台" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png" group-title="资讯",中天新闻
-http://192.168.2.1:9000/jmsytb.m3u8?c=3
+https://epg.pw/stream/d531c50acc1306468b44b1655b18ac22a50e1283a717187a9e925892780487e5.ctv
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="https://upload.112114.xyz/logo/TVBSNEWS.png" group-title="资讯",TVBS新闻
 https://epg.pw/stream/b25d1fa77951f24d82b6f83f0a6eb8e9a9d4f22fc734ff47c86e3ac7a9d3e65a.m3u8
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="资讯",寰宇新闻
-http://192.168.2.1:9000/jmsytb.m3u8?c=4
+http://tv.redrainl.site:9500/live.m3u8?c=22
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="资讯",凤凰资讯
 https://epg.pw/stream/ee876b06ee447a595ad8aa10ba6afa3247854d9cbc15d0e7f77db2f240c02da8.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://iptv-pro.github.io/logo/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="资讯",凤凰中文
