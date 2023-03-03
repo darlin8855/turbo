@@ -26,6 +26,7 @@ https://epg.pw/stream/5bfbfa6bced6bff11870cafb34ae94d4753da12274a904df7d50b078ab
 https://epg.pw/stream/c23b8ac82fc1ce0ef11730c5760a49669a54e6131b2e116353ce2b733feda5f7.m3u8
 
 翡翠台
+http://dadiao.akjp.cn:1936/0.m3u8
 http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8
 http://v1.qiantutv.com/stream/719c558c7bbe96c4dc5f404a8c6094b3/index.m3u8
 https://epg.pw/stream/7efe1f998522fa3e8cc2034bdec5c4f2f3ef049fd6b08b68ebb176fc8811caa5.ctv
@@ -45,6 +46,7 @@ https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 
 中天新闻
+http://2023.stream-link.org/playlist/cti_news
 https://epg.pw/stream/d531c50acc1306468b44b1655b18ac22a50e1283a717187a9e925892780487e5.ctv
 https://epg.pw/stream/39d1bda5333c7c710aecd9df8bae36f84694014cbf55ab3bcd7b7e45f46fc0e6.m3u8
 https://epg.pw/stream/a6a88feb2408d3ce274664993c05fa9313c5d1816b688ccaea69df2e8fd29ead.m3u8
@@ -62,6 +64,7 @@ https://epg.pw/stream/fef1cdf7027f8913d40eed9c39949c004839b08c251fad408cdc47a7e7
 http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
 https://epg.pw/stream/b25d1fa77951f24d82b6f83f0a6eb8e9a9d4f22fc734ff47c86e3ac7a9d3e65a.m3u8
 寰宇新闻
+http://2023.stream-link.org/playlist/global_tw
 http://tv.redrainl.site:9500/live.m3u8?c=22
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 http://tv.redrainl.site:9500/live.m3u8?c=22
