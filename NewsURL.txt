@@ -1,4 +1,5 @@
 无线新闻121.51.249.60
+http://iptv.cooltv.top/tv/tvb.php?id=0
 https://epg.pw/stream/9680caa2edcb2a263347445674dee3eb7f709d4146bc14152053199056bcc0b2.ctv
 https://cdn.hklive.tv/xxxx/83/index.m3u8
 https://nettvpro.live/hls/tvb.php?id=1
@@ -36,6 +37,9 @@ https://epg.pw/stream/6acd509981ab4d222d039762b20ff30cde1f749b274fc2ae3f0de2bc2b
 http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
 http://23.237.10.66:16106
 http://23.237.10.66:16410
+
+viutv
+http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
 
 开电视
 http://livetv.dnsfor.me:80/channel.9.m3u8
