@@ -12,11 +12,11 @@ https://cdn.hklive.tv/xxxx/99/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RHK31" tvg-logo="https://iptv-pro.github.io/logo/RTHK31.png" group-title="资讯",港台RHK31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻台" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png" group-title="资讯",中天新闻
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1677782253/ei/jJgAZPrROYmCkgaA6IeYCw/ip/13.87.244.194/id/_QbRXRnHMVY.3/source/yt_live_broadcast/requiressl/yes/tx/24472430/txs/24472427%2C24472428%2C24472429%2C24472430%2C24472431%2C24472432%2C24472433/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgW0c6EjIm-DNe7gp51EhhcVfcrYFvCmbkJxvU4hre9BICIAOv3RtM1fzyyUYCWGSv4FICUdihqu89Gy2ATpJzrM1e/file/index.m3u8
+http://192.168.2.1:35455/youtube/_QbRXRnHMVY?quality=1080
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="https://upload.112114.xyz/logo/TVBSNEWS.png" group-title="资讯",TVBS新闻
 https://epg.pw/stream/b25d1fa77951f24d82b6f83f0a6eb8e9a9d4f22fc734ff47c86e3ac7a9d3e65a.m3u8
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="资讯",寰宇新闻
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1677782255/ei/j5gAZJL6JYiSkgbHiIiQDw/ip/13.87.244.194/id/B7Zp3d6xXWw.7/source/yt_live_broadcast/requiressl/yes/tx/24472427/txs/24472427%2C24472428%2C24472429%2C24472430%2C24472431%2C24472432%2C24472433/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgJBvGC-tV8xFPqSTO-SXNPwtcQNNKeH0ve_zZ63QorPMCIQCIeH3doyxrFKw4e-mYO76Ez5ZaSTgNjDZGyYxcvFwybA%3D%3D/file/index.m3u8
+http://192.168.2.1:35455/youtube/B7Zp3d6xXWw?quality=1080
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="资讯",凤凰资讯
 https://epg.pw/stream/ee876b06ee447a595ad8aa10ba6afa3247854d9cbc15d0e7f77db2f240c02da8.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://iptv-pro.github.io/logo/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="资讯",凤凰中文
