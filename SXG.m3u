@@ -45,7 +45,7 @@ http://192.168.2.1:5678/sxg.php?id=emdy4k_8000
 http://192.168.2.1:5678/sxg.php?id=hxjc-4k_8000
 #EXTINF:-1,tvg-id="每日影院" tvg-name="每日影院" tvg-logo="https://epg.112114.xyz/logo/每日影院.png" group-title="影视",CBN每日影院
 http://192.168.2.1:5678/sxg.php?id=mryy_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CBN幸福剧场.png" group-title="影视",CBN幸福剧场
+#EXTINF:-1,tvg-id="幸福剧场" tvg-name="幸福剧场" tvg-logo="https://epg.112114.xyz/logo/CBN幸福剧场.png" group-title="影视",CBN幸福剧场
 http://192.168.2.1:5678/sxg.php?id=xfjc_4000
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="影视",CHC动作电影
 http://192.168.2.1:5678/sxg.php?id=wqCHCdzdyH265_4000
