@@ -27,6 +27,9 @@ https://epg.pw/stream/c23b8ac82fc1ce0ef11730c5760a49669a54e6131b2e116353ce2b733f
 
 翡翠台
 http://dadiao.akjp.cn:1936/0.m3u8
+https://epg.pw/stream/d49993547f5b6618bae7388954cbf26814b5fb6f3c0f737ffc657f25f4d765e3.ctv
+https://epg.pw/stream/e2cb8a38ed8fad750a35ca30e564b9273313e4cfdef0b34fd12dabc94ccefb95.ctv
+https://epg.pw/stream/29bd2ab6b3132577de2f795cc5989fa1f57fa35fa4fab747aad6cfdee15a41ca.ctv
 http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8
 http://v1.qiantutv.com/stream/719c558c7bbe96c4dc5f404a8c6094b3/index.m3u8
 https://epg.pw/stream/7efe1f998522fa3e8cc2034bdec5c4f2f3ef049fd6b08b68ebb176fc8811caa5.ctv
@@ -38,6 +41,8 @@ http://23.237.10.66:16106
 http://23.237.10.66:16410
 
 viutv
+https://epg.pw/stream/b70d8739b4a962d4305f8209352580b8a4f7625e6df542ab8398bceef75b378f.ctv
+https://epg.pw/stream/8bc01d5ea8b0cf7d9ae161cbf1332ad23ba2fa3e31d9f741122c295f7ba6c365.m3u8
 
 开电视
 http://livetv.dnsfor.me:80/channel.9.m3u8
