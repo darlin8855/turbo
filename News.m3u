@@ -6,7 +6,7 @@ http://192.168.2.1:5678/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="资讯",有线新闻
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="https://www.hklive.tv/png_logo/77.png" group-title="资讯",奇妙电视
-https://epg.pw/stream/9a4e3839edae4bb93f294684d087800834fc0280ad5d38baaab83ea77d898026.m3u8
+https://epg.pw/stream/824ac32e8c0563e0a2e8047010f3f2581eca1aa3bc27ae321498eb6b212c88bc.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="资讯",ViuTV
 http://113.110.204.144:8091/stream/channelid/1669546771?ticket=f8c3556755c19a6a6efc4b611a377565509a33ae&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="RHK31" tvg-logo="https://iptv-pro.github.io/logo/RTHK31.png" group-title="资讯",港台RHK31
