@@ -14,7 +14,7 @@ https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻台" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png" group-title="资讯",中天新闻
 http://192.168.2.1:35455/youtube/oIgbl7t0S_w?quality=1080
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="https://upload.112114.xyz/logo/TVBSNEWS.png" group-title="资讯",TVBS新闻
-https://epg.pw/stream/b25d1fa77951f24d82b6f83f0a6eb8e9a9d4f22fc734ff47c86e3ac7a9d3e65a.m3u8
+https://epg.pw/stream/91effcd56e0102c7b365340bbc20b40fdac5bf20348d890e377a0a677ea4bd64.m3u8
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="资讯",寰宇新闻
 http://192.168.2.1:35455/youtube/B7Zp3d6xXWw?quality=1080
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="资讯",凤凰资讯
