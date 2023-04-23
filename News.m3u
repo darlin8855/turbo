@@ -26,7 +26,7 @@ http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="18082" tvg-country="United States" tvg-language="English" tvg-logo="https://iptv-pro.github.io/logo/NBC%20News.png" group-title="资讯",NBC News
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="资讯",CNN News
-https://epg.pw/stream/6d810e5ac0c7eadd6c08b7e9b7cf8a68c76d10aa6365f4d8c0b4ac09f26b6fd2.m3u8
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
 #EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="资讯",纬来体育HD
 https://epg.pw/stream/1373b78ad3906fb14080881dbddc4e64a0d3b931444f5aed4fb51d27baea4f57.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1  
