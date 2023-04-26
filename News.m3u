@@ -8,7 +8,7 @@ https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="https://www.hklive.tv/png_logo/77.png" group-title="资讯",奇妙电视
 https://epg.pw/stream/824ac32e8c0563e0a2e8047010f3f2581eca1aa3bc27ae321498eb6b212c88bc.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="资讯",ViuTV
-http://113.110.204.144:8091/stream/channelid/1669546771?ticket=f8c3556755c19a6a6efc4b611a377565509a33ae&profile=pass
+https://epg.pw/stream/b58c26441482e59be761d6f504eabc4419323df701afdfabca55a237b07b8a89.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RHK31" tvg-logo="https://iptv-pro.github.io/logo/RTHK31.png" group-title="资讯",港台RHK31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻台" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png" group-title="资讯",中天新闻
