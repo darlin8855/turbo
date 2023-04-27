@@ -5,11 +5,11 @@ https://cdn.hklive.tv/xxxx/81/index.m3u8
 http://192.168.2.1:5678/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="资讯",有线新闻
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
-#EXTINF:-1 tvg-id="77" tvg-name="香港开电视" tvg-logo="https://www.hklive.tv/png_logo/77.png" group-title="资讯",奇妙电视
+#EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://www.hklive.tv/png_logo/77.png" group-title="资讯",奇妙电视
 https://cdn.hklive.tv/xxxx/77/index.m3u8
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="资讯",ViuTV
 https://cdn.hklive.tv/xxxx/99/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RHK31" tvg-logo="https://iptv-pro.github.io/logo/RTHK31.png" group-title="资讯",港台RHK31
+#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://iptv-pro.github.io/logo/RTHK31.png" group-title="资讯",港台RHK31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻台" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png" group-title="资讯",中天新闻
 http://192.168.2.1:35455/youtube/oIgbl7t0S_w?quality=1080
