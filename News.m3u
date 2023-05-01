@@ -29,7 +29,7 @@ https://epg.pw/stream/b82d352a148af25dfed67231cb29532242a6b1493c50883a6cc173c337
 https://epg.pw/stream/f7d7570d5c5b9baf276c23c524dfecf3e6516098a9fc31e1d97aff6a5f7ec328.ctv
 #EXTINF:-1,tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main//logo/NHKWORLD.png" group-title="资讯",NHK WORLD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育.png" group-title="资讯",緯來体育HD
+#EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育.png" group-title="资讯",緯來體育HD
 https://epg.pw/stream/1373b78ad3906fb14080881dbddc4e64a0d3b931444f5aed4fb51d27baea4f57.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://upload.112114.xyz/logo/CCTV-1.png" group-title="央视",CCTV-1  
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225642/index.m3u8
