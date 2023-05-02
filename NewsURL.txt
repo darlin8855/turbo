@@ -93,6 +93,7 @@ https://epg.pw/stream/3d8b0c8f11ecf9d9d05599841cca6d22b2fbebf26a88a43c829d31203d
 纬来体育
 https://epg.pw/stream/6660357d73f0a9709c0844ee4f3c621bfd3fd8965a58a7290b3fbc9eeea727f1.m3u8
 https://epg.pw/stream/2d7bf1122df08d6c0714ea1c297d57a8af85c934087ef8cdd723f98cdd0afd6e.m3u8
+http://123.51.230.108:18509/.m3u8
 
 cctv-4K
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K
