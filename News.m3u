@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml","https://epg.hklive.tv"
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://iptv-pro.github.io/logo/TVB%20Jade.png" group-title="资讯",翡翠台
-https://epg.pw/stream/32e4ae9af65495464449144f8ac46bb0c384b67e3252e757547402d54fb08dc1.m3u8
+https://feicui.ntnas.top/live/jixian888221358558854444741889.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="无线新闻" tvg-logo="https://iptv-pro.github.io/logo/TVB无线新闻台png.png" group-title="资讯",無綫新聞
 http://192.168.2.1:5678/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://iptv-pro.github.io/logo/iCABLENewsChannelHD.png" group-title="资讯",有線新聞
