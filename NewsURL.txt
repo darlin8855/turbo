@@ -14,6 +14,11 @@ NOW新闻
 #EXTINF:-1 tvg-id="4078" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://iptv-pro.github.io/logo/Now%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="资讯",NOW新闻
 http://livetv.dnsfor.me:80/channel.4.m3u8
 
+CNN
+https://epg.pw/stream/003b995308e88d6a552e4e61630886fd4ed4b6aef8add431d13bb3b3692f60c7.m3u8
+https://epg.pw/stream/ca19f0061b3733ad9d6cc5384ead6b591770a1fd3a38ec283ac358f376f61d94.m3u8
+https://epg.pw/stream/d3b9918bcc96fd1f4d036cdccccec6dff4e2dc6c6be298b03720da4a74afb3d4.m3u8
+
 BBCWORLDNEWS
 #EXTINF:-1,tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main//logo/BBCWORLDNEWS.png" group-title="其他",BBCWORLDNEWS
 https://epg.pw/stream/e6447f99794cbd68bf5207de89d876fca54c3000ebf3e799f5aca6711be3ec38.m3u8
