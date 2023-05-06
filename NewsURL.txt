@@ -27,6 +27,7 @@ https://epg.pw/stream/e6447f99794cbd68bf5207de89d876fca54c3000ebf3e799f5aca6711b
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NBCNEWS" tvg-name="NBCNEWS" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/nbcnews%20now.png" group-title="资讯",NBC News
+https://epg.pw/stream/b7bb63eeba6bb71d86f120d045f3400ad9e3e076599439b0b1e790d420335f6c.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 
 凤凰
