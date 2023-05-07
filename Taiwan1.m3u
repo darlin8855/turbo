@@ -173,7 +173,7 @@ http://50.7.238.114:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&c
 http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct=19234&tsum=1be724fb8246abfedaf2bd088ec98f03
 #EXTINF:-1,tvg-id="衛視中文" tvg-name="衛視中文" tvg-logo="https://epg.112114.xyz/logo/衛視中文.png" group-title="其他",衛視中文
 http://50.7.238.114:8278/weishichinese_twn/playlist.m3u8?ct=19226&tid=MA8A7894022878940228&tsum=c0323ce59263e0096d4181626874e17c
-#EXTINF:-1,tvg-id="星衛電影" tvg-name="星衛電影" tvg-logo="https://epg.112114.xyz/logo/星衛電影.png" group-title="其他",星衛電影
+#EXTINF:-1,tvg-id="星衛電影" tvg-name="星衛電影" tvg-logo="https://epg.112114.xyz/logo/星卫HD电影.png" group-title="其他",星衛電影 HD
 http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?ct=17874&tid=ma80888ed462f18082236&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
 #EXTINF:-1,tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://epg.112114.xyz/logo/亞洲旅遊台.png" group-title="其他",亞洲旅遊台
 http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?ct=19225&tid=MF2F4967516549675165&tsum=3b56404a8f861c7fef6ac79a798e4a8c
