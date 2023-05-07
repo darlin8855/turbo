@@ -97,7 +97,7 @@ http://50.7.238.114:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=1922
 http://50.7.238.114:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
 #EXTINF:-1,tvg-id="动物星球" tvg-name="动物星球" tvg-logo="https://epg.112114.xyz/logo/动物星球.png" group-title="其他",动物星球
 http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
-#EXTINF:-1,tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://epg.112114.xyz/logo/非凡新聞.png" group-title="其他",非凡新聞
+#EXTINF:-1,tvg-id="非凡新闻台" tvg-name="非凡新闻台" tvg-logo="https://epg.112114.xyz/logo/非凡新聞.png" group-title="其他",非凡新聞
 http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?ct=17874&tid=m050e7aad65f614336734&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 #EXTINF:-1,tvg-id="公視" tvg-name="公視" tvg-logo="https://epg.112114.xyz/logo/公視.png" group-title="其他",公視
 http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
