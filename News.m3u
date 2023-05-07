@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml","https://epg.hklive.tv"
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml,https://epg.hklive.tv"
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://iptv-pro.github.io/logo/TVB%20Jade.png" group-title="资讯",翡翠台
 http://r.jdshipin.com/62WM7
 #EXTINF:-1 tvg-id="83" tvg-name="无线新闻" tvg-logo="https://iptv-pro.github.io/logo/TVB无线新闻台png.png" group-title="资讯",無綫新聞
