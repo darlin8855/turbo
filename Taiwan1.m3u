@@ -75,7 +75,7 @@ http://50.7.238.114:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct
 http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MCEC3596356835963568&ct=19234&tsum=b4f0f6248548de66e4ff5d230c130d1a
 #EXTINF:-1,tvg-id="博斯网球台" tvg-name="博斯网球台" tvg-logo="https://epg.112114.xyz/logo/博斯網球.png" group-title="港澳台",博斯網球
 http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
-#EXTINF:-1,tvg-id="博斯运动二台" tvg-name="博斯运动二台" tvg-logo="https://epg.112114.xyz/logo/博斯運動II.png" group-title="港澳台",博斯運動二台
+#EXTINF:-1,tvg-id="博斯运动二台" tvg-name="博斯运动二台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main//logo/bsyd.png" group-title="港澳台",博斯運動二台
 http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
 #EXTINF:-1,tvg-id="大爱二台" tvg-name="大爱二台" tvg-logo="https://epg.112114.xyz/logo/大愛電視.png" group-title="其他",大愛電視二台
 http://50.7.238.114:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
