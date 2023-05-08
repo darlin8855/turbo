@@ -106,7 +106,7 @@ http://50.7.238.114:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C39444722394447
 #EXTINF:-1,tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main//logo/lxdy.png" group-title="台湾",龍祥電影
 http://50.7.238.114:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
 #EXTINF:-1,tvg-id="美食星球" tvg-name="美食星球" tvg-logo="https://epg.112114.xyz/logo/美食星球.png" group-title="台湾",美食星球
-http://50.7.238.114:8278/foodplanet_twn/playlist.m3u8?tid=MADA1874549618745496&ct=19234&tsum=1a26f3cc623666b6bd2e40d2c16c214d
+http://198.16.100.90:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
 #EXTINF:-1,tvg-id="美亚高清电影台" tvg-name="美亚高清电影台" tvg-logo="https://epg.112114.xyz/logo/美亞電影.png" group-title="台湾",美亞電影
 http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=MFDF2848449728484497&ct=19211&tsum=f65f39620c24fee2e633c4727cc48727
 #EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民視.png" group-title="台湾",民視HD
