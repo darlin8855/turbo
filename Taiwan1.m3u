@@ -105,8 +105,8 @@ http://50.7.238.114:8278/lunghuaidol_twn/playlist.m3u8?tid=MB3B9268047492680474&
 http://50.7.238.114:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
 #EXTINF:-1,tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://epg.112114.xyz/logo/龍華洋片.png" group-title="台湾",龍華洋片
 http://50.7.238.114:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
-#EXTINF:-1,tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main//logo/lxdyt.png" group-title="台湾",龍祥電影
-http://50.7.238.114:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
+#EXTINF:-1,tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main//logo/lxdyt.png" group-title="台湾",龍祥時代
+http://198.16.100.90:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
 #EXTINF:-1,tvg-id="美食星球" tvg-name="美食星球" tvg-logo="https://epg.112114.xyz/logo/美食星球.png" group-title="台湾",美食星球
 http://198.16.100.90:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
 #EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main//logo/mshd.png" group-title="台湾",民視HD
