@@ -5,6 +5,8 @@ http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct
 http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
 #EXTINF:-1,tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/探索頻道.png" group-title="台湾",探索頻道
 http://50.7.238.114:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
+#EXTINF:-1,tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://epg.112114.xyz/logo/DMAX.png" group-title="台湾",探索動力
+http://50.7.238.114:8278/discoveryturbo_twn/playlist.m3u8?tid=MD5D5964869459648694&ct=19225&tsum=a21251b62069dff5c52601a3e4bc4a6d
 #EXTINF:-1,tvg-id="DISCOVERYASIA" tvg-name="DISCOVERYASIA" tvg-logo="https://epg.112114.xyz/logo/DISCOVERYASIA.png" group-title="台湾",探索亞洲
 http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
 #EXTINF:-1,tvg-id="动物星球" tvg-name="动物星球" tvg-logo="https://epg.112114.xyz/logo/ANIMALPLANET.png" group-title="台湾",動物星球
@@ -27,8 +29,6 @@ http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=1
 http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 #EXTINF:-1,tvg-id="好莱坞电影台" tvg-name="好莱坞电影台" tvg-logo="https://epg.112114.xyz/logo/好萊塢電影.png" group-title="台湾",好萊塢電影
 http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
-#EXTINF:-1,tvg-id="星卫HD电影" tvg-name="星卫HD电影" tvg-logo="https://epg.112114.xyz/logo/星卫HD电影.png" group-title="台湾",星衛電影 HD
-http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?ct=17874&tid=ma80888ed462f18082236&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
 #EXTINF:-1,tvg-id="美亚高清电影台" tvg-name="美亚高清电影台" tvg-logo="https://epg.112114.xyz/logo/美亞電影.png" group-title="台湾",美亞電影
 http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=MFDF2848449728484497&ct=19211&tsum=f65f39620c24fee2e633c4727cc48727
 #EXTINF:-1,tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="台湾",BBC World News
