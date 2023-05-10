@@ -13,7 +13,7 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8
 http://r.jdshipin.com/vSJvl
 #EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://epg.112114.xyz/logo/港台31.png" group-title="资讯",港台RTHK31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻台" tvg-logo="https://iptv-pro.github.io/logo/中天新闻.png" group-title="资讯",中天新聞
+#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://iptv-pro.github.io/logo/中天新闻.png" group-title="资讯",中天新聞
 http://192.168.2.1:35455/youtube/oIgbl7t0S_w?quality=1080
 #EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBSNEWS.png" group-title="资讯",TVBS新聞
 http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
