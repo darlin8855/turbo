@@ -11,3 +11,4 @@ DOMAIN-SUFFIX,media.fantv.hk
 DOMAIN-SUFFIX,rthktv31-live.akamaized.net
 DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,tvsuper.com
+IP-CIDR,50.7.238.114,no-resolve
