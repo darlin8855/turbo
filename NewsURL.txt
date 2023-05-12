@@ -35,6 +35,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 资讯,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
 
 有线新闻
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
 http://livetv.dnsfor.me:80/channel.5.m3u8
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
