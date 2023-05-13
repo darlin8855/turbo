@@ -67,8 +67,6 @@ http://cntv.sbs/ipv6?id=CCTV-15-yyH265
 http://cntv.sbs/ipv6?id=CCTV-16-4K_8000
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17
 http://cntv.sbs/ipv6?id=CCTV-17
-#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://live.fanmingming.com/tv/发现之旅.png" group-title="央视",发现之旅
-http://cntv.sbs/ipv6?id=fxzl_2000
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="UHD",CCTV-4K
 http://cntv.sbs/ipv6?id=ys4Kcq_2000
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视",兵器科技
@@ -164,10 +162,6 @@ http://cntv.sbs/ipv6?id=btws
 #EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="卫视",康巴卫视
 http://cntv.sbs/ipv6?id=kbwsH264_2000
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视",三沙卫视
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?fmmv6
-#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="UHD",纯享超清
-http://cntv.sbs/ipv6?id=emdy4k_8000
-#EXTINF:-1 tvg-id="北京IPTV-4K" tvg-name="北京IPTV-4K" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="UHD",北京IPTV-4K
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="UHD",爱上4K
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 #EXTINF:-1 tvg-id="4K试验" tvg-name="4K试验" tvg-logo="https://live.fanmingming.com/tv/hn4k.png" group-title="UHD",河南4K试验
