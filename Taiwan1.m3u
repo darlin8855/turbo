@@ -2,19 +2,13 @@
 #EXTINF:-1,tvg-id="国家地理" tvg-name="国家地理" tvg-logo="https://upload.112114.xyz/logo/NATIONALGEOGRAPHIC.png" group-title="紀實",國家地理
 http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 #EXTINF:-1,tvg-id="国家地理野生" tvg-name="国家地理野生" tvg-logo="https://upload.112114.xyz/logo/NATGEOWILD.png" group-title="紀實",國家地理野生
-http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
+http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
 #EXTINF:-1,tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://upload.112114.xyz/logo/Discovery.png" group-title="紀實",探索頻道
 http://50.7.238.114:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B5177298351772983&ct=19234&tsum=ca4373fe502ea49d281ea1ecdd3531f5
 #EXTINF:-1,tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://epg.112114.xyz/logo/DMAX.png" group-title="紀實",探索動力
 http://50.7.238.114:8278/discoveryturbo_twn/playlist.m3u8?tid=MD5D5964869459648694&ct=19225&tsum=a21251b62069dff5c52601a3e4bc4a6d
-#EXTINF:-1,tvg-id="DISCOVERYASIA" tvg-name="DISCOVERYASIA" tvg-logo="https://epg.112114.xyz/logo/DISCOVERYASIA.png" group-title="紀實",探索亞洲
-http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
 #EXTINF:-1,tvg-id="动物星球" tvg-name="动物星球" tvg-logo="https://epg.112114.xyz/logo/ANIMALPLANET.png" group-title="紀實",動物星球
 http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
-#EXTINF:-1,tvg-id="BBCEARTH" tvg-name="BBCEARTH" tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png" group-title="紀實",BBC Earth
-http://50.7.238.114:8278/bbcearth_twn/playlist.m3u8?tid=MD4D1422738714227387&ct=19254&tsum=2637e4976a40770c852fc6f4f9d2308f
-#EXTINF:-1,tvg-id="BBCLIFESTYLE" tvg-name="BBCLIFESTYLE" tvg-logo="https://epg.112114.xyz/logo/BBCLIFESTYLE.png" group-title="紀實",BBC Lifestyle
-http://198.16.100.90:8278/bbclifestyle_twn/playlist.m3u8?tid=MFCF4299842642998426&ct=19225&tsum=d9cac5a62e5c33574ac9c3e860e01623
 #EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="影視",HBO
 http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 #EXTINF:-1,tvg-id="HBOFAMILY" tvg-name="HBOFAMILY" tvg-logo="https://epg.112114.xyz/logo/HBOFAMILY.png" group-title="影視",HBO 家庭
@@ -24,7 +18,7 @@ http://50.7.238.114:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=1
 #EXTINF:-1,tvg-id="HBOSIGNATURE" tvg-name="HBOSIGNATURE" tvg-logo="https://epg.112114.xyz/logo/HBOSIGNATURE.png" group-title="影視",HBO 原創钜獻
 http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
 #EXTINF:-1,tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://epg.112114.xyz/logo/CINEMAX.png" group-title="影視",Cinemax
-http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
+http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
 #EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" group-title="影視",AXN 台灣
 http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 #EXTINF:-1,tvg-id="好莱坞电影台" tvg-name="好莱坞电影台" tvg-logo="https://epg.112114.xyz/logo/好萊塢電影.png" group-title="影視",好萊塢電影
