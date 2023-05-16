@@ -15,7 +15,7 @@ https://cdn.hklive.tv/xxxx/99/index.m3u8
 https://cdn.hklive.tv/xxxx/31/index.m3u8
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://iptv-pro.github.io/logo/中天新闻.png" group-title="资讯",中天新聞
 http://192.168.2.1:35455/youtube/oIgbl7t0S_w?quality=1080
-#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/TVBSNEWS LIVE.png" group-title="资讯",TVBS新聞
+#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/TVBSNEWS LIVE.png" group-title="资讯",TVBS NEWS
 http://192.168.2.1:35455/youtube/m_dhMSvUCIc?quality=1080
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="资讯",寰宇新聞
 http://192.168.2.1:35455/youtube/B7Zp3d6xXWw?quality=1080
