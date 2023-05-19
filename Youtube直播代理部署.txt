@@ -1,4 +1,0 @@
-docker run -itd --name=jmsytb --network=host curlymouse/youtubeproxy
-进容器设置重启Unless stopped,192.168.2.1:9000登录，默认的登入密码是 "Curly_MouseIPTV",初次登录系统修改密码！
-初次登录系统需要在主要配置--访问地址点击“识别”，以设置正确的URL。然后点击“保存”。
-频道支持批量添加，添加成功后就能在下方看到添加的频道和固定的m3u订阅链接。
