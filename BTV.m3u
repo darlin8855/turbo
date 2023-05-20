@@ -93,7 +93,7 @@ http://192.168.2.1:5678/bestv.php?id=hainanwshd8m/8000000
 http://192.168.2.1:5678/bestv.php?id=jbtyhd8m/8000000
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="其他",金鹰纪实
 http://192.168.2.1:5678/bestv.php?id=jyjs8m/8000000
-#EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="上海",上海纪实
+#EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="其他",上海纪实
 http://192.168.2.1:5678/bestv.php?id=jspdhd/4000000
 #EXTINF:-1,tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://epg.112114.xyz/logo/上视东方影视.png" group-title="其他",东方影视
 http://192.168.2.1:5678/bestv.php?id=dfyshd8m/8000000
