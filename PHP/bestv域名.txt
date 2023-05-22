@@ -1,0 +1,1 @@
+http://lnbuott-v5-live.bestvcdn.com.cn/live/program/live/'.$n[$id].'/'.$date.'
