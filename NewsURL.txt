@@ -104,6 +104,7 @@ https://epg.pw/stream/2d7bf1122df08d6c0714ea1c297d57a8af85c934087ef8cdd723f98cdd
 http://123.51.230.108:18509/.m3u8
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1
+http://[2409:8087:4402:20:1:1216:401:35]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 http://cntv.sbs/ipv6?id=CCTV-1H265
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2
 http://cntv.sbs/ipv6?id=CCTV-2H265
