@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,https://epg.hklive.tv"
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://iptv-pro.github.io/logo/TVB%20Jade.png" group-title="资讯",翡翠台
 http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
-#EXTINF:-1 tvg-id="83" tvg-name="无线新闻" tvg-logo="https://iptv-pro.github.io/logo/TVB无线新闻台png.png" group-title="资讯",無綫新聞
+#EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://iptv-pro.github.io/logo/TVB无线新闻台png.png" group-title="资讯",無綫新聞
 http://192.168.2.1:5678/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="109" tvg-name="有線 新聞台" tvg-logo="https://iptv-pro.github.io/logo/iCABLENewsChannelHD.png" group-title="资讯",有線新聞
 https://api.leonardpark.dev/live/icable/109
