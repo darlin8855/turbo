@@ -9,7 +9,7 @@ https://api.leonardpark.dev/live/icable/109
 http://cdn.hkdtmb.com/hls/332/index.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/HOYTV.png" group-title="资讯",奇妙電視
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://epg.112114.xyz/logo/viutv.png" group-title="资讯",ViuTV6
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://epg.112114.xyz/logo/viutv6.png" group-title="资讯",ViuTV6
 http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
 #EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://epg.112114.xyz/logo/港台31.png" group-title="资讯",港台RTHK31
 http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
