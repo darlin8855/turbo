@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://iptv-pro.github.io/logo/TVB%20Jade.png" group-title="资讯",翡翠台
 http://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="无线新闻" tvg-logo="https://iptv-pro.github.io/logo/TVB无线新闻台png.png" group-title="资讯",無綫新聞
-http://cdn.hkdtmb.com/hls/83/index.m3u8
+http://192.168.2.1:5678/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="109" tvg-name="有线新闻台" tvg-logo="https://iptv-pro.github.io/logo/iCABLENewsChannelHD.png" group-title="资讯",有線新聞
 http://cdn.hkdtmb.com/hls/109/index.m3u8
 #EXTINF:-1 tvg-id="332" tvg-name="Now 新聞台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/Nownews.png" group-title="资讯",Now新聞台
