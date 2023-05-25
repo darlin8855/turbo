@@ -1,5 +1,5 @@
 无线新闻
-.php?id=0&hq
+http://192.168.2.1:5678/tvb.php?id=0&hq
 121.51.249.60
 http://iptv.cooltv.top/tv/tvb.php?id=0
 https://epg.pw/stream/9680caa2edcb2a263347445674dee3eb7f709d4146bc14152053199056bcc0b2.ctv
