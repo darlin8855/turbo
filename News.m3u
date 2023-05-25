@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://iptv-pro.github.io/logo/TVB%20Jade.png" group-title="资讯",翡翠台
 http://stream.hkanime.live/raw/81.ts?token=sP2DT2O3CA1DaKbgBrQXAg&expires=1728218060
 #EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://iptv-pro.github.io/logo/TVB无线新闻台png.png" group-title="资讯",無綫新聞
-http://stream.hkanime.live/raw/83.ts?token=6zPqP-UKCQjiR28_5ccGZQ&expires=1728218060
+http://192.168.2.1:5678/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="109" tvg-name="有線 新聞台" tvg-logo="https://iptv-pro.github.io/logo/iCABLENewsChannelHD.png" group-title="资讯",有線新聞
 https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 tvg-id="332" tvg-name="Now 新聞台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/Nownews.png" group-title="资讯",Now新聞台
