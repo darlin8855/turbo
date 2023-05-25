@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,https://epg.hklive.tv"
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://iptv-pro.github.io/logo/TVB%20Jade.png" group-title="资讯",翡翠台
-http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
+http://stream.hkanime.live/raw/81.ts?token=sP2DT2O3CA1DaKbgBrQXAg&expires=1728218060
 #EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://iptv-pro.github.io/logo/TVB无线新闻台png.png" group-title="资讯",無綫新聞
-http://192.168.2.1:5678/tvb.php?id=0&hq
+http://stream.hkanime.live/raw/83.ts?token=6zPqP-UKCQjiR28_5ccGZQ&expires=1728218060
 #EXTINF:-1 tvg-id="109" tvg-name="有線 新聞台" tvg-logo="https://iptv-pro.github.io/logo/iCABLENewsChannelHD.png" group-title="资讯",有線新聞
 https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 tvg-id="332" tvg-name="Now 新聞台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/Nownews.png" group-title="资讯",Now新聞台
@@ -10,7 +10,7 @@ http://cdn.hkdtmb.com/hls/332/index.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/HOYTV.png" group-title="资讯",奇妙電視
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://epg.112114.xyz/logo/viutv6.png" group-title="资讯",ViuTV6
-http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
+http://stream.hkanime.live/raw/99.ts?token=nA_3OrmVZ3qqlxY0fQtZvw&expires=1728218060
 #EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://epg.112114.xyz/logo/港台31.png" group-title="资讯",港台電視31
 http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://iptv-pro.github.io/logo/中天新闻.png" group-title="资讯",中天新聞
