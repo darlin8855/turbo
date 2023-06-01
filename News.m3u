@@ -4,7 +4,7 @@ http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&ts
 #EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://iptv-pro.github.io/logo/TVB无线新闻台png.png" group-title="资讯",無綫新聞
 http://192.168.2.1:5678/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/HOYTV.png" group-title="资讯",奇妙電視
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 tvg-id="332" tvg-name="Now 新聞台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/Nownews.png" group-title="资讯",Now新聞台
 http://cdn.hkdtmb.com/hls/332/index.m3u8
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://epg.112114.xyz/logo/viutv.png" group-title="资讯",ViuTV
