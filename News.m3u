@@ -9,6 +9,8 @@ https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/Nownews.png" group-title="资讯",now新聞台
 https://dispatch.ulivetv.net/v/live/cfxqkxoxany8.m3u8?stream_id=cfxqkxoxany8&timestamp=1686646492&rand=6vHmCaxZey&uuid=9b647b3816b2a66a&from=web&sign=2ed789b634c26f70bddb19292d424dbe
+#EXTINF:-1 tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/NowBAOGU.png" group-title="资讯",now爆谷台
+https://dispatch.ulivetv.net/v/live/cmkuxl1hp4n4.m3u8?stream_id=cmkuxl1hp4n4&timestamp=1686725171&rand=3c5Y4hRu6b&uuid=9b647b3816b2a66a&from=web&sign=bc52e6750c54ce5ea8e6b31d4153a846
 #EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/viutv.png" group-title="资讯",ViuTV
 https://dispatch.ulivetv.net/v/live/ccnuwp0ol8zk.m3u8?stream_id=ccnuwp0ol8zk&timestamp=1686224600&rand=aE1Nm9n2F6&uuid=9b647b3816b2a66a&from=web&sign=a082d392fa1e712ad859f7141b982062
 #EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://epg.112114.xyz/logo/港台31.png" group-title="资讯",港台電視31
