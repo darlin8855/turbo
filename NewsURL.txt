@@ -50,6 +50,7 @@ https://epg.pw/stream/5bfbfa6bced6bff11870cafb34ae94d4753da12274a904df7d50b078ab
 https://epg.pw/stream/c23b8ac82fc1ce0ef11730c5760a49669a54e6131b2e116353ce2b733feda5f7.m3u8
 
 翡翠台
+http://nas.jdshipin.com:8801/gudoufc.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1350_4500
 https://epg.pw/stream/32e4ae9af65495464449144f8ac46bb0c384b67e3252e757547402d54fb08dc1.m3u8
 https://feicui.ntnas.top/live/jixian888221358558854444741889.m3u8
 https://epg.pw/stream/1fbab856b95f1ee5eed372ecef4a3c30b658c4e39a73734f0292ce7635ac0248.ctv
