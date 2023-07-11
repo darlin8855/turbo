@@ -9,3 +9,9 @@
 # 8、docker cp /root/test/xxxx.php php-env:/var/www/html/
 # 9、播放地址：http://软路由地址:5678/xxxx.php
 #    http://软路由地址:5678/xxx.php?id=xxx&xx=xxx...
+
+列出docker容器内文件
+docker exec -it php-env ls  
+删除xxx.php
+docker exec -it php-env rm xxx.php  
+docker exec php-env rm /var/www/html/xxx.php
