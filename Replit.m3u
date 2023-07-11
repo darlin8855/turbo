@@ -1,1 +1,3 @@
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/TVBJade.png" group-title="资讯",翡翠台
 http://tvb.jacklam9.repl.co/index.php?id=0&normal=1
