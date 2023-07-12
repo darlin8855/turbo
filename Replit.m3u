@@ -1,4 +1,9 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/TVBJade.png" group-title="资讯",翡翠台
 http://tvb.jacklam9.repl.co/index.php?id=0&normal=1
+#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/ZTXW.png" group-title="资讯",中天新聞
 http://youtube.jacklam9.repl.co/youtube/oIgbl7t0S_w?quality=1080
+#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/TVBSNEWS LIVE.png" group-title="资讯",TVBS NEWS
+http://youtube.jacklam9.repl.co/youtube/m_dhMSvUCIc?quality=1080
+#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="资讯",寰宇新聞
+http://youtube.jacklam9.repl.co/youtube/B7Zp3d6xXWw?quality=1080
