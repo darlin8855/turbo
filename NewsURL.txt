@@ -13,6 +13,7 @@ https://epg.pw/stream/f48eacefe699d644d28babcb6d9df594d0240f6860f5636953abc86a2b
 https://epg.pw/stream/b03383e89dacf388198d9d94e514c98264245f4fca84fa24dc4b352e37ebe7cc.m3u8
 
 NOW新闻
+http://sc2022.stream-link.org/tv2306.php?id=c03
 #EXTINF:-1 tvg-id="4078" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://iptv-pro.github.io/logo/Now%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="资讯",NOW新闻
 http://livetv.dnsfor.me:80/channel.4.m3u8
 
