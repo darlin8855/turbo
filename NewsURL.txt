@@ -53,6 +53,7 @@ https://epg.pw/stream/c23b8ac82fc1ce0ef11730c5760a49669a54e6131b2e116353ce2b733f
 翡翠台
 http://113.117.74.18:8081/hls/67/index.m3u8
 http://60.208.16.27:1505/gudou.php?id=364&id=1350_4500
+https://epg.pw/stream/72d4915ec44c10747097256e886a068d1b80edf5de9c15573fd0d896b8580858.ctv
 http://nas.jdshipin.com:8801/gudoufc.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1350_4500
 https://epg.pw/stream/32e4ae9af65495464449144f8ac46bb0c384b67e3252e757547402d54fb08dc1.m3u8
 https://feicui.ntnas.top/live/jixian888221358558854444741889.m3u8
@@ -73,10 +74,6 @@ http://23.237.10.66:16410
 
 viutv
 https://epg.pw/stream/e75064964d8deac20e6e137a40e2c59b10104b50986230c89c0bf57a58887a3e.ctv
-
-开电视
-http://livetv.dnsfor.me:80/channel.9.m3u8
-https://epg.pw/stream/9a4e3839edae4bb93f294684d087800834fc0280ad5d38baaab83ea77d898026.m3u8
 
 RHK31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
