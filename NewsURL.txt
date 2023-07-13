@@ -72,8 +72,7 @@ http://23.237.10.66:16106
 http://23.237.10.66:16410
 
 viutv
-https://epg.pw/stream/b70d8739b4a962d4305f8209352580b8a4f7625e6df542ab8398bceef75b378f.ctv
-https://epg.pw/stream/8bc01d5ea8b0cf7d9ae161cbf1332ad23ba2fa3e31d9f741122c295f7ba6c365.m3u8
+https://epg.pw/stream/e75064964d8deac20e6e137a40e2c59b10104b50986230c89c0bf57a58887a3e.ctv
 
 开电视
 http://livetv.dnsfor.me:80/channel.9.m3u8
