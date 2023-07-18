@@ -19,9 +19,9 @@ http://youtube.jacklam9.repl.co/youtube/oIgbl7t0S_w?quality=1080
 http://youtube.jacklam9.repl.co/youtube/m_dhMSvUCIc?quality=1080
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="资讯",寰宇新聞
 http://youtube.jacklam9.repl.co/youtube/B7Zp3d6xXWw?quality=1080
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="资讯",凤凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="资讯",鳳凰中文
 http://sxg.jacklam9.repl.co/index.php?id=test1_4000
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="资讯",凤凰资讯
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="资讯",鳳凰資訊
 http://sxg.jacklam9.repl.co/index.php?id=test2_4000
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://upload.112114.xyz/logo/CCTV-1.png" group-title="央视",CCTV-1 综合
 http://sxg.jacklam9.repl.co/index.php?id=CCTV-1H265_4000
