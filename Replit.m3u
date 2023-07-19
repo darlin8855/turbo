@@ -25,7 +25,7 @@ http://sxg.jacklam9.repl.co/index.php?id=test1_4000
 http://sxg.jacklam9.repl.co/index.php?id=test2_4000
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://upload.112114.xyz/logo/CCTV-1.png" group-title="央视",CCTV-1 综合
 http://sxg.jacklam9.repl.co/index.php?id=CCTV-1H265_4000
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2 财经
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2 财经
 http://sxg.jacklam9.repl.co/index.php?id=CCTV-2H265_4000
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3 综艺
 http://sxg.jacklam9.repl.co/index.php?id=CCTV-3H265_4000
@@ -55,9 +55,9 @@ http://sxg.jacklam9.repl.co/index.php?id=CCTV-xw_4000
 http://sxg.jacklam9.repl.co/index.php?id=CCTV-14H265_4000
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV-15 音乐
 http://sxg.jacklam9.repl.co/index.php?id=CCTV-15-yyH265_4000
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
 http://sxg.jacklam9.repl.co/index.php?id=CCTV-16_4000
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 4K
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 4K
 http://sxg.jacklam9.repl.co/index.php?id=CCTV-16-4K_8000
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://sxg.jacklam9.repl.co/index.php?id=CCTV-17_4000
