@@ -31,7 +31,7 @@ http://sxg.jacklam9.repl.co/index.php?id=CCTV-2H265_4000
 http://sxg.jacklam9.repl.co/index.php?id=CCTV-3H265_4000
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4 中文国际
 http://sxg.jacklam9.repl.co/index.php?id=CCTV-4H265_4000
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5 体育
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 体育
 http://sxg.jacklam9.repl.co/index.php?id=CCTV-5H265_4000
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
 http://sxg.jacklam9.repl.co/index.php?id=CCTV-5plusH265_4000
