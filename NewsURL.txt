@@ -13,6 +13,7 @@ https://epg.pw/stream/f48eacefe699d644d28babcb6d9df594d0240f6860f5636953abc86a2b
 https://epg.pw/stream/b03383e89dacf388198d9d94e514c98264245f4fca84fa24dc4b352e37ebe7cc.m3u8
 
 NOW新闻
+https://epg.pw/stream/0a4ead1b4422af9a3745462f9f0e345ab888d3418bacbf3034984c37b298c880.ctv
 http://sc2022.stream-link.org/tv2306.php?id=c03
 #EXTINF:-1 tvg-id="4078" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://iptv-pro.github.io/logo/Now%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="资讯",NOW新闻
 http://livetv.dnsfor.me:80/channel.4.m3u8
@@ -73,7 +74,7 @@ http://23.237.10.66:16106
 http://23.237.10.66:16410
 
 viutv
-https://epg.pw/stream/e75064964d8deac20e6e137a40e2c59b10104b50986230c89c0bf57a58887a3e.ctv
+https://epg.pw/stream/8364f173f45162eb4dda2149f59a9e84544fe18360b5f998512210bfca8211a4.ctv
 
 RHK31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
