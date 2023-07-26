@@ -1,4 +1,1 @@
-tencent-ipv6-live.bestvcdn.com.cn
-newpublic.livev5.bestvcdn.com.cn
-/live/program/live/'.$n[$id].'/'.$date.'
-$stream = "http://tencent-ipv6-live.bestvcdn.com.cn/key/live/program/live/{$array[0]}/{$array[1]}/"
+$stream = "http://newpublic.livev5.bestvcdn.com.cn/key/live/program/live/{$array[0]}/{$array[1]}/"
