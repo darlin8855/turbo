@@ -1,1 +1,4 @@
-http://lnbuott-v5-live.bestvcdn.com.cn/live/program/live/'.$n[$id].'/'.$date.'
+tencent-ipv6-live.bestvcdn.com.cn
+newpublic.livev5.bestvcdn.com.cn
+/live/program/live/'.$n[$id].'/'.$date.'
+$stream = "http://tencent-ipv6-live.bestvcdn.com.cn/key/live/program/live/{$array[0]}/{$array[1]}/"
