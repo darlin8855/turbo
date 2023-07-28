@@ -61,7 +61,7 @@ http://sxg.jacklam9.repl.co/index.php?id=CCTV-16_4000
 http://sxg.jacklam9.repl.co/index.php?id=CCTV-16-4K_8000
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://sxg.jacklam9.repl.co/index.php?id=CCTV-17_4000
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K 超高清
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV-4K 超高清
 http://sxg.jacklam9.repl.co/index.php?id=ys4Kcq_2000
 #EXTINF:-1,tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/4KMOVIE.png" group-title="影视",4K超高清电影 4K
 http://sxg.jacklam9.repl.co/index.php?id=emdy4k_8000
