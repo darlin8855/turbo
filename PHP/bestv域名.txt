@@ -1,1 +1,1 @@
-$stream = "http://newpublic.livev5.bestvcdn.com.cn/key/live/program/live/{$array[0]}/{$array[1]}/"
+$stream = "http://cqby.live.bestvcdn.com.cn/live/program/live/{$array[0]}/{$array[1]}/"
