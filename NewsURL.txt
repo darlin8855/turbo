@@ -19,6 +19,7 @@ http://sc2022.stream-link.org/tv2306.php?id=c03
 http://livetv.dnsfor.me:80/channel.4.m3u8
 
 CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 https://epg.pw/stream/003b995308e88d6a552e4e61630886fd4ed4b6aef8add431d13bb3b3692f60c7.m3u8
 https://epg.pw/stream/ca19f0061b3733ad9d6cc5384ead6b591770a1fd3a38ec283ac358f376f61d94.m3u8
 https://epg.pw/stream/d3b9918bcc96fd1f4d036cdccccec6dff4e2dc6c6be298b03720da4a74afb3d4.m3u8
