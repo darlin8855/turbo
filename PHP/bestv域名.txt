@@ -1,1 +1,5 @@
 $stream = "http://cqby.live.bestvcdn.com.cn/live/program/live/{$array[0]}/{$array[1]}/"
+shuhuohb.live51.test.bestvcdn.com.cn
+shuhuohbbak.live51.bestvcdn.com.cn
+cqby.live.bestvcdn.com.cn
+test-cos-tencent.bestvcdn.com.cn
