@@ -144,6 +144,20 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001347/index.m3
 #EXTINF:-1,黑龙江卫视-极清
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+custom_proxy_group=🇭🇰 香港节点A`url-test`(🇭🇰 亚洲)`http://www.gstatic.com/generate_204`300,,50
+custom_proxy_group=🇭🇰 香港节点B`url-test`(🇭🇰 香港0)`http://www.gstatic.com/generate_204`300,,50
+custom_proxy_group=🇭🇰 香港节点C`url-test`(GLaDOS-HK)`http://www.gstatic.com/generate_204`300,,50
+custom_proxy_group=🇯🇵 日本节点A`url-test`(🇯🇵 亚洲)`http://www.gstatic.com/generate_204`300,,50
+custom_proxy_group=🇯🇵 日本节点B`url-test`(🇯🇵 日本0)`http://www.gstatic.com/generate_204`300,,50
+custom_proxy_group=🇯🇵 日本节点C`url-test`(GLaDOS-JP)`http://www.gstatic.com/generate_204`300,,50
+custom_proxy_group=🇺🇲 美国节点A`url-test`(🇺🇸 美洲)`http://www.gstatic.com/generate_204`300,,150
+custom_proxy_group=🇺🇲 美国节点B`url-test`(🇺🇸 美国0)`http://www.gstatic.com/generate_204`300,,150
+custom_proxy_group=🇺🇲 美国节点C`url-test`(GLaDOS-US)`http://www.gstatic.com/generate_204`300,,150
+custom_proxy_group=🇨🇳 台湾节点A`url-test`(🇨🇳 亚洲 | 台湾A|🇨🇳 亚洲 | 台湾B|🇨🇳 亚洲 | 台湾C|🇨🇳 亚洲 | 台湾D)`http://www.gstatic.com/generate_204`300,,50
+custom_proxy_group=🇨🇳 台湾节点B`url-test`(🇨🇳 台湾0)`http://www.gstatic.com/generate_204`300,,50
+custom_proxy_group=🇸🇬 狮城节点A`url-test`(🇸🇬 亚洲)`http://www.gstatic.com/generate_204`300,,50
+custom_proxy_group=🇸🇬 狮城节点B`url-test`(🇸🇬 新加坡0)`http://www.gstatic.com/generate_204`300,,50
+custom_proxy_group=🇸🇬 狮城节点C`url-test`(GLaDOS-SG)`http://www.gstatic.com/generate_204`300,,50
 
 #EXTINF:-1,cctv1
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
