@@ -80,6 +80,7 @@ http://23.237.10.66:16410
 
 viutv
 http://119.136.122.68:8000/bysid/99
+http://107.167.12.58:27347/livehttpplay?channel_id=30032
 https://epg.pw/stream/8364f173f45162eb4dda2149f59a9e84544fe18360b5f998512210bfca8211a4.ctv
 
 RHK31
