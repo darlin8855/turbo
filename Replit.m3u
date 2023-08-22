@@ -10,7 +10,7 @@ https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/Nownews.png" group-title="资讯",Now新聞台
 https://sc2022.stream-link.org/tv2306.php?id=h08
 #EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/viutv.png" group-title="资讯",ViuTV
-http://107.167.12.58:27347/livehttpplay?channel_id=20131
+https://epg.pw/stream/e75064964d8deac20e6e137a40e2c59b10104b50986230c89c0bf57a58887a3e.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://epg.112114.xyz/logo/港台31.png" group-title="资讯",港台電視31
 http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/ZTXW.png" group-title="资讯",中天新聞
