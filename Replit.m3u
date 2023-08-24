@@ -65,7 +65,7 @@ http://sxg.jacklam9.repl.co/index.php?id=CCTV-17_4000
 http://sxg.jacklam9.repl.co/index.php?id=ys4Kcq_2000
 #EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://upload.112114.xyz/logo/CCTV8KW.png" group-title="央视",CCTV8K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-#EXTINF:-1,tvg-id="BTV科教" tvg-name="BTV科教" tvg-logo="https://epg.112114.xyz/logo/BTV科教.png" group-title="影视",BRTV纪实科教8K
+#EXTINF:-1,tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://epg.112114.xyz/logo/BTV科教.png" group-title="影视",BRTV纪实科教8K
 http://bj8k.jacklam9.repl.co/index.php?id=brtv8k
 #EXTINF:-1,tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/4KMOVIE.png" group-title="影视",4K超高清电影 4K
 http://sxg.jacklam9.repl.co/index.php?id=emdy4k_8000
