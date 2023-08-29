@@ -1,0 +1,28 @@
+<?php
+date_default_timezone_set('Asia/Shanghai');
+$ip = $_GET['ip'];
+$id = $_GET['id'] ?? 'cctv1hd8m/8000000';
+$domain = "http://{$ip}";
+$date = date('YmdH');
+$timestamp = intval((time() - 50) / 10);
+$stream = "{$domain}/live/program/live/{$id}/{$date}/";
+$current = "#EXTM3U" . PHP_EOL;
+$current .= "#EXT-X-VERSION:3" . PHP_EOL;
+$current .= "#EXT-X-TARGETDURATION:3" . PHP_EOL;
+$current .= "#EXT-X-MEDIA-SEQUENCE:{$timestamp}" . PHP_EOL;
+for ($i = 0; $i < 3; $i++) {
+    $current .= "#EXTINF:10.000," . PHP_EOL;
+    $current .= $stream . $timestamp . ".ts" . PHP_EOL;
+    $timestamp = $timestamp + 1;
+}
+header("Content-Type: application/vnd.apple.mpegurl");
+header("Content-Disposition: inline; filename=mnf.m3u8");
+echo $current;
+?>
+
+百事通测试可用IP和频道的PHP代码示例。
+参数：
+ip=可用域名或前置IP+域名
+id=频道ID
+使用示例：
+海峡卫视, http://pi.0472.org/bst.php?ip=110.80.139.96/liveplay-kk.rtxapp.com&id=hxwshd4m/4000000
