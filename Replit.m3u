@@ -17,8 +17,8 @@ https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 http://youtube.jacklam9.repl.co/youtube/oIgbl7t0S_w?quality=1080
 #EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/DSXWHD.png" group-title="资讯",東森新聞
 http://youtube.jacklam9.repl.co/youtube/S5WOGu2HSes?quality=1080
-#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/TVBSNEWS LIVE.png" group-title="资讯",TVBS NEWS
-http://youtube.jacklam9.repl.co/youtube/m_dhMSvUCIc?quality=1080
+#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/TVBSNEWS LIVE.png" group-title="资讯",TVBS新聞
+http://youtube.jacklam9.repl.co/youtube/2mCSYvcfhtc?quality=1080
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="资讯",鳳凰中文
 http://sxg.jacklam9.repl.co/index.php?id=test1_4000
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="资讯",鳳凰資訊
