@@ -14,11 +14,11 @@ https://epg.pw/stream/8364f173f45162eb4dda2149f59a9e84544fe18360b5f998512210bfca
 #EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://epg.112114.xyz/logo/港台31.png" group-title="资讯",港台電視31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/ZTXW.png" group-title="资讯",中天新聞
-http://youtube.jacklam9.repl.co/youtube/oIgbl7t0S_w?quality=1080
+https://darlin8855.vercel.app/live/youtube/oIgbl7t0S_w
 #EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/DSXWHD.png" group-title="资讯",東森新聞
-http://youtube.jacklam9.repl.co/youtube/S5WOGu2HSes?quality=1080
+https://darlin8855.vercel.app/live/youtube/S5WOGu2HSes?quality=1080
 #EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/TVBSNEWS.png" group-title="资讯",TVBS新聞
-http://youtube.jacklam9.repl.co/youtube/2mCSYvcfhtc?quality=1080
+https://darlin8855.vercel.app/live/youtube/2mCSYvcfhtc?quality=1080
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="资讯",鳳凰中文
 http://sxg.jacklam9.repl.co/index.php?id=test1_4000
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="资讯",鳳凰資訊
