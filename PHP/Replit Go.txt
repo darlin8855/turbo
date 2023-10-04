@@ -1,4 +1,4 @@
-1: rm -rf ./main && rm -rf ./main.go && rm -rf ./go.mod
-2: git clone https://github.com/youshandefeiyang/LiveRedirect.git
-3: mv ./LiveRedirect/Golang/* ./
-4: rm -rf ./LiveRedirect/
+rm -rf ./main && rm -rf ./main.go && rm -rf ./go.mod
+git clone https://github.com/youshandefeiyang/LiveRedirect.git
+mv ./LiveRedirect/Golang/* ./
+rm -rf ./LiveRedirect/
