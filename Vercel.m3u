@@ -25,10 +25,6 @@ https://youtube-live.vercel.app/live/youtube/6IquAgfvYmc?quality=1080
 https://myphp-live.vercel.app/api/sxg.php?id=test1_4000
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="资讯",鳳凰資訊
 https://myphp-live.vercel.app/api/sxg.php?id=test2_4000
-#EXTINF:-1,tvg-id="国家地理" tvg-name="国家地理" tvg-logo="https://upload.112114.xyz/logo/NATIONALGEOGRAPHIC.png" group-title="紀錄",國家地理
-https://youtube-live.vercel.app/live/youtube/gsA3-3_Cl8s?quality=1080
-#EXTINF:-1,tvg-id="国家地理野生" tvg-name="国家地理野生" tvg-logo="https://upload.112114.xyz/logo/NATGEOWILD.png" group-title="紀錄",國家地理野生
-https://youtube-live.vercel.app/live/youtube/XZ7BWbmvi94?quality=1080
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
 https://myphp-live.vercel.app/api/sxg.php?id=CCTV-1H265_4000
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2 财经
