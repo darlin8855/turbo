@@ -1,3 +1,15 @@
+北京8K
+http://tv.328326.com/iptv/tvzb97.php?id=brtv8k    //纪实科教8K
+http://tv.328326.com/iptv/tvzb97.php?id=bjws      //北京卫视
+http://tv.328326.com/iptv/tvzb97.php?id=bjjskj     //北京纪实科教
+http://tv.328326.com/iptv/tvzb97.php?id=bjys     //北京影视
+http://tv.328326.com/iptv/tvzb97.php?id=bjcj   //北京财 经
+http://tv.328326.com/iptv/tvzb97.php?id=kkse  //卡酷少儿
+http://tv.328326.com/iptv/tvzb97.php?id=bjwy  //北京文艺
+http://tv.328326.com/iptv/tvzb97.php?id=bjsh  //北京生活
+http://tv.328326.com/iptv/tvzb97.php?id=bjxw   //北京新闻
+http://tv.328326.com/iptv/tvzb97.php?id=bjtyxx  //北京体育休闲
+
 无线新闻
 http://223.17.122.142:9981/stream/channelid/2051586642?ticket=e395056cd15ba87e3becdfcc4b4a70c183d94321&profile=pass
 http://tvb.jacklam9.repl.co/index.php?id=0&hq
