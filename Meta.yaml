@@ -87,22 +87,62 @@ dns:
 
 proxies:
   - {"name":"US1","type":"vless","server":"www.visa.com","port":8880,"uuid":"4ea59441-3912-4df5-a795-29c39eba1918","tls":false,"servername":"proxy.52862231.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"proxy.52862231.workers.dev"}}}
-  - {"name":"亚洲 | 香港A","type":"vmess","server":"jsm.cm.go002.xyz","port":39111,"cipher":"auto","uuid":"dc7a4bbd-1d22-3d5a-921b-fb70201cff75","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"亚洲 | 香港B","type":"vmess","server":"jsm.cm.go002.xyz","port":39112,"cipher":"auto","uuid":"dc7a4bbd-1d22-3d5a-921b-fb70201cff75","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"亚洲 | 香港C","type":"vmess","server":"jsm.ct1.go002.xyz","port":39121,"cipher":"auto","uuid":"dc7a4bbd-1d22-3d5a-921b-fb70201cff75","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"亚洲 | 香港BGP","type":"vmess","server":"jsm.cn1.go002.xyz","port":39131,"cipher":"auto","uuid":"dc7a4bbd-1d22-3d5a-921b-fb70201cff75","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"US2","type":"vless","server":"www.visa.com.hk","port":8880,"uuid":"107d74c8-1062-4874-ab45-1d0517df0993","tls":false,"servername":"stream.52862231.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"stream.52862231.workers.dev"}}}
+  - {"name":"亚洲 | 香港A","type":"vmess","server":"jsm.cm.go002.xyz","port":39111,"cipher":"auto","uuid":"24dd5bde-37bd-3cad-84cc-9fe54d077bdf","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"亚洲 | 香港B","type":"vmess","server":"jsm.cm.go002.xyz","port":39112,"cipher":"auto","uuid":"24dd5bde-37bd-3cad-84cc-9fe54d077bdf","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"亚洲 | 香港C","type":"vmess","server":"jsm.ct1.go002.xyz","port":39121,"cipher":"auto","uuid":"24dd5bde-37bd-3cad-84cc-9fe54d077bdf","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"亚洲 | 香港D","type":"vmess","server":"jsm.ct1.go002.xyz","port":39122,"cipher":"auto","uuid":"24dd5bde-37bd-3cad-84cc-9fe54d077bdf","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"亚洲 | 香港BGP","type":"vmess","server":"jsm.cn1.go002.xyz","port":39131,"cipher":"auto","uuid":"24dd5bde-37bd-3cad-84cc-9fe54d077bdf","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"亚洲 | 台湾A","type":"vmess","server":"jsm.cm.go002.xyz","port":39211,"cipher":"auto","uuid":"24dd5bde-37bd-3cad-84cc-9fe54d077bdf","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"亚洲 | 台湾B","type":"vmess","server":"jsm.cm.go002.xyz","port":39212,"cipher":"auto","uuid":"24dd5bde-37bd-3cad-84cc-9fe54d077bdf","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"亚洲 | 台湾C","type":"vmess","server":"jsm.ct1.go002.xyz","port":39221,"cipher":"auto","uuid":"24dd5bde-37bd-3cad-84cc-9fe54d077bdf","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"亚洲 | 台湾D","type":"vmess","server":"jsm.ct1.go002.xyz","port":39222,"cipher":"auto","uuid":"24dd5bde-37bd-3cad-84cc-9fe54d077bdf","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"亚洲 | 日本A","type":"vmess","server":"jsm.cm.go002.xyz","port":39311,"cipher":"auto","uuid":"24dd5bde-37bd-3cad-84cc-9fe54d077bdf","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"亚洲 | 日本B","type":"vmess","server":"jsm.cm.go002.xyz","port":39312,"cipher":"auto","uuid":"24dd5bde-37bd-3cad-84cc-9fe54d077bdf","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"亚洲 | 日本C","type":"vmess","server":"jsm.ct1.go002.xyz","port":39321,"cipher":"auto","uuid":"24dd5bde-37bd-3cad-84cc-9fe54d077bdf","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"亚洲 | 日本D","type":"vmess","server":"jsm.ct1.go002.xyz","port":39322,"cipher":"auto","uuid":"24dd5bde-37bd-3cad-84cc-9fe54d077bdf","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"亚洲 | 新加坡A","type":"vmess","server":"jsm.cm.go002.xyz","port":39411,"cipher":"auto","uuid":"24dd5bde-37bd-3cad-84cc-9fe54d077bdf","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"亚洲 | 新加坡B","type":"vmess","server":"jsm.cm.go002.xyz","port":39412,"cipher":"auto","uuid":"24dd5bde-37bd-3cad-84cc-9fe54d077bdf","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"亚洲 | 新加坡C","type":"vmess","server":"jsm.ct1.go002.xyz","port":39421,"cipher":"auto","uuid":"24dd5bde-37bd-3cad-84cc-9fe54d077bdf","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"亚洲 | 新加坡D","type":"vmess","server":"jsm.ct1.go002.xyz","port":39422,"cipher":"auto","uuid":"24dd5bde-37bd-3cad-84cc-9fe54d077bdf","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"JP","type":"vless","server":"172.64.111.168","port":8880,"uuid":"f27efacb-6888-4f9b-8380-2f89c780d808","tls":false,"servername":"tokyo.52862231.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"tokyo.52862231.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"HK","type":"vless","server":"162.159.133.217","port":8880,"uuid":"d66f1619-24ac-4149-b9ed-24881107f9de","tls":false,"servername":"speed.52862231.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"speed.52862231.workers.dev"}},"client-fingerprint":"randomized"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
-      - ♻️ 自动选择
       - DIRECT
+      - ♻️ 主线自动
       - US1
+      - US2
       - 亚洲 | 香港A
       - 亚洲 | 香港B
       - 亚洲 | 香港C
+      - 亚洲 | 香港D
       - 亚洲 | 香港BGP
-  - name: ♻️ 自动选择
+      - 亚洲 | 台湾A
+      - 亚洲 | 台湾B
+      - 亚洲 | 台湾C
+      - 亚洲 | 台湾D
+      - 亚洲 | 日本A
+      - 亚洲 | 日本B
+      - 亚洲 | 日本C
+      - 亚洲 | 日本D
+      - 亚洲 | 新加坡A
+      - 亚洲 | 新加坡B
+      - 亚洲 | 新加坡C
+      - 亚洲 | 新加坡D
+      - HK
+      - JP
+  - name: ♻️ 主线自动
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - US1
+      - US2
+  - name: ♻️ 香港节点
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
@@ -111,60 +151,117 @@ proxy-groups:
       - 亚洲 | 香港A
       - 亚洲 | 香港B
       - 亚洲 | 香港C
+      - 亚洲 | 香港D
       - 亚洲 | 香港BGP
+  - name: ♻️ 台湾节点
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - 亚洲 | 台湾A
+      - 亚洲 | 台湾B
+      - 亚洲 | 台湾C
+      - 亚洲 | 台湾D
+  - name: ♻️ 日本节点
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - 亚洲 | 日本A
+      - 亚洲 | 日本B
+      - 亚洲 | 日本C
+      - 亚洲 | 日本D
+  - name: ♻️ 新加坡节点
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - 亚洲 | 新加坡A
+      - 亚洲 | 新加坡B
+      - 亚洲 | 新加坡C
+      - 亚洲 | 新加坡D
   - name: 🌍 国外媒体
     type: select
     proxies:
-      - 🚀 节点选择
-      - ♻️ 自动选择
-      - 🎯 全球直连
-      - US1
-      - 亚洲 | 香港A
-      - 亚洲 | 香港B
-      - 亚洲 | 香港C
-      - 亚洲 | 香港BGP
+      - DIRECT
+      - ♻️ 主线自动
+      - ♻️ 香港节点
+      - ♻️ 台湾节点
+      - ♻️ 日本节点
+      - ♻️ 新加坡节点
+      - HK
+      - JP
   - name: 📺 TV
     type: select
     proxies:
-      - 🚀 节点选择
-      - ♻️ 自动选择
-      - 🎯 全球直连
+      - DIRECT
+      - ♻️ 主线自动
+      - ♻️ 香港节点
+      - ♻️ 台湾节点
+      - ♻️ 日本节点
+      - ♻️ 新加坡节点
+      - HK
+      - JP
+  - name: 🎞 emby1
+    type: select
+    proxies:
+      - DIRECT
+      - ♻️ 主线自动
+      - ♻️ 香港节点
+      - ♻️ 台湾节点
+      - ♻️ 日本节点
+      - ♻️ 新加坡节点
+      - HK
+      - JP
+  - name: 🎞 emby2
+    type: select
+    proxies:
+      - DIRECT
+      - ♻️ 主线自动
+      - ♻️ 香港节点
+      - ♻️ 台湾节点
+      - ♻️ 日本节点
+      - ♻️ 新加坡节点
+      - HK
+      - JP
   - name: 📲 电报信息
     type: select
     proxies:
-      - 🚀 节点选择
-      - 🎯 全球直连
-      - US1
-      - 亚洲 | 香港A
-      - 亚洲 | 香港B
-      - 亚洲 | 香港C
-      - 亚洲 | 香港BGP
+      - ♻️ 主线自动
+      - ♻️ 香港节点
+      - ♻️ 台湾节点
+      - ♻️ 日本节点
+      - ♻️ 新加坡节点
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
-      - 🎯 全球直连
-      - 🚀 节点选择
-      - US1
-      - 亚洲 | 香港A
-      - 亚洲 | 香港B
-      - 亚洲 | 香港C
-      - 亚洲 | 香港BGP
+      - DIRECT
+      - ♻️ 主线自动
+      - ♻️ 香港节点
+      - ♻️ 台湾节点
+      - ♻️ 日本节点
+      - ♻️ 新加坡节点
   - name: 🍎 苹果服务
     type: select
     proxies:
-      - 🚀 节点选择
-      - 🎯 全球直连
-      - US1
-      - 亚洲 | 香港A
-      - 亚洲 | 香港B
-      - 亚洲 | 香港C
-      - 亚洲 | 香港BGP
+      - DIRECT
+      - ♻️ 主线自动
+      - ♻️ 香港节点
+      - ♻️ 台湾节点
+      - ♻️ 日本节点
+      - ♻️ 新加坡节点
   - name: 🎯 全球直连
     type: select
     proxies:
       - DIRECT
-      - 🚀 节点选择
-      - ♻️ 自动选择
+      - ♻️ 主线自动
+      - ♻️ 香港节点
+      - ♻️ 台湾节点
+      - ♻️ 日本节点
+      - ♻️ 新加坡节点
   - name: 🛑 全球拦截
     type: select
     proxies:
@@ -178,14 +275,12 @@ proxy-groups:
   - name: 🐟 漏网之鱼
     type: select
     proxies:
-      - 🚀 节点选择
-      - 🎯 全球直连
-      - ♻️ 自动选择
-      - US1
-      - 亚洲 | 香港A
-      - 亚洲 | 香港B
-      - 亚洲 | 香港C
-      - 亚洲 | 香港BGP
+      - DIRECT
+      - ♻️ 主线自动
+      - ♻️ 香港节点
+      - ♻️ 台湾节点
+      - ♻️ 日本节点
+      - ♻️ 新加坡节点
 
 rules:
 # 本地/局域网地址
@@ -225,6 +320,28 @@ rules:
   - DOMAIN-SUFFIX,tendawifi.com,🎯 全球直连
   - DOMAIN-SUFFIX,zte.home,🎯 全球直连
   - DOMAIN-SUFFIX,tplogin.cn,🎯 全球直连
+# TV+emby
+  - DOMAIN-SUFFIX,i-cable.com,📺 TV
+  - DOMAIN-SUFFIX,repl.co,♻️ 主线自动
+  - DOMAIN-SUFFIX,hoytv-live-stream.hoy.tv,📺 TV
+  - DOMAIN-SUFFIX,media.fantv.hk,📺 TV
+  - DOMAIN-SUFFIX,rthktv31-live.akamaized.net,📺 TV
+  - DOMAIN-SUFFIX,tvb.com,📺 TV
+  - DOMAIN-SUFFIX,tvsuper.com,📺 TV
+  - DOMAIN-SUFFIX,vercel.app,♻️ 主线自动
+  - DOMAIN-SUFFIX,stream-link.org,📺 TV
+  - DOMAIN-SUFFIX,epg.pw,📺 TV
+  - DOMAIN-SUFFIX,livednow.com,📺 TV
+  - DOMAIN-SUFFIX,hkdvb.com,📺 TV
+  - DOMAIN-SUFFIX,hinet.net,📺 TV
+  - DOMAIN-SUFFIX,cnstream.top,📺 TV
+  - DOMAIN-SUFFIX,stream-link.online,📺 TV
+  - DOMAIN-SUFFIX,embymv.tk,🎞 emby1
+  - DOMAIN-SUFFIX,cf.otv.icu,🎞 emby1
+  - DOMAIN-SUFFIX,charontv.com,🎞 emby2
+  - DOMAIN-SUFFIX,emby.carlos.trade,🎞 emby2
+  - DOMAIN-SUFFIX,789.123456.al,🎯 全球直连
+  - DOMAIN-SUFFIX,de.ddns.me,🎯 全球直连
 # 本碎片只包含常见广告关键字、广告联盟。无副作用，放心使用
 # 广告关键词
 # 广告联盟-国内****************
@@ -2442,23 +2559,6 @@ rules:
 #   - USER-AGENT,YouTubeMusic*,🌍 国外媒体
 #   - USER-AGENT,com.google.ios.youtubemusic*,🌍 国外媒体
   - DOMAIN,music.youtube.com,🌍 国外媒体
-# TV+emby
-  - DOMAIN-SUFFIX,i-cable.com,📺 TV
-  - DOMAIN-SUFFIX,repl.co,📺 TV
-  - DOMAIN-SUFFIX,hoytv-live-stream.hoy.tv,📺 TV
-  - DOMAIN-SUFFIX,media.fantv.hk,📺 TV
-  - DOMAIN-SUFFIX,rthktv31-live.akamaized.net,📺 TV
-  - DOMAIN-SUFFIX,tvb.com,📺 TV
-  - DOMAIN-SUFFIX,tvsuper.com,📺 TV
-  - DOMAIN-SUFFIX,vercel.app,📺 TV
-  - DOMAIN-SUFFIX,stream-link.org,📺 TV
-  - DOMAIN-SUFFIX,epg.pw,📺 TV
-  - DOMAIN-SUFFIX,livednow.com,📺 TV
-  - DOMAIN-SUFFIX,hkdvb.com,📺 TV
-  - DOMAIN-SUFFIX,hinet.net,📺 TV
-  - DOMAIN-SUFFIX,cnstream.top,📺 TV
-  - DOMAIN-SUFFIX,stream-link.online,📺 TV
-  - DOMAIN-SUFFIX,otv.icu,📺 TV
 # Telegram
 #PROCESS-NAME,Telegram.exe
 #PROCESS-NAME,org.telegram.messenger
