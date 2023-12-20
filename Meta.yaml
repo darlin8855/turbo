@@ -106,7 +106,7 @@ proxies:
   - {"name":"亚洲 | 新加坡C","type":"vmess","server":"jsm.ct1.go002.xyz","port":39421,"cipher":"auto","uuid":"24dd5bde-37bd-3cad-84cc-9fe54d077bdf","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"亚洲 | 新加坡D","type":"vmess","server":"jsm.ct1.go002.xyz","port":39422,"cipher":"auto","uuid":"24dd5bde-37bd-3cad-84cc-9fe54d077bdf","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"JP","type":"vless","server":"172.64.111.168","port":8880,"uuid":"f27efacb-6888-4f9b-8380-2f89c780d808","tls":false,"servername":"tokyo.52862231.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"tokyo.52862231.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"HK","type":"vless","server":"162.159.133.217","port":8880,"uuid":"d66f1619-24ac-4149-b9ed-24881107f9de","tls":false,"servername":"speed.52862231.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"speed.52862231.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"HK","type":"vless","server":"icook.hk","port":8880,"uuid":"1832273a-5873-4a39-b45f-ce0fb76c3f13","tls":false,"servername":"hk.52862231.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"hk.52862231.workers.dev"}},"client-fingerprint":"randomized"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -227,6 +227,17 @@ proxy-groups:
       - ♻️ 新加坡节点
       - HK
       - JP
+  - name: 🎞 emby3
+    type: select
+    proxies:
+      - DIRECT
+      - ♻️ 主线自动
+      - ♻️ 香港节点
+      - ♻️ 台湾节点
+      - ♻️ 日本节点
+      - ♻️ 新加坡节点
+      - HK
+      - JP
   - name: 📲 电报信息
     type: select
     proxies:
@@ -265,13 +276,13 @@ proxy-groups:
   - name: 🛑 全球拦截
     type: select
     proxies:
-      - REJECT
       - DIRECT
+      - REJECT
   - name: 🍃 应用净化
     type: select
     proxies:
-      - REJECT
       - DIRECT
+      - REJECT
   - name: 🐟 漏网之鱼
     type: select
     proxies:
@@ -283,49 +294,13 @@ proxy-groups:
       - ♻️ 新加坡节点
 
 rules:
-# 本地/局域网地址
-# 参考：https://en.wikipedia.org/wiki/Reserved_IP_addresses
-# ACL4SSR标志 如没有，代表不是用ACL4SSR规则
-# 本地/局域网地址
-# Router managed 路由器管理域名
-  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
-  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
-  - DOMAIN-SUFFIX,ip6-loopback,🎯 全球直连
-  - DOMAIN-SUFFIX,lan,🎯 全球直连
-  - DOMAIN-SUFFIX,local,🎯 全球直连
-  - DOMAIN-SUFFIX,localhost,🎯 全球直连
-  - IP-CIDR,10.0.0.0/8,🎯 全球直连,no-resolve
-  - IP-CIDR,100.64.0.0/10,🎯 全球直连,no-resolve
-  - IP-CIDR,127.0.0.0/8,🎯 全球直连,no-resolve
-  - IP-CIDR,172.16.0.0/12,🎯 全球直连,no-resolve
-  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
-  - IP-CIDR,198.18.0.0/16,🎯 全球直连,no-resolve
-  - IP-CIDR,224.0.0.0/4,🎯 全球直连,no-resolve
-  - IP-CIDR6,::1/128,🎯 全球直连,no-resolve
-  - IP-CIDR6,fc00::/7,🎯 全球直连,no-resolve
-  - IP-CIDR6,fe80::/10,🎯 全球直连,no-resolve
-  - IP-CIDR6,fd00::/8,🎯 全球直连,no-resolve
-  - DOMAIN,instant.arubanetworks.com,🎯 全球直连
-  - DOMAIN,setmeup.arubanetworks.com,🎯 全球直连
-  - DOMAIN,router.asus.com,🎯 全球直连
-  - DOMAIN-SUFFIX,hiwifi.com,🎯 全球直连
-  - DOMAIN-SUFFIX,leike.cc,🎯 全球直连
-  - DOMAIN-SUFFIX,miwifi.com,🎯 全球直连
-  - DOMAIN-SUFFIX,my.router,🎯 全球直连
-  - DOMAIN-SUFFIX,p.to,🎯 全球直连
-  - DOMAIN-SUFFIX,peiluyou.com,🎯 全球直连
-  - DOMAIN-SUFFIX,phicomm.me,🎯 全球直连
-  - DOMAIN-SUFFIX,router.ctc,🎯 全球直连
-  - DOMAIN-SUFFIX,routerlogin.com,🎯 全球直连
-  - DOMAIN-SUFFIX,tendawifi.com,🎯 全球直连
-  - DOMAIN-SUFFIX,zte.home,🎯 全球直连
-  - DOMAIN-SUFFIX,tplogin.cn,🎯 全球直连
+
 # TV+emby
   - DOMAIN-SUFFIX,i-cable.com,📺 TV
   - DOMAIN-SUFFIX,repl.co,♻️ 主线自动
-  - DOMAIN-SUFFIX,hoytv-live-stream.hoy.tv,📺 TV
+  - DOMAIN-SUFFIX,hoy.tv,📺 TV
   - DOMAIN-SUFFIX,media.fantv.hk,📺 TV
-  - DOMAIN-SUFFIX,rthktv31-live.akamaized.net,📺 TV
+  - DOMAIN-SUFFIX,akamaized.net,📺 TV
   - DOMAIN-SUFFIX,tvb.com,📺 TV
   - DOMAIN-SUFFIX,tvsuper.com,📺 TV
   - DOMAIN-SUFFIX,vercel.app,♻️ 主线自动
@@ -338,8 +313,10 @@ rules:
   - DOMAIN-SUFFIX,stream-link.online,📺 TV
   - DOMAIN-SUFFIX,embymv.tk,🎞 emby1
   - DOMAIN-SUFFIX,cf.otv.icu,🎞 emby1
+  - DOMAIN-SUFFIX,cherry.one,🎞 emby1
   - DOMAIN-SUFFIX,charontv.com,🎞 emby2
-  - DOMAIN-SUFFIX,emby.carlos.trade,🎞 emby2
+  - DOMAIN-SUFFIX,emby.carlos.trade,🎞 emby3
+  - DOMAIN-SUFFIX,cf.freetz.top,🎞 emby3
   - DOMAIN-SUFFIX,789.123456.al,🎯 全球直连
   - DOMAIN-SUFFIX,de.ddns.me,🎯 全球直连
 # 本碎片只包含常见广告关键字、广告联盟。无副作用，放心使用
