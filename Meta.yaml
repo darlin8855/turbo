@@ -294,15 +294,7 @@ proxy-groups:
       - ♻️ 新加坡节点
   
 rules:
-rule-providers:
-  livednow:
-    type: http
-    behavior: classical
-    url: https://livednow.com/clash.yaml
-    path: ./livednow.yaml
-    interval: 259200
-rules:
-  - RULE-SET,livednow,♻️ 香港节点
+
 # TV+emby
   - DOMAIN-SUFFIX,i-cable.com,📺 TV
   - DOMAIN-SUFFIX,hoy.tv,📺 TV
