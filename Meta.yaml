@@ -292,25 +292,35 @@ proxy-groups:
       - ♻️ 台湾节点
       - ♻️ 日本节点
       - ♻️ 新加坡节点
-
+  
 rules:
-
+rule-providers:
+  livednow:
+    type: http
+    behavior: classical
+    url: https://livednow.com/clash.yaml
+    path: ./livednow.yaml
+    interval: 259200
+rules:
+  - RULE-SET,livednow,♻️ 香港节点
 # TV+emby
   - DOMAIN-SUFFIX,i-cable.com,📺 TV
-  - DOMAIN-SUFFIX,repl.co,♻️ 主线自动
   - DOMAIN-SUFFIX,hoy.tv,📺 TV
   - DOMAIN-SUFFIX,media.fantv.hk,📺 TV
   - DOMAIN-SUFFIX,akamaized.net,📺 TV
   - DOMAIN-SUFFIX,tvb.com,📺 TV
   - DOMAIN-SUFFIX,tvsuper.com,📺 TV
-  - DOMAIN-SUFFIX,vercel.app,♻️ 主线自动
-  - DOMAIN-SUFFIX,stream-link.org,📺 TV
   - DOMAIN-SUFFIX,epg.pw,📺 TV
   - DOMAIN-SUFFIX,livednow.com,📺 TV
   - DOMAIN-SUFFIX,hkdvb.com,📺 TV
   - DOMAIN-SUFFIX,hinet.net,📺 TV
   - DOMAIN-SUFFIX,cnstream.top,📺 TV
+  - DOMAIN-SUFFIX,stream-link.org,📺 TV
   - DOMAIN-SUFFIX,stream-link.online,📺 TV
+  - DOMAIN-SUFFIX,dtmb-s1.cc,📺 TV
+  - DOMAIN-SUFFIX,dtmb-s2.cc,📺 TV
+  - DOMAIN-SUFFIX,repl.co,♻️ 主线自动
+  - DOMAIN-SUFFIX,vercel.app,♻️ 主线自动
   - DOMAIN-SUFFIX,embymv.tk,🎞 emby1
   - DOMAIN-SUFFIX,cf.otv.icu,🎞 emby1
   - DOMAIN-SUFFIX,cherry.one,🎞 emby1
