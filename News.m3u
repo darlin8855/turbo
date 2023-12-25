@@ -8,7 +8,7 @@ https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="HOY TV 資訊台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/HOYNEWS.png" group-title="资讯",HOY資訊台
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/Nownews.png" group-title="资讯",Now新聞台
-https://sc2024.stream-link.org/tv2401.php?id=h95wm
+https://16888.vercel.app/api/xsj.php?id=now-news
 #EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/viutv.png" group-title="资讯",ViuTV
 http://bziyunshao.synology.me:8889/bysid/99
 #EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://epg.112114.xyz/logo/港台31.png" group-title="资讯",港台電視31
