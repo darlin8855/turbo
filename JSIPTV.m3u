@@ -105,5 +105,3 @@ http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/%E8%82%A5%E7%B
 http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/%E8%82%A5%E7%BE%8A/224/3221227542/index.m3u8
 #EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="其他",黑莓电影
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/%E8%82%A5%E7%BE%8A/224/3221225567/index.m3u8
-#EXTINF:-1,tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png" group-title="其他",哒啵赛事
-http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/%E8%82%A5%E7%BE%8A/224/3221225539/index.m3u8
