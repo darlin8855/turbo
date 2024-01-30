@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/TVBJade.png" group-title="资讯",翡翠台
 https://fake-stream.livednow.com/hkdvb/81?token=c06df4f1f83fefa26eac8052a6a99d60
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="無綫新聞台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/TVBNEWS.png" group-title="资讯",無綫新聞
-https://myphp-live.vercel.app/api/tvb.php?id=0&hq
+https://myphp-live.vercel.app/api/tvb.php?id=4&normal=1
 #EXTINF:-1 tvg-id="香港开电视" tvg-name="香港开电视" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/HOYTV.png" group-title="资讯",HOY電視
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/HOYNEWS.png" group-title="资讯",HOY資訊台
