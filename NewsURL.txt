@@ -68,6 +68,7 @@ https://epg.pw/stream/5bfbfa6bced6bff11870cafb34ae94d4753da12274a904df7d50b078ab
 https://epg.pw/stream/c23b8ac82fc1ce0ef11730c5760a49669a54e6131b2e116353ce2b733feda5f7.m3u8
 
 翡翠台
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 http://146.56.153.245:8006/bysid/1
 http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 https://epg.pw/stream/531835a4364877a08c4abed27fbc8c692c9383080a2f55838408be805ba91898.ctv
@@ -100,31 +101,18 @@ RHK31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 
-中天新闻
-http://2023.stream-link.org/playlist/cti_news
-https://epg.pw/stream/d531c50acc1306468b44b1655b18ac22a50e1283a717187a9e925892780487e5.ctv
-https://epg.pw/stream/39d1bda5333c7c710aecd9df8bae36f84694014cbf55ab3bcd7b7e45f46fc0e6.m3u8
-https://epg.pw/stream/a6a88feb2408d3ce274664993c05fa9313c5d1816b688ccaea69df2e8fd29ead.m3u8
-https://epg.pw/stream/1a7f961e2d29f93b02d224cbfd9115fa05b229641aa9af1c347123b1e71b26a4.m3u8
-https://epg.pw/stream/6cffc14c9028b5e3c1f6303c726c577af4dbb558cf8b891b759f3a3498250e6f.m3u8
-http://www.yshmzmc.top/gtjm.php?id=live1015
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-https://epg.pw/stream/b25d1fa77951f24d82b6f83f0a6eb8e9a9d4f22fc734ff47c86e3ac7a9d3e65a.m3u8
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ctitv/live
-http://50.7.220.74:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0https://epg.pm/stream/110e89a35ec2910044e0d2e67685bd4ed7e6527ed01148840bc1e9e8b436d81b.m3u8
-https://epg.pw/stream/2174ed669076013ca3c592cafa142f03fbe493681c5d4494bc7546602e3acd9f.ctv
-https://epg.pw/stream/fef1cdf7027f8913d40eed9c39949c004839b08c251fad408cdc47a7e758dbf9.m3u8
-
-东森新闻
-http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
-https://epg.pw/stream/b25d1fa77951f24d82b6f83f0a6eb8e9a9d4f22fc734ff47c86e3ac7a9d3e65a.m3u8
-寰宇新闻
-http://2023.stream-link.org/playlist/global_tw
-http://tv.redrainl.site:9500/live.m3u8?c=22
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-http://tv.redrainl.site:9500/live.m3u8?c=22
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
-https://epg.pw/stream/3d8b0c8f11ecf9d9d05599841cca6d22b2fbebf26a88a43c829d31203d8adcf2.ctv
+翡翠台,http://bziyunshao.synology.me:8889/bysid/1
+ViuTVsix,http://bziyunshao.synology.me:8889/bysid/96
+ViuTV,http://bziyunshao.synology.me:8889/bysid/99
+明珠台,http://bziyunshao.synology.me:8890/bysid/2
+J2台,http://bziyunshao.synology.me:8890/bysid/82
+無綫新聞台,http://bziyunshao.synology.me:8890/bysid/83
+無綫財經,http://bziyunshao.synology.me:8890/bysid/85
+國際財經台,http://bziyunshao.synology.me:8891/bysid/76
+HOY TV,http://bziyunshao.synology.me:8891/bysid/77
+HOY 資訊台,http://bziyunshao.synology.me:8891/bysid/78
+港台電視 31,http://bziyunshao.synology.me:8892/bysid/31
+港台電視 32,http://bziyunshao.synology.me:8892/bysid/32
 
 纬来体育
 https://epg.pw/stream/6660357d73f0a9709c0844ee4f3c621bfd3fd8965a58a7290b3fbc9eeea727f1.m3u8
