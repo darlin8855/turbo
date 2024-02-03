@@ -26,12 +26,6 @@ https://epg.pw/stream/17cd231ecaa64551c900793e3ef920f879669b8d8bec48f66cf617685c
 https://epg.pw/stream/f48eacefe699d644d28babcb6d9df594d0240f6860f5636953abc86a2ba4cb5c.ctv
 https://epg.pw/stream/b03383e89dacf388198d9d94e514c98264245f4fca84fa24dc4b352e37ebe7cc.m3u8
 
-NOW新闻
-https://epg.pw/stream/0a4ead1b4422af9a3745462f9f0e345ab888d3418bacbf3034984c37b298c880.ctv
-http://sc2022.stream-link.org/tv2306.php?id=c03
-#EXTINF:-1 tvg-id="4078" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://iptv-pro.github.io/logo/Now%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="资讯",NOW新闻
-http://livetv.dnsfor.me:80/channel.4.m3u8
-
 CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
@@ -57,15 +51,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
 资讯,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
 
-HOY
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
-有线新闻
-http://livetv.dnsfor.me:80/channel.5.m3u8
-https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
-http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-https://epg.pw/stream/5bfbfa6bced6bff11870cafb34ae94d4753da12274a904df7d50b078ab3ae070.m3u8
-https://epg.pw/stream/c23b8ac82fc1ce0ef11730c5760a49669a54e6131b2e116353ce2b733feda5f7.m3u8
 
 翡翠台
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
@@ -145,21 +131,6 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001346/index.m3
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,黑龙江卫视-极清
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
-custom_proxy_group=🇭🇰 香港节点A`url-test`(🇭🇰 亚洲)`http://www.gstatic.com/generate_204`300,,50
-custom_proxy_group=🇭🇰 香港节点B`url-test`(🇭🇰 香港0)`http://www.gstatic.com/generate_204`300,,50
-custom_proxy_group=🇭🇰 香港节点C`url-test`(GLaDOS-HK)`http://www.gstatic.com/generate_204`300,,50
-custom_proxy_group=🇯🇵 日本节点A`url-test`(🇯🇵 亚洲)`http://www.gstatic.com/generate_204`300,,50
-custom_proxy_group=🇯🇵 日本节点B`url-test`(🇯🇵 日本0)`http://www.gstatic.com/generate_204`300,,50
-custom_proxy_group=🇯🇵 日本节点C`url-test`(GLaDOS-JP)`http://www.gstatic.com/generate_204`300,,50
-custom_proxy_group=🇺🇲 美国节点A`url-test`(🇺🇸 美洲)`http://www.gstatic.com/generate_204`300,,150
-custom_proxy_group=🇺🇲 美国节点B`url-test`(🇺🇸 美国0)`http://www.gstatic.com/generate_204`300,,150
-custom_proxy_group=🇺🇲 美国节点C`url-test`(GLaDOS-US)`http://www.gstatic.com/generate_204`300,,150
-custom_proxy_group=🇨🇳 台湾节点A`url-test`(🇨🇳 亚洲 | 台湾A|🇨🇳 亚洲 | 台湾B|🇨🇳 亚洲 | 台湾C|🇨🇳 亚洲 | 台湾D)`http://www.gstatic.com/generate_204`300,,50
-custom_proxy_group=🇨🇳 台湾节点B`url-test`(🇨🇳 台湾0)`http://www.gstatic.com/generate_204`300,,50
-custom_proxy_group=🇸🇬 狮城节点A`url-test`(🇸🇬 亚洲)`http://www.gstatic.com/generate_204`300,,50
-custom_proxy_group=🇸🇬 狮城节点B`url-test`(🇸🇬 新加坡0)`http://www.gstatic.com/generate_204`300,,50
-custom_proxy_group=🇸🇬 狮城节点C`url-test`(GLaDOS-SG)`http://www.gstatic.com/generate_204`300,,50
 
 #EXTINF:-1,cctv1
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
