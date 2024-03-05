@@ -95,6 +95,7 @@ ViuTV,http://bziyunshao.synology.me:8889/bysid/99
 明珠台,http://bziyunshao.synology.me:8890/bysid/2
 J2台,http://bziyunshao.synology.me:8890/bysid/82
 無綫新聞台,http://bziyunshao.synology.me:8890/bysid/83
+          http://sz.l68.fun:9001/bysid/83
 無綫財經,http://bziyunshao.synology.me:8890/bysid/85
 國際財經台,http://bziyunshao.synology.me:8891/bysid/76
 HOY TV,http://bziyunshao.synology.me:8891/bysid/77
