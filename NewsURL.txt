@@ -89,6 +89,7 @@ https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 
 翡翠台,http://bziyunshao.synology.me:8889/bysid/1
+      http://sz.l68.fun:9000/bysid/1
 ViuTVsix,http://bziyunshao.synology.me:8889/bysid/96
 ViuTV,http://bziyunshao.synology.me:8889/bysid/99
 明珠台,http://bziyunshao.synology.me:8890/bysid/2
