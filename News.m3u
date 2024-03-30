@@ -8,7 +8,7 @@ https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="香港開電視資訊台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/HOYNEWS.png" group-title="资讯",HOY資訊台
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 tvg-id="nowNews" tvg-name="NOW新闻台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/Nownews.png" group-title="资讯",Now新聞台
-https://live.hkdvb.com/hls/live/332.m3u8?token=377909555101823
+https://z88.ubtvfans.com/live/rx3/1246/9368c3093c58aa8b9de729b09b3a03e3/index.m3u8
 #EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/viutv.png" group-title="资讯",ViuTV
 http://bziyunshao.synology.me:8889/bysid/99
 #EXTINF:-1 tvg-id="RTHKTV31" tvg-name="港台电视31" tvg-logo="https://epg.112114.xyz/logo/港台31.png" group-title="资讯",港台電視31
