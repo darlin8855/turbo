@@ -60,6 +60,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 
 
 翡翠台
+http://158.180.67.130/live/hls/JUHD/juhd.m3u8
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 http://146.56.153.245:8006/bysid/1
 http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
