@@ -19,4 +19,16 @@ cctv16-4k,http://192.168.2.1:5658/yspt.php?id=cctv16-4k
 cctv17,http://192.168.2.1:5658/yspt.php?id=cctv17
 cctv4k,http://192.168.2.1:5658/yspt.php?id=cctv4k
 cctv8k,http://192.168.2.1:5658/yspt.php?id=cctv8k
+兵器科技,http://192.168.2.1:5658/yspt.php?id=bqkj
+第一剧场,http://192.168.2.1:5658/yspt.php?id=dyjc
+怀旧剧场,http://192.168.2.1:5658/yspt.php?id=hjjc
+风云剧场,http://192.168.2.1:5658/yspt.php?id=fyjc
+风云音乐,http://192.168.2.1:5658/yspt.php?id=fyyy
+风云足球,http://192.168.2.1:5658/yspt.php?id=fyzq
+女性时尚,http://192.168.2.1:5658/yspt.php?id=nxss
+文化精品,http://192.168.2.1:5658/yspt.php?id=whjp
+世界地理,http://192.168.2.1:5658/yspt.php?id=sjdl
+高尔夫网球,http://192.168.2.1:5658/yspt.php?id=gefwq
+央视台球,http://192.168.2.1:5658/yspt.php?id=ystq
+卫生健康,http://192.168.2.1:5658/yspt.php?id=wsjk
 
