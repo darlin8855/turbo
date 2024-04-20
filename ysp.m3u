@@ -12,7 +12,7 @@ http://192.168.2.1:5658/yspt.php?id=cctv5
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",cctv5+
 http://192.168.2.1:5658/yspt.php?id=cctv5p
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",cctv6
-http://192.168.2.1:5658/yspt.php?id=cctv6
+http://live.nctv.top/888/qly.php?id=5609
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",cctv7
 http://192.168.2.1:5658/yspt.php?id=cctv7
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",cctv8
