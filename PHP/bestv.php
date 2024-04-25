@@ -2,7 +2,7 @@
 date_default_timezone_set("Asia/Shanghai");
 $channel = empty($_GET['id']) ? "cctv16hd4k/15000000" : trim($_GET['id']);
 $array = explode("/", $channel);
-$stream = "http://223.109.53.11/liveplay-kk.rtxapp.com/live/program/live/{$array[0]}/{$array[1]}/";
+$stream = "http://58.42.59.104/hljbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/{$array[0]}/{$array[1]}/";
 $timestamp = substr(time(), 0, 9) - 7;
 $current = "#EXTM3U" . "\r\n";
 $current .= "#EXT-X-VERSION:3" . "\r\n";
