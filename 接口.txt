@@ -1,0 +1,39 @@
+新版猫影视node接口
+http://yydf:abcd@yydf.540734621.xyz/node/index.js.md5
+
+
+旧版猫影视open接口
+http://yydf:abcd@yydf.540734621.xyz/业余打发/猫影视/config_open.json
+
+业余在线接口:
+http://yydf.540734621.xyz/QQ/yydf.json
+
+数据源密钥: 240420 稳定版: https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/main.json 领先版: https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/nightly/main.json 
+多仓地址：http://120.79.4.185/dc.json地址2(点击复制):单线路地址:http://120.79.4.185 单线路地址:http://router.bopop.buzz:9999/mdxgh.json地址3(点击复制):单线路地址:http://mdxgh.tpddns.cn:9999 单线路地址:http://mdxgh.tpddns.cn:9999/md.json
+
+饭总：http://饭太硬.top/tv
+🔷肥猫：http://我不是.肥猫.love:63/接口禁止贩卖
+🔷骚零：https://xhdwc.tk/0
+🔷巧记：http://pandown.pro/tvbox/tvbox.json
+🔷星辰：http://8.210.232.168/xc.json
+🔷多多：http://yydsys.top/duo
+🔷阿里：http://yydsys.top/duo/ali
+------------------------------------
+👉多仓接口：[宝盒]  [影视仓]
+------------------------------------
+🔷多多：https://jihulab.com/duomv/apps/-/raw/main/fast.json﻿
+🔷欧歌：http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌
+🔷云星：http://jk.itvbox.cc:66/可视TV/云星日记/仓库/api.json
+🔷吾爱：http://52bsj.vip:98/wuaihouse
+------------------------------------
+👉tvbox单线路：[俊版][taka版]
+------------------------------------
+🔷多多：http://yydsys.top/duo
+🔷道长：https://pastebin.com/raw/5NHaxyGR
+🔷刘备：https://raw.liucn.cc/box/m.json
+🔷运输：https://weixine.net/ysc.json
+🔷蚂蚁：https://la.kstore.space/download/2883/0110.txt
+🔷吾爱：http://52bsj.vip:98/wuai
+🔷云星：http://itvbox.cc/tvbox/云星日记/1.m3u8
+🔷喵影：http://miaotvs.cn/meow
+
