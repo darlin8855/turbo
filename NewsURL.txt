@@ -53,12 +53,14 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 中文,http://112.19.171.156:9999/udp/239.93.0.162:2192
      https://play-flive.ifeng.com/live/06OLEGEGM4G.flv
      https://tv.sd.cn/sichuan?id=239.93.0.162:2192
+     http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
 资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
      https://youtube-live.vercel.app/live/youtube/HFib76ySpbU?quality=1080
      http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
      http://112.19.171.156:9999/udp/239.93.0.118:2191
      https://play-flive.ifeng.com/live/06OLEEWQKN4.flv
      https://tv.sd.cn/sichuan?id=239.93.0.118:2191
+     http://www.cdtriot.cn:9999/udp/239.93.0.118:2191
 
 
 
