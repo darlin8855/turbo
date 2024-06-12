@@ -1,0 +1,9 @@
+小雅新增支持了115播放小雅资源的功能，阿里非会员被限速但是有115会员的可以愉快玩耍啦！使用方法：
+1、升级小雅最新版本
+2、/etc/xiaoya配置目录下增加ali2115.txt，内容如下：
+purge_ali_temp=true
+cookie="UID=800012347_F1_1712345;CID=0f99357f000xxxxx67af8e167fcd68;SEID=0f439555555559d9b227595c0cd37b63c065e5d934d70045e8bfb3089b09b8d843662ad6ac00a90c6ecc3faf0e5abff45d73797470;115_lang=zh"
+purge_pan115_temp=true
+dir_id=0
+其中cookie是115的cookie或QR码，alist官方文档有方法获取。不会抓cookie的建议用QR码。
+3、重启小雅
