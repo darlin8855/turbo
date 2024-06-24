@@ -1,2 +1,13 @@
 终端进去vi /etc/hosts
 127.0.0.1    xiaoya.host
+有时各种原因会导致启动时获取数据包连接不畅顺，为了启动时更顺畅，可以试试一键更新一下，我在update_new.sh脚本里添加了一个目录映射  -v /etc/xiaoya/data:/www/data
+
+执行，如果xiaoya配置默认路径是 /etc/xiaoya 那么 -s 的参数可以忽略
+bash -c "$(curl http://docker.xiaoya.pro/update_data.sh)"
+包含了：
+1. 下载文件，数据包保存到 /etc/xiaoya/data
+2. 注入定时任务crontab
+    
+0 * * * * bash -c "$(curl http://docker.xiaoya.pro/update_data.sh)" -s --no-upgrade 
+
+也就是每小时去抓一次文件，中间网络不稳定都无所谓，反正只要有一次成功，/etc/xiaoya/data  目录下就有可用的文件。这样启动稳定性大大增加，不会一会儿有内容一会儿没内容
