@@ -1,0 +1,1 @@
+终端进去vi /etc/hosts
