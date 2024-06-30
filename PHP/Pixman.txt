@@ -1,0 +1,39 @@
+直连观看tptv、itv、ysp这几套直播源，并且为了防止直播源快速泛滥，所以pixman内置直播源代理，或者你可以自行配置nginx进行转发，看了一下配置，如果你自己vps或者软路由观看，使用pixman内置的python代理程序性能上绰绰有余了，根本不需要nginx，本次配置教程极简，一次配置一劳永逸，自动监听docker hub镜像更新容器：
+
+1，首先不管是vps还是软路由，都需要安装docker，软路由推荐istore os，自带docker环境，且默认的overlay分区空间足够，vps推荐docker一键安装脚本：
+
+curl -fLsS https://get.docker.com/ | sh
+
+2，amd64/armv8设备在安装好docker环境后，执行：
+
+docker run -d --restart unless-stopped --privileged=true --name=pixman -p 5000:5000 pixman/pixman
+
+3，armv7设备在安装好docker环境后，执行：
+
+docker run -d --restart unless-stopped --privileged=true --name=pixman -p 5000:5000 pixman/pixman-armv7
+
+4，不管是amd64/armv8还是armv7设备，在执行上一步docker run成功后，推荐使用watchtower进行自动监听更新docker镜像，自动管理docker容器（pixman更新比较频繁，建议配置自动更新）：
+
+docker run -d --name watchtower --restart unless-stopped -v /var/run/docker.sock:/var/run/docker.sock  containrrr/watchtower -c  --schedule "0 0 2 * * *"
+
+5，最后我们即可使用APTV、TiviMate等软件直接订阅：
+
+tptv订阅地址：http://你的软路由、vps IP:5000/tptv_proxy.m3u（包含多个4K频道）
+
+itv订阅地址：http://你的软路由、vps IP:5000/itv_proxy.m3u（包含多个高帧率频道）
+
+ysp订阅地址：http://你的软路由、vps IP:5000/ysp.m3u（某视频直播，更新频繁）
+
+建议几个都订阅，为了防止小白还是不知道怎么订阅，举例：
+
+http://192.168.1.1:5000/tptv_proxy.m3u
+
+http://192.168.1.1:5000/itv_proxy.m3u
+
+http://192.168.1.1:5000/ysp.m3u
+
+其中192.168.1.1是你的软路由网关地址（软路由主地址）、vps的ip地址
+
+6，最后，如果想了解后续更新以及更多直播内容，可以关注：
+
+https://pixman.io/
