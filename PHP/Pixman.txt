@@ -37,3 +37,9 @@ http://192.168.2.1:5000/ysp.m3u
 6，最后，如果想了解后续更新以及更多直播内容，可以关注：
 
 https://pixman.io/
+
+
+
+docker run -d --restart unless-stopped --privileged=true -p 6688:6688 --name tvm3u youshandefeiyang/tvm3u
+M3U订阅链接：
+http://你的IP:6688/tv.m3u
