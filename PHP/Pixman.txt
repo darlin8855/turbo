@@ -43,3 +43,5 @@ https://pixman.io/
 docker run -d --restart unless-stopped --privileged=true -p 6688:6688 --name tvm3u youshandefeiyang/tvm3u
 M3U订阅链接：
 http://你的IP:6688/tv.m3u
+
+docker run -d --restart unless-stopped --privileged=true -p 35455:35455 --name allinone youshandefeiyang/allinone
