@@ -59,7 +59,8 @@ https://epg.pw/stream/b7bb63eeba6bb71d86f120d045f3400ad9e3e076599439b0b1e790d420
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 
 凤凰
-中文,http://122.224.232.218:8888/rtp/233.50.200.191:5140
+中文,http://23.26.147.19:1258/proxy/Smartv.php?id=phoenixtv_hd
+     http://122.224.232.218:8888/rtp/233.50.200.191:5140
      http://112.19.171.156:9999/udp/239.93.0.162:2192
      https://play-flive.ifeng.com/live/06OLEGEGM4G.flv
      https://tv.sd.cn/sichuan?id=239.93.0.162:2192
