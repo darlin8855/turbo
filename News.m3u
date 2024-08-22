@@ -22,9 +22,9 @@ http://192.168.2.1:5000/youtube/2mCSYvcfhtc
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="资讯",寰宇新聞
 http://192.168.2.1:5000/youtube/6IquAgfvYmc
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="PhoenixInfoNewsChannel" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="资讯",鳳凰資訊
-http://171.217.5.108:8123/udp/239.93.0.118:2191
+https://stream1.freetv.fun/bafba85af08bd32cbf83cc4ea850e6097db38421eb7783d8ed331e4d26dba0f9.ctv
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="资讯",鳳凰中文
-http://171.217.5.108:8123/udp/239.93.0.162:2192
+https://stream1.freetv.fun/22448838d0d3b395b90859ec0fb68ea82ac112fe9b29ed03122106fc6218d339.ctv
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN Live" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="资讯",CNN News
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main//logo/BBCWORLDNEWS.png" group-title="资讯",BBC WORLD NEWS
@@ -68,9 +68,9 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV-4K
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+https://pi.0472.org/livetv/cctv4k.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="A20" tvg-name="CCTV8K" tvg-logo="https://upload.112114.xyz/logo/CCTV8KW.png" group-title="央视",CCTV-8K
-http://192.168.2.1:5658/yspt.php?id=cctv8k
+http://192.168.2.1:35442/home/cctv8k36m/cctv8k_36m.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视",兵器科技
 http://www.erbao1981.top:8188/udp/239.76.247.59:1234
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视",怀旧剧场
