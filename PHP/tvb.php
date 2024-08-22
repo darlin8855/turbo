@@ -19,11 +19,38 @@ $hq = $_GET['hq'];
 if(!isset($ids[$id])) {
     exit();
 };
-$header[] = 'CLIENT-IP:127.0.0.1';
-$header[] = 'X-FORWARDED-FOR:127.0.0.1';
+$clientIP = $_SERVER['REMOTE_ADDR'];
+
+// 检查是否同时有IPv4和IPv6地址
+if (strpos($clientIP, ',') !== false) {
+    // 同时有IPv4和IPv6地址,分离出来
+    $ipList = explode(',', $clientIP);
+    $ipv6 = trim($ipList[0]); // 取第一个IP(IPv6)
+    $ipv4 = trim($ipList[1]); // 取第二个IP(IPv4)
+
+    // 优先使用IPv6
+    $ip = $ipv6;
+} elseif (filter_var($clientIP, FILTER_VALIDATE_IP, FILTER_FLAG_IPV6)) {
+    // 只有IPv6地址
+    $ip = $clientIP;
+} else {
+    // 只有IPv4地址 
+    $ip = $clientIP;
+}
+
+$headers = array(
+    'User-Agent: Dart/2.19 (dart:io)',
+    'Content-Type: application/json',
+    'Accept-Encoding: gzip',
+    'Host: inews-api.tvb.com', 
+    'CLIENT-IP: '.$ip,
+    'X-FORWARDED-FOR: '.$ip
+);
+
+// 其他代码保持不变
 $ch = curl_init();
 curl_setopt($ch,CURLOPT_URL,'https://inews-api.tvb.com/news/checkout/live/hd/ott_'.$ids[$id].'_h264?profile=safari');
-curl_setopt($ch,CURLOPT_HTTPHEADER,$header);
+curl_setopt($ch,CURLOPT_HTTPHEADER,$headers);
 curl_setopt($ch,CURLOPT_RETURNTRANSFER,1);
 curl_setopt($ch,CURLOPT_SSL_VERIFYPEER,false);
 curl_setopt($ch,CURLOPT_SSL_VERIFYHOST,false);
