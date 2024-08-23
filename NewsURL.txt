@@ -20,6 +20,7 @@ http://tv.328326.com/iptv/tvzb97.php?id=bjxw   //北京新闻
 http://tv.328326.com/iptv/tvzb97.php?id=bjtyxx  //北京体育休闲
 
 无线新闻
+https://myphp-live.vercel.app/api/tvb.php?id=0&hq
 http://192.168.2.1:5658/tvball.php?id=4&normal=1
 https://tv.iill.top/tvb/2
 http://223.17.122.142:9981/stream/channelid/2051586642?ticket=e395056cd15ba87e3becdfcc4b4a70c183d94321&profile=pass
