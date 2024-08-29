@@ -1,0 +1,46 @@
+安装 https://blog.csdn.net/Jimu2018/article/details/138325666
+allinone
+拉取docker-compose pull
+运行docker-compose up -d
+关闭docker-compose stop
+移除docker-compose down
+重启docker-compose restart
+更新先停止+移除，然后再拉取+运行
+
+
+docker run -d --restart unless-stopped --privileged=true -p 35455:35455 --name allinone youshandefeiyang/allinone
+
+1、安装portainer
+docker pull portainer/portainer
+# 下载镜像
+
+docker run -d --restart=always --name portainerUI -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock portainer/portainer
+# 运行portainerUI图形界面
+# -d后台运行 --name 命名 -p 端口映射(需要确认端口号是开放的) -v挂载
+#新版
+docker pull portainer/portainer-ce:latest
+docker run -d -p 8000:8000 -p 9443:9443 --name=portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer-ce:latest
+
+#汉化版
+docker run -d --restart=always \
+--name="portainer" \
+-p 9100:9000 \
+-v /var/run/docker.sock:/var/run/docker.sock \
+-v /home/wanghao/portainer-ce/data:/data \
+6053537/portainer-ce:2.19.5
+
+2、登录192.168.2.1:9000
+3、查询ifconfig
+4、创建macvlan
+docker network create -d macvlan --subnet=192.168.2.0/24 --gateway=192.168.2.1 -o parent=br-lan macvlan
+
+# parent=br-lan 这里的br-lan修改为上面查询到的。
+# subnet=10.0.0.0/24  这里修改为你的网段，比如你的iStoreOS后台地址是192.168.100.1 那么就修改为192.168.100.0/24
+# gateway=10.0.0.252  网关修改为你的路由器网关，修改为你的iStoreOS后台地址
+
+
+docker run -d -p 8000:8000 -p 9000:9000 --name portainer-zh --restart=always \
+-v /var/run/docker.sock:/var/run/docker.sock \
+-v /docker_data/portainer/data:/data \
+-v /etc/localtime:/etc/localtime \
+liuximeng520/portainer-zh:2.19.0
