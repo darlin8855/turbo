@@ -29,7 +29,7 @@ docker run -d --restart=always \
 -v /home/wanghao/portainer-ce/data:/data \
 6053537/portainer-ce:2.19.5
 
-2、登录192.168.2.1:9000
+2、登录192.168.2.1:9100
 3、查询ifconfig
 4、创建macvlan
 docker network create -d macvlan --subnet=192.168.2.0/24 --gateway=192.168.2.1 -o parent=br-lan macvlan
