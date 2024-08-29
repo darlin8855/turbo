@@ -7,6 +7,7 @@ https://youtube-live.vercel.app/live/youtube/m_dhMSvUCIc?quality=1080
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="资讯",寰宇新聞
 https://youtube-live.vercel.app/live/youtube/6IquAgfvYmc?quality=1080
 
+cctv4k,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 无线新闻
 https://myphp-live.vercel.app/api/tvb.php?id=0&hq
 
