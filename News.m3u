@@ -92,7 +92,7 @@ http://www.furymax.top:85/rtp/239.69.1.74:10084
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央视",女性时尚
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=nxss
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视",风云足球
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fyzq
+http://www.furymax.top:85/rtp/239.69.1.81:10126
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
