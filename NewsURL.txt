@@ -8,6 +8,7 @@ https://youtube-live.vercel.app/live/youtube/m_dhMSvUCIc?quality=1080
 https://youtube-live.vercel.app/live/youtube/6IquAgfvYmc?quality=1080
 
 cctv4k,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+cctv16,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 无线新闻
 https://myphp-live.vercel.app/api/tvb.php?id=0&hq
 http://nz171l122.bb60246.ctm.net:8892/bysid/83.m3u8
