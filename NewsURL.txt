@@ -10,14 +10,17 @@ https://youtube-live.vercel.app/live/youtube/6IquAgfvYmc?quality=1080
 cctv4k,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 无线新闻
 https://myphp-live.vercel.app/api/tvb.php?id=0&hq
-
+http://nz171l122.bb60246.ctm.net:8892/bysid/83.m3u8
+http://124.244.149.194:65531/bysid/83.m3u8
 NOW
 翡翠台,https://test.zapi.us.kg/?id=feicui
       http://php.jdshipin.com:8880/smt.php?id=jade_twn
+      http://124.244.149.194:65530/bysid/1.m3u8
 无线新闻台,https://test.zapi.us.kg/?id=tvb-news
 NOW新闻,https://test.zapi.us.kg/?id=now-news
 ViuTV,https://test.zapi.us.kg/?id=viutv
       http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
+      http://nz171l122.bb60246.ctm.net:8889/bysid/99.m3u8
 凤凰卫视 资讯台,https://test.zapi.us.kg/?id=phtv-info
 凤凰卫视 中文台,https://test.zapi.us.kg/?id=phtv-cn
 凤凰资讯,http://php.jdshipin.com:8880/xsj.php?id=phtv-info
