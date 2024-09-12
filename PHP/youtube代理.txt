@@ -6,6 +6,7 @@ docker run -d --restart unless-stopped --net=host --privileged=true -p 35455:354
 
 2，一键配置watchtower每天早上八点自动监听allinone镜像更新，同步GitHub仓库：
 docker run -d --name watchtower --restart unless-stopped -v /var/run/docker.sock:/var/run/docker.sock  containrrr/watchtower -c  --schedule "0 0 8 * * *"
+docker run -d --name watchtower --restart unless-stopped -v /var/run/docker.sock:/var/run/docker.sock containrrr/watchtower allinone -c --schedule "0 0 2 * * *"
 3，播放示例：
 https://www.youtube.com/watch?v=cK4LemjoFd0
 Rid: cK4LemjoFd0
