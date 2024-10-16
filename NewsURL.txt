@@ -69,20 +69,27 @@ ViuTV,https://test.zapi.us.kg/?id=viutv
 
 欢笑剧场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/1.m3u8
 
-湖北公共,http://www.hiliu.myds.me:8088/rtp/239.69.1.40:9880
-湖北经视,http://www.hiliu.myds.me:8088/rtp/239.69.1.41:9886
-湖北综合,http://www.hiliu.myds.me:8088/rtp/239.69.1.42:9892
-湖北垄上,http://www.hiliu.myds.me:8088/rtp/239.69.1.43:9898
-湖北影视,http://www.hiliu.myds.me:8088/rtp/239.69.1.204:10866
-湖北生活,http://www.hiliu.myds.me:8088/rtp/239.69.1.205:10872
-湖北教育,http://www.hiliu.myds.me:8088/rtp/239.69.1.206:10878
-武汉一台新闻综合,http://www.hiliu.myds.me:8088/rtp/239.69.1.145:10506
-武汉二台电视剧,http://www.hiliu.myds.me:8088/rtp/239.69.1.146:10512
-武汉三台科技生活,http://www.hiliu.myds.me:8088/rtp/239.69.1.251:11148
-武汉四台经济,http://www.hiliu.myds.me:8088/rtp/239.69.1.35:9850
-武汉五台文体,http://www.hiliu.myds.me:8088/rtp/239.69.1.147:10518
-武汉六台外语,http://www.hiliu.myds.me:8088/rtp/239.69.1.36:9856
-武汉教育,http://www.hiliu.myds.me:8088/rtp/239.69.1.60:9994
+✌️湖北|湖北公共新闻@http://www.furymax.top:85/rtp/239.69.1.40:9880
+✌️湖北|湖北经视@http://www.furymax.top:85/rtp/239.69.1.41:9886
+✌️湖北|湖北综合@http://www.furymax.top:85/rtp/239.69.1.42:9892
+✌️湖北|湖北垄上@http://www.furymax.top:85/rtp/239.69.1.43:9898
+✌️湖北|湖北影视@http://www.furymax.top:85/rtp/239.69.1.204:10866
+✌️湖北|湖北生活@http://www.furymax.top:85/rtp/239.69.1.205:10872
+✌️湖北|湖北教育@http://www.furymax.top:85/rtp/239.69.1.206:10878
+✌️湖北|武汉一台新闻综合@http://www.furymax.top:85/rtp/239.69.1.145:10506
+✌️湖北|武汉二台电视剧@http://www.furymax.top:85/rtp/239.69.1.146:10512
+✌️湖北|武汉三台科技生活@http://www.furymax.top:85/rtp/239.69.1.251:11148
+✌️湖北|武汉四台经济@http://www.furymax.top:85/rtp/239.69.1.35:9850
+✌️湖北|武汉五台文体@http://www.furymax.top:85/rtp/239.69.1.147:10518
+✌️湖北|武汉六台外语@http://www.furymax.top:85/rtp/239.69.1.36:9856
+✌️湖北|武汉教育@http://www.furymax.top:85/rtp/239.69.1.60:9994
+
+武汉新闻综合,http://58.48.37.158:1111/tsfile/live/1004_1.m3u8
+武汉电视剧,http://58.48.37.158:1111/tsfile/live/0130_1.m3u8
+武汉科技生活,http://58.48.37.158:1111/tsfile/live/1005_1.m3u8
+武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
+武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8 
+武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
 
 CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
