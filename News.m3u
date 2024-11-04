@@ -26,11 +26,11 @@ http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="资讯",鳳凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN Live" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="资讯",CNN News
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+https://stream1.freetv.fun/e5667906c5c0fc0d1a7327e49a649f1e28cfd74bfb9a96c0844156fbec16ab64.m3u8
 #EXTINF:-1,tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main//logo/BBCWORLDNEWS.png" group-title="资讯",BBC WORLD NEWS
-https://epg.pw/stream/0c526b6b6c7d124000ff47cd2e506418c37ad209e2314efd728a10a6084bd07b.ctv
+https://stream1.freetv.fun/a44af3ceba1b7f152ed565f07b9e62703e31b5ec1566ee56f1fab4f82b250fe7.m3u8
 #EXTINF:-1,tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main//logo/NHKWORLD.png" group-title="资讯",NHK WORLD
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+https://stream1.freetv.fun/1e6afa65d6c1f5a79b83814ea78b5d9f3f8aba0a211d91a92b07cfa40c972d83.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2
