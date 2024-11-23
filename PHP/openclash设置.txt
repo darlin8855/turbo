@@ -1,0 +1,12 @@
+插件设置
+1、模式设置：Fake-IP（TUN混合）模式
+            网络栈类型 gVisor
+2、流量控制：勾选“路、禁、绕、仅”
+覆写设置
+1、常规设置：URL-Test 100
+            测速（连通性）间隔 180
+            NameServer、FallBack、Default-NameServer全部取消勾选
+2、DNS设置：勾选“自、追、持久、Fake-IP-Filter”
+            Fake-IP-Filter-Mode 黑名单模式
+3、Meta设置：勾选“启用 TCP 并发、启用统一延迟、启用流量（域名）探测、探测（嗅探）纯 IP 连接”
+           
