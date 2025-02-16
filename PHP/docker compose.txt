@@ -8,7 +8,7 @@ allinone
 更新先停止+移除，然后再拉取+运行
 
 
-docker run -d --restart always --privileged=true -p 35455:35455 --name allinone youshandefeiyang/allinone -tv=true -aesKey=k1gcw5a74xvz5c96s0b7i64glw9vzn1z -userid=1072551184 -token=9f2827a909d8f5c3736bc771b4b6866711aadf10d43734c38ddb71d93b9773bb479ff29ea2f3fdc11fd55b7346d2c99eab9bc3a0014c442482e407e65dec058c6a86ada61f4c47
+docker run -d --restart always --privileged=true -p 35455:35455 --name allinone youshandefeiyang/allinone -tv=true -aesKey=qtviwazdt56pozlpbyqzmif3b1roiihf -userid=1072551184 -token=c257379586d908692185186e7bb1dbeb9b583c56840c6f633c4f153cc1a87998f3522df3f6e56e17d473be8d754107650620459c045648bdd5af3bd68c04eae0e3e06b0f05e2bf
 
 1、安装portainer
 docker pull portainer/portainer
