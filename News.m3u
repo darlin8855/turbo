@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/TVBJade.png" group-title="资讯",翡翠台
-https://stream1.freetv.fun/ff3205f993bc272535d52c71efd9827d5eeb120b4902f091037e43ad269923b0.m3u8
+https://stream1.freetv.fun/20d4ac0e90b91fc7e0011781e5f108fdd4ad28667080d79e5d6ae45ed4f26186.ctv
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/TVBNEWS.png" group-title="资讯",無綫新聞
 https://stream1.freetv.fun/6a978aebd22e15f9e693db16b5ff1d685fcb8c146eb8500196daec0282b7c51f.ctv
 #EXTINF:-1 tvg-id="HOYTV" tvg-name="HOYTV" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/HOYTV.png" group-title="资讯",HOY電視
