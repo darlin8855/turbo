@@ -30,7 +30,7 @@ https://stream1.freetv.fun/e5667906c5c0fc0d1a7327e49a649f1e28cfd74bfb9a96c084415
 #EXTINF:-1,tvg-id="BBCWorldNewsAsiaPacific"" tvg-name="BBC World News Asia Pacific" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main//logo/BBCWORLDNEWS.png" group-title="资讯",BBC WORLD NEWS
 https://stream1.freetv.fun/a44af3ceba1b7f152ed565f07b9e62703e31b5ec1566ee56f1fab4f82b250fe7.m3u8
 #EXTINF:-1,tvg-id="NHKWorldJapan.jp" tvg-name="NHK World Japan" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main//logo/NHKWORLD.png" group-title="资讯",NHK WORLD
-https://stream1.freetv.fun/e2afbe4381de1621efaaa14c4d64133a9030f381e4480eead972ab58c49064c3.m3u8
+https://stream1.freetv.fun/8cfa4ecb875e269d02717bdea539af7e961e32b0a72f199f2c42a0fca881d35c.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1
 http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2
