@@ -22,9 +22,9 @@ http://192.168.2.1:35455/youtube/2mCSYvcfhtc
 #EXTINF:-1 tvg-id="litv-longturn14" tvg-name="寰宇新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="资讯",寰宇新聞
 http://192.168.2.1:35455/youtube/6IquAgfvYmc
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="PhoenixInfoNewsChannel" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="资讯",鳳凰資訊
-https://stream1.freetv.fun/bafba85af08bd32cbf83cc4ea850e6097db38421eb7783d8ed331e4d26dba0f9.ctv
+https://video.mytvsuper.xyz/live/2ec8dbe31665779046dbebcccff4fb91a84c2fbe11de8bb434c34e14d1a28633.m3u8?token=377909555094370
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="资讯",鳳凰中文
-https://stream1.freetv.fun/e070119cb353a2a51a7fa76106783ae9ae06d72670a1b21a76f270edc993ca9f.m3u8
+https://video.mytvsuper.xyz/live/e56f60dcd84ba1f885c57318a70e881894fa739b767e8da66a3b61cc0748d0a9.m3u8?token=377909555094370
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN International" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="资讯",CNN News
 https://stream1.freetv.fun/e5667906c5c0fc0d1a7327e49a649f1e28cfd74bfb9a96c0844156fbec16ab64.m3u8
 #EXTINF:-1,tvg-id="BBCWorldNewsAsiaPacific"" tvg-name="BBC World News Asia Pacific" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main//logo/BBCWORLDNEWS.png" group-title="资讯",BBC WORLD NEWS
