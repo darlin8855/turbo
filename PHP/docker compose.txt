@@ -10,6 +10,10 @@ allinone
 
 docker run -d --restart always --privileged=true -p 35455:35455 --name allinone youshandefeiyang/allinone -tv=true -aesKey=qtviwazdt56pozlpbyqzmif3b1roiihf -userid=1072551184 -token=c257379586d908692185186e7bb1dbeb9b583c56840c6f633c4f153cc1a87998f3522df3f6e56e17d473be8d754107650620459c045648bdd5af3bd68c04eae0e3e06b0f05e2bf
 
+docker run -d --restart always -p 8123:8123 --name easy-itv g12777/easy-itv:latest -ip=39.135.132.221 -token=ABCD
+http://部署设备ip:8123/tv.m3u?token=ABCD
+https://drive.google.com/file/d/1_fZMaQW3_DgsaEojd5rQymMdKiuEZ2uK/view?pli=1
+
 1、安装portainer
 docker pull portainer/portainer
 # 下载镜像
