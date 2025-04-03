@@ -15,7 +15,7 @@ http://部署设备ip:8123/tv.m3u?token=ABCD
 https://drive.google.com/file/d/1_fZMaQW3_DgsaEojd5rQymMdKiuEZ2uK/view?pli=1
 
 docker pull mybtjson/pixman-4gtv:0.0.2
-docker run -d --name=Woshishabi -p 50007:5000 --restart=always mybtjson/pixman-4gtv:0.0.2
+docker run -d --name=4gtv -p 50007:5000 --restart=always mybtjson/pixman-4gtv:0.0.2
 http://ip:50007/help
 http://ip:50007/?type=txt
 http://ip:50007/?type=m3u
