@@ -22,7 +22,7 @@ http://192.168.2.1:35455/youtube/2mCSYvcfhtc
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="资讯",寰宇新聞
 http://192.168.2.1:35455/youtube/6IquAgfvYmc
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="PhoenixInfoNewsChannel" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="资讯",鳳凰資訊
-http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+https://stream1.freetv.fun/d9ccb3b63037c4bf1c506bc07b387141bcca67ba07f83cd1c1c30221ae2a050c.ctv
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="资讯",鳳凰中文
 https://stream1.freetv.fun/3a350a5e23b7805809249b7ce03ccf27b053d39c757ab00a07a1bfcf284f06cc.ctv
 #EXTINF:-1 tvg-id="CNN-國際新聞台" tvg-name="CNN 國際新聞台" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="资讯",CNN News
