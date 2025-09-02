@@ -14,7 +14,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=viu1_twn
 #EXTINF:-1 tvg-id="rthk31" tvg-name="rthk31" tvg-logo="https://epg.112114.xyz/logo/港台31.png" group-title="资讯",港台電視31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/ZTXW.png" group-title="资讯",中天新聞
-http://192.168.2.1:35455/youtube/hqGhzREcCLs
+http://192.168.2.1:35455/youtube/vr3XyVCR4T0
 #EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/DSXWHD.png" group-title="资讯",東森新聞
 http://192.168.2.1:35455/youtube/V1p33hqPrUk
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/TVBSNEWS.png" group-title="资讯",TVBS新聞
