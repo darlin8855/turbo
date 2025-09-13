@@ -38,11 +38,11 @@ http://php.cqshushu.ggff.net/jzb.php?id=cctv2&%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV-3
 http://php.cqshushu.ggff.net/jzb.php?id=cctv3&%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E5%8C%BB%E5%B7%A5%E5%AD%A6%E4%B9%A0%E6%97%A5%E5%BF%97%E3%80%91
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4
-https://stream1.freetv.fun/ipv6-cctv4-50.m3u8
+http://php.cqshushu.ggff.net/jzb.php?id=cctv4&%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E5%8C%BB%E5%B7%A5%E5%AD%A6%E4%B9%A0%E6%97%A5%E5%BF%97%E3%80%91
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5
-https://stream1.freetv.fun/ipv6-cctv5-50.m3u8
+http://php.cqshushu.ggff.net/jzb.php?id=cctv5&%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E5%8C%BB%E5%B7%A5%E5%AD%A6%E4%B9%A0%E6%97%A5%E5%BF%97%E3%80%91
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+
-https://stream1.freetv.fun/ipv6-cctv5p-50.m3u8
+http://php.cqshushu.ggff.net/jzb.php?id=cctv5p&%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E5%8C%BB%E5%B7%A5%E5%AD%A6%E4%B9%A0%E6%97%A5%E5%BF%97%E3%80%91
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV-6
 https://stream1.freetv.fun/ipv6-cctv6-50.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV-7
