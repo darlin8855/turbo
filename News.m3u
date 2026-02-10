@@ -24,7 +24,7 @@ https://t.freetv.fun/live/huan-yu-xin-wen-4g.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="资讯",鳳凰資訊
 http://192.168.2.1:35455/youtube/fN9uYWCjQaw
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="资讯",鳳凰中文
-https://t.freetv.fun/live/feng-huang-zhong-wen.m3u8
+https://t.freetv.fun/live/feng-huang-zhong-wen-sg.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="资讯",CNN News
 https://stream1.freetv.fun/890cfa85aaadf252333f2365066a8ab7f51dbc0e43b223073b43308275ec856f.m3u8
 #EXTINF:-1,tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main//logo/BBCWORLDNEWS.png" group-title="资讯",BBC WORLD NEWS
