@@ -94,69 +94,69 @@ http://171.117.241.128:9003/hls/67/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视",风云足球
 http://171.117.241.128:9003/hls/33/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
-http://171.120.29.4:9003/hls/33/index.m3u8
+http://124.93.18.239:9003/hls/32/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
 http://124.93.18.239:9003/hls/29/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
-http://171.120.29.4:9003/hls/35/index.m3u8
+http://124.93.18.239:9003/hls/30/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
-http://171.120.29.4:9003/hls/23/index.m3u8
+http://171.120.249.236:9003/hls/23/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
-http://171.120.29.4:9003/hls/20/index.m3u8
+http://124.93.18.239:9003/hls/23/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视
-http://171.120.29.4:9003/hls/26/index.m3u8
+http://124.93.18.239:9003/hls/36/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
 http://124.93.18.239:9003/hls/54/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视",江西卫视
-http://171.120.29.4:9003/hls/36/index.m3u8
+http://124.93.18.239:9003/hls/39/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视",四川卫视
 http://124.93.18.239:9003/hls/42/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
 http://124.93.18.239:9003/hls/24/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
-http://171.120.29.4:9003/hls/21/index.m3u8
+http://124.93.18.239:9003/hls/31/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视",山东卫视
 http://124.93.18.239:9003/hls/34/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视",河北卫视
-http://171.120.29.4:9003/hls/29/index.m3u8
+http://124.93.18.239:9003/hls/40/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视",河南卫视
-http://171.120.29.4:9003/hls/30/index.m3u8
+http://124.93.18.239:9003/hls/41/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视",海南卫视
-http://171.120.29.4:9003/hls/28/index.m3u8
+http://124.93.18.239:9003/hls/43/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视
-http://171.120.29.4:9003/hls/32/index.m3u8
+http://124.93.18.239:9003/hls/38/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视",山西卫视
-http://171.120.29.4:9003/hls/19/index.m3u8
+http://124.93.18.239:9003/hls/35/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视",东南卫视
-http://171.120.29.4:9003/hls/24/index.m3u8
+http://171.120.249.236:9003/hls/24/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视",广西卫视
-http://171.120.29.4:9003/hls/27/index.m3u8
+http://124.93.18.239:9003/hls/37/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视",贵州卫视
 http://124.93.18.239:9003/hls/33/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视",辽宁卫视
-http://171.120.29.4:9003/hls/37/index.m3u8
+http://124.93.18.239:9003/hls/27/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
-http://171.120.29.4:9003/hls/22/index.m3u8
+http://171.120.249.236:9003/hls/22/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-http://171.120.29.4:9003/hls/31/index.m3u8
+http://124.93.18.239:9003/hls/53/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="卫视",宁夏卫视
-http://171.120.29.4:9003/hls/39/index.m3u8
+http://124.93.18.239:9003/hls/48/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视",陕西卫视
 http://124.93.18.239:9003/hls/46/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视",甘肃卫视
-http://171.120.29.4:9003/hls/25/index.m3u8
+http://124.93.18.239:9003/hls/51/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视",吉林卫视
-http://171.120.29.4:9003/hls/34/index.m3u8
+http://124.93.18.239:9003/hls/49/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视",云南卫视
 http://124.93.18.239:9003/hls/45/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="卫视",厦门卫视
 http://124.93.18.239:9003/hls/55/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视",青海卫视
-http://171.120.29.4:9003/hls/40/index.m3u8
+http://124.93.18.239:9003/hls/44/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视",新疆卫视
 http://124.93.18.239:9003/hls/50/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-http://171.120.29.4:9003/hls/38/index.m3u8
+http://124.93.18.239:9003/hls/47/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视",西藏卫视
 http://124.93.18.239:9003/hls/52/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视",兵团卫视
