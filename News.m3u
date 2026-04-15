@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=vr3XyVCR4T0
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/TVBSNEWS.png" group-title="资讯",TVBS新聞
 https://www.youtube.com/watch?v=2mCSYvcfhtc
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="资讯",寰宇新聞
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/HYXW.png" group-title="资讯",寰宇新聞
 https://www.youtube.com/watch?v=6IquAgfvYmc
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="资讯",鳳凰資訊
 https://www.youtube.com/watch?v=fN9uYWCjQaw
