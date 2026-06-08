@@ -14,17 +14,17 @@ https://cdn10.163189.xyz/stream/163189/viu/
 #EXTINF:-1 tvg-id="rthk31" tvg-name="rthk31" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK31.png" group-title="资讯",港台電視31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/ZTXW.png" group-title="资讯",中天新聞
-https://www.youtube.com/watch?v=vr3XyVCR4T0
+https://t.freetv.fun/live/zhong-tian-xin-wen-1.m3u8
 #EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/DSXWHD.png" group-title="资讯",東森新聞
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/TVBSNEWS.png" group-title="资讯",TVBS新聞
 https://www.youtube.com/watch?v=2mCSYvcfhtc
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/HYXW.png" group-title="资讯",寰宇新聞
-https://www.youtube.com/watch?v=6IquAgfvYmc
+https://t.freetv.fun/live/huan-yu-xin-wen-1-1.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="资讯",鳳凰資訊
-https://www.youtube.com/watch?v=fN9uYWCjQaw
+https://t.freetv.fun/live/feng-huang-zi-xun.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="资讯",鳳凰中文
-https://t.freetv.fun/live/feng-huang-zhong-wen.m3u8
+https://t.freetv.fun/live/feng-huang-zhong-wen-1.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="资讯",CNN News
 https://stream1.freetv.fun/890cfa85aaadf252333f2365066a8ab7f51dbc0e43b223073b43308275ec856f.m3u8
 #EXTINF:-1,tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main//logo/BBCWORLDNEWS.png" group-title="资讯",BBC WORLD NEWS
