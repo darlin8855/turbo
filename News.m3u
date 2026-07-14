@@ -18,7 +18,7 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=260
 #EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/DSXWHD.png" group-title="资讯",東森新聞
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/TVBSNEWS.png" group-title="资讯",TVBS新聞
-https://ha.msbot.dpdns.org/4gtv_api.php?id=291
+https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/HYXW.png" group-title="资讯",寰宇新聞
 https://ha.msbot.dpdns.org/4gtv_api.php?id=262
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="资讯",鳳凰資訊
