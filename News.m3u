@@ -22,9 +22,9 @@ https://t.freetv.fun/live/tvbsxin-wen-1-2.m3u8
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/HYXW.png" group-title="资讯",寰宇新聞
 https://t.freetv.fun/live/huan-yu-xin-wen.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="资讯",鳳凰資訊
-http://101.35.240.114:88/phenix.php?id=fhzx
+http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="资讯",鳳凰中文
-https://cdn.qd.je/163189/fhzw
+http://43.138.100.110:1258/edge-cache02.live3.omd.sc96655.com/live/test1_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="资讯",CNN News
 https://stream1.freetv.fun/890cfa85aaadf252333f2365066a8ab7f51dbc0e43b223073b43308275ec856f.m3u8
 #EXTINF:-1,tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main//logo/BBCWORLDNEWS.png" group-title="资讯",BBC WORLD NEWS
