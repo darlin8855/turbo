@@ -1,0 +1,1067 @@
+# 免费节点 MENGvpn —— Clash / mihomo 配置  【发布版 · 给用户】
+# 7 条线路：A–D 为优选域名池（各 8 节点），E 为非 CF 节点（各保留原地址）
+# 默认走「全池均衡」；哪个入口对你这地区快，就在客户端里切到对应线路。
+# 全池均衡：按目标域名哈希摊到全部 51 个出站上。
+# 线路 C/D/E/F/G：每条是一套独立入口，组内仍是负载均衡（20 个节点分摊）。
+# A组 美国流媒体（5 个）/ B组 英国流媒体（1 个）：hysteria2 专用节点。
+mixed-port: 7890
+allow-lan: false
+mode: rule
+log-level: warning
+# 控制接口：没有它就没有面板，看不到「连接」页和日志
+external-controller: 127.0.0.1:9090
+ipv6: false
+unified-delay: true
+tcp-concurrent: true
+
+dns:
+  enable: true
+  ipv6: false
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  # 代理服务器地址绝不能走 fake-ip，否则永远连不上（安卓上尤其致命）
+  fake-ip-filter:
+    - '*.lan'
+    - '*.local'
+    - '+.msftconnecttest.com'
+    - '+.msftncsi.com'
+    - '+.877774.xyz'
+    - '+.xxxxxxxx.tk'
+    - '+.130519.xyz'
+    - '+.3666888.xyz'
+    - '+.5199dy.com'
+    - '+.090227.xyz'
+    - 'cf.877774.xyz'
+    - 'cfip.xxxxxxxx.tk'
+    - 'cf.130519.xyz'
+    - 'cf.3666888.xyz'
+    - 'www.5199dy.com'
+    - 'cf.090227.xyz'
+    - '+.777078.xyz'
+    - 'lxyus1.777078.xyz'
+    - 'lxyus2.777078.xyz'
+    - 'lxyus3.777078.xyz'
+    - 'lxyus4.777078.xyz'
+  # ★ 关键：代理节点域名的专用解析器。
+  # 不配这一项时，mihomo 会走 nameserver + fallback 那套「污染判定」：
+  # 优选域名解析出来的是 Cloudflare 境外 IP -> 被 geoip-code=CN 判为污染
+  # -> 转去问 fallback(8.8.8.8) -> 国内被墙 -> 超时 -> 所有 CF 线路连不上。
+  # 配了它之后，节点域名只用下面这两台国内 DNS 解析，不再触发污染判定。
+  proxy-server-nameserver:
+    - 'https://223.5.5.5/dns-query'
+    - 'https://1.12.12.12/dns-query'
+  nameserver:
+    - 'https://223.5.5.5/dns-query'
+    - 'https://1.12.12.12/dns-query'
+  # 刻意不配 fallback：境外 DoH 在国内不可达，只会给每次查询加超时。
+  # 被墙域名走 fake-ip + 代理，本地本来就不需要解析出真实 IP。
+
+proxies:
+  - name: '免费节点 MENGvpn C01'
+    type: vless
+    server: 'cf.130519.xyz'
+    port: 443
+    uuid: '5e610f80-fc6a-479d-8621-b672355b96a1'
+    udp: true
+    tls: true
+    servername: 'cf-1rm.pages.dev'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/'
+      headers:
+        Host: 'cf-1rm.pages.dev'
+  - name: '免费节点 MENGvpn C02'
+    type: vless
+    server: 'cf.130519.xyz'
+    port: 8443
+    uuid: '889fa37f-6bce-4674-8a49-1cc435e11de7'
+    udp: true
+    tls: true
+    servername: 'liusuyan.cc.cd'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/proxyip=ProxyIP.SG.CMLiussss.Net'
+      headers:
+        Host: 'liusuyan.cc.cd'
+  - name: '免费节点 MENGvpn C03'
+    type: vless
+    server: 'cf.130519.xyz'
+    port: 443
+    uuid: '7ba503c8-a627-4b10-87f8-aac0d1a574fa'
+    udp: true
+    tls: true
+    servername: 'edgetunnel2211.esvip.cloudns.be'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/'
+      headers:
+        Host: 'edgetunnel2211.esvip.cloudns.be'
+  - name: '免费节点 MENGvpn C04'
+    type: vless
+    server: 'cf.130519.xyz'
+    port: 443
+    uuid: 'e6df2095-a73c-4043-8693-8d5a03686870'
+    udp: true
+    tls: true
+    servername: 'lucasjow.us.ci'
+    client-fingerprint: 'qq'
+    network: ws
+    ws-opts:
+      path: '/cart/docs/www/proxyip=108.160.132.132'
+      headers:
+        Host: 'lucasjow.us.ci'
+  - name: '免费节点 MENGvpn C05'
+    type: vless
+    server: 'cf.130519.xyz'
+    port: 8443
+    uuid: 'fdc48be3-a615-41ac-8bd1-ed844c931048'
+    udp: true
+    tls: true
+    servername: 'edgetunnel-4uw.pages.dev'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/'
+      headers:
+        Host: 'edgetunnel-4uw.pages.dev'
+  - name: '免费节点 MENGvpn C06'
+    type: vless
+    server: 'cf.130519.xyz'
+    port: 2053
+    uuid: 'fdc48be3-a615-41ac-8bd1-ed844c931048'
+    udp: true
+    tls: true
+    servername: 'edgetunnel-4uw.pages.dev'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/'
+      headers:
+        Host: 'edgetunnel-4uw.pages.dev'
+  - name: '免费节点 MENGvpn C07'
+    type: vless
+    server: 'cf.130519.xyz'
+    port: 443
+    uuid: '49ef59c5-3491-4cba-824d-0fc76133f67c'
+    udp: true
+    tls: true
+    servername: 'jjkkll.ccwu.cc'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/anime/travel/settings/proxyip=103.170.233.213,151.241.5.88,45.95.212.117,154.31.113.22,103.53.80.24,45.63.124.130,150.230.212.247?ed=2560'
+      headers:
+        Host: 'jjkkll.ccwu.cc'
+  - name: '免费节点 MENGvpn C08'
+    type: vless
+    server: 'cf.130519.xyz'
+    port: 443
+    uuid: '9784bb19-3833-43ad-83b0-27ef8fc04ef2'
+    udp: true
+    tls: true
+    servername: '20664.pages.dev'
+    client-fingerprint: 'random'
+    network: ws
+    ws-opts:
+      path: '/?ed=2048'
+      headers:
+        Host: '20664.pages.dev'
+  - name: '免费节点 MENGvpn D01'
+    type: vless
+    server: 'cf.3666888.xyz'
+    port: 443
+    uuid: '5e610f80-fc6a-479d-8621-b672355b96a1'
+    udp: true
+    tls: true
+    servername: 'cf-1rm.pages.dev'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/'
+      headers:
+        Host: 'cf-1rm.pages.dev'
+  - name: '免费节点 MENGvpn D02'
+    type: vless
+    server: 'cf.3666888.xyz'
+    port: 8443
+    uuid: '889fa37f-6bce-4674-8a49-1cc435e11de7'
+    udp: true
+    tls: true
+    servername: 'liusuyan.cc.cd'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/proxyip=ProxyIP.SG.CMLiussss.Net'
+      headers:
+        Host: 'liusuyan.cc.cd'
+  - name: '免费节点 MENGvpn D03'
+    type: vless
+    server: 'cf.3666888.xyz'
+    port: 443
+    uuid: '7ba503c8-a627-4b10-87f8-aac0d1a574fa'
+    udp: true
+    tls: true
+    servername: 'edgetunnel2211.esvip.cloudns.be'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/'
+      headers:
+        Host: 'edgetunnel2211.esvip.cloudns.be'
+  - name: '免费节点 MENGvpn D04'
+    type: vless
+    server: 'cf.3666888.xyz'
+    port: 443
+    uuid: 'e6df2095-a73c-4043-8693-8d5a03686870'
+    udp: true
+    tls: true
+    servername: 'lucasjow.us.ci'
+    client-fingerprint: 'qq'
+    network: ws
+    ws-opts:
+      path: '/cart/docs/www/proxyip=108.160.132.132'
+      headers:
+        Host: 'lucasjow.us.ci'
+  - name: '免费节点 MENGvpn D05'
+    type: vless
+    server: 'cf.3666888.xyz'
+    port: 8443
+    uuid: 'fdc48be3-a615-41ac-8bd1-ed844c931048'
+    udp: true
+    tls: true
+    servername: 'edgetunnel-4uw.pages.dev'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/'
+      headers:
+        Host: 'edgetunnel-4uw.pages.dev'
+  - name: '免费节点 MENGvpn D06'
+    type: vless
+    server: 'cf.3666888.xyz'
+    port: 2053
+    uuid: 'fdc48be3-a615-41ac-8bd1-ed844c931048'
+    udp: true
+    tls: true
+    servername: 'edgetunnel-4uw.pages.dev'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/'
+      headers:
+        Host: 'edgetunnel-4uw.pages.dev'
+  - name: '免费节点 MENGvpn D07'
+    type: vless
+    server: 'cf.3666888.xyz'
+    port: 443
+    uuid: '49ef59c5-3491-4cba-824d-0fc76133f67c'
+    udp: true
+    tls: true
+    servername: 'jjkkll.ccwu.cc'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/anime/travel/settings/proxyip=103.170.233.213,151.241.5.88,45.95.212.117,154.31.113.22,103.53.80.24,45.63.124.130,150.230.212.247?ed=2560'
+      headers:
+        Host: 'jjkkll.ccwu.cc'
+  - name: '免费节点 MENGvpn D08'
+    type: vless
+    server: 'cf.3666888.xyz'
+    port: 443
+    uuid: '9784bb19-3833-43ad-83b0-27ef8fc04ef2'
+    udp: true
+    tls: true
+    servername: '20664.pages.dev'
+    client-fingerprint: 'random'
+    network: ws
+    ws-opts:
+      path: '/?ed=2048'
+      headers:
+        Host: '20664.pages.dev'
+  - name: '免费节点 MENGvpn E01'
+    type: trojan
+    server: '86.38.214.205'
+    port: 443
+    password: 'humanity'
+    udp: true
+    tls: true
+    sni: 'www.ignitelimit.com'
+    network: ws
+    ws-opts:
+      path: '/assignment'
+  - name: '免费节点 MENGvpn E02'
+    type: vless
+    server: '45.202.242.128'
+    port: 443
+    uuid: '7cf4abd6-3065-921c-ba86-76156b257f52'
+    udp: true
+    tls: true
+    servername: 'oayrfrhw.eduhk.dpdns.org'
+    network: ws
+    ws-opts:
+      path: '/pg/asd159753-dfbe5fd5f8a7139a'
+      headers:
+        Host: 'oayrfrhw.eduhk.dpdns.org'
+  - name: '免费节点 MENGvpn E03'
+    type: vless
+    server: '45.202.245.177'
+    port: 443
+    uuid: '7cf4abd6-3065-921c-ba86-76156b257f52'
+    udp: true
+    tls: true
+    servername: 'xfworbwu.edutw.cc.cd'
+    network: ws
+    ws-opts:
+      path: '/pg/asd159753-dfbe5fd5f8a7139a'
+      headers:
+        Host: 'xfworbwu.edutw.cc.cd'
+  - name: '免费节点 MENGvpn F01'
+    type: vless
+    server: 'cf.877774.xyz'
+    port: 443
+    uuid: '5e610f80-fc6a-479d-8621-b672355b96a1'
+    udp: true
+    tls: true
+    servername: 'cf-1rm.pages.dev'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/'
+      headers:
+        Host: 'cf-1rm.pages.dev'
+  - name: '免费节点 MENGvpn F02'
+    type: vless
+    server: 'cf.877774.xyz'
+    port: 8443
+    uuid: '889fa37f-6bce-4674-8a49-1cc435e11de7'
+    udp: true
+    tls: true
+    servername: 'liusuyan.cc.cd'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/proxyip=ProxyIP.SG.CMLiussss.Net'
+      headers:
+        Host: 'liusuyan.cc.cd'
+  - name: '免费节点 MENGvpn F03'
+    type: vless
+    server: 'cf.877774.xyz'
+    port: 443
+    uuid: '7ba503c8-a627-4b10-87f8-aac0d1a574fa'
+    udp: true
+    tls: true
+    servername: 'edgetunnel2211.esvip.cloudns.be'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/'
+      headers:
+        Host: 'edgetunnel2211.esvip.cloudns.be'
+  - name: '免费节点 MENGvpn F04'
+    type: vless
+    server: 'cf.877774.xyz'
+    port: 443
+    uuid: 'e6df2095-a73c-4043-8693-8d5a03686870'
+    udp: true
+    tls: true
+    servername: 'lucasjow.us.ci'
+    client-fingerprint: 'qq'
+    network: ws
+    ws-opts:
+      path: '/cart/docs/www/proxyip=108.160.132.132'
+      headers:
+        Host: 'lucasjow.us.ci'
+  - name: '免费节点 MENGvpn F05'
+    type: vless
+    server: 'cf.877774.xyz'
+    port: 8443
+    uuid: 'fdc48be3-a615-41ac-8bd1-ed844c931048'
+    udp: true
+    tls: true
+    servername: 'edgetunnel-4uw.pages.dev'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/'
+      headers:
+        Host: 'edgetunnel-4uw.pages.dev'
+  - name: '免费节点 MENGvpn F06'
+    type: vless
+    server: 'cf.877774.xyz'
+    port: 2053
+    uuid: 'fdc48be3-a615-41ac-8bd1-ed844c931048'
+    udp: true
+    tls: true
+    servername: 'edgetunnel-4uw.pages.dev'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/'
+      headers:
+        Host: 'edgetunnel-4uw.pages.dev'
+  - name: '免费节点 MENGvpn F07'
+    type: vless
+    server: 'cf.877774.xyz'
+    port: 443
+    uuid: '49ef59c5-3491-4cba-824d-0fc76133f67c'
+    udp: true
+    tls: true
+    servername: 'jjkkll.ccwu.cc'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/anime/travel/settings/proxyip=103.170.233.213,151.241.5.88,45.95.212.117,154.31.113.22,103.53.80.24,45.63.124.130,150.230.212.247?ed=2560'
+      headers:
+        Host: 'jjkkll.ccwu.cc'
+  - name: '免费节点 MENGvpn F08'
+    type: vless
+    server: 'cf.877774.xyz'
+    port: 443
+    uuid: '9784bb19-3833-43ad-83b0-27ef8fc04ef2'
+    udp: true
+    tls: true
+    servername: '20664.pages.dev'
+    client-fingerprint: 'random'
+    network: ws
+    ws-opts:
+      path: '/?ed=2048'
+      headers:
+        Host: '20664.pages.dev'
+  - name: '免费节点 MENGvpn G01'
+    type: vless
+    server: 'cfip.xxxxxxxx.tk'
+    port: 443
+    uuid: '5e610f80-fc6a-479d-8621-b672355b96a1'
+    udp: true
+    tls: true
+    servername: 'cf-1rm.pages.dev'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/'
+      headers:
+        Host: 'cf-1rm.pages.dev'
+  - name: '免费节点 MENGvpn G02'
+    type: vless
+    server: 'cfip.xxxxxxxx.tk'
+    port: 8443
+    uuid: '889fa37f-6bce-4674-8a49-1cc435e11de7'
+    udp: true
+    tls: true
+    servername: 'liusuyan.cc.cd'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/proxyip=ProxyIP.SG.CMLiussss.Net'
+      headers:
+        Host: 'liusuyan.cc.cd'
+  - name: '免费节点 MENGvpn G03'
+    type: vless
+    server: 'cfip.xxxxxxxx.tk'
+    port: 443
+    uuid: '7ba503c8-a627-4b10-87f8-aac0d1a574fa'
+    udp: true
+    tls: true
+    servername: 'edgetunnel2211.esvip.cloudns.be'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/'
+      headers:
+        Host: 'edgetunnel2211.esvip.cloudns.be'
+  - name: '免费节点 MENGvpn G04'
+    type: vless
+    server: 'cfip.xxxxxxxx.tk'
+    port: 443
+    uuid: 'e6df2095-a73c-4043-8693-8d5a03686870'
+    udp: true
+    tls: true
+    servername: 'lucasjow.us.ci'
+    client-fingerprint: 'qq'
+    network: ws
+    ws-opts:
+      path: '/cart/docs/www/proxyip=108.160.132.132'
+      headers:
+        Host: 'lucasjow.us.ci'
+  - name: '免费节点 MENGvpn G05'
+    type: vless
+    server: 'cfip.xxxxxxxx.tk'
+    port: 8443
+    uuid: 'fdc48be3-a615-41ac-8bd1-ed844c931048'
+    udp: true
+    tls: true
+    servername: 'edgetunnel-4uw.pages.dev'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/'
+      headers:
+        Host: 'edgetunnel-4uw.pages.dev'
+  - name: '免费节点 MENGvpn G06'
+    type: vless
+    server: 'cfip.xxxxxxxx.tk'
+    port: 2053
+    uuid: 'fdc48be3-a615-41ac-8bd1-ed844c931048'
+    udp: true
+    tls: true
+    servername: 'edgetunnel-4uw.pages.dev'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/'
+      headers:
+        Host: 'edgetunnel-4uw.pages.dev'
+  - name: '免费节点 MENGvpn G07'
+    type: vless
+    server: 'cfip.xxxxxxxx.tk'
+    port: 443
+    uuid: '49ef59c5-3491-4cba-824d-0fc76133f67c'
+    udp: true
+    tls: true
+    servername: 'jjkkll.ccwu.cc'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/anime/travel/settings/proxyip=103.170.233.213,151.241.5.88,45.95.212.117,154.31.113.22,103.53.80.24,45.63.124.130,150.230.212.247?ed=2560'
+      headers:
+        Host: 'jjkkll.ccwu.cc'
+  - name: '免费节点 MENGvpn G08'
+    type: vless
+    server: 'cfip.xxxxxxxx.tk'
+    port: 443
+    uuid: '9784bb19-3833-43ad-83b0-27ef8fc04ef2'
+    udp: true
+    tls: true
+    servername: '20664.pages.dev'
+    client-fingerprint: 'random'
+    network: ws
+    ws-opts:
+      path: '/?ed=2048'
+      headers:
+        Host: '20664.pages.dev'
+  - name: '免费节点 MENGvpn H01'
+    type: vless
+    server: 'www.5199dy.com'
+    port: 443
+    uuid: '5e610f80-fc6a-479d-8621-b672355b96a1'
+    udp: true
+    tls: true
+    servername: 'cf-1rm.pages.dev'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/'
+      headers:
+        Host: 'cf-1rm.pages.dev'
+  - name: '免费节点 MENGvpn H02'
+    type: vless
+    server: 'www.5199dy.com'
+    port: 8443
+    uuid: '889fa37f-6bce-4674-8a49-1cc435e11de7'
+    udp: true
+    tls: true
+    servername: 'liusuyan.cc.cd'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/proxyip=ProxyIP.SG.CMLiussss.Net'
+      headers:
+        Host: 'liusuyan.cc.cd'
+  - name: '免费节点 MENGvpn H03'
+    type: vless
+    server: 'www.5199dy.com'
+    port: 443
+    uuid: '7ba503c8-a627-4b10-87f8-aac0d1a574fa'
+    udp: true
+    tls: true
+    servername: 'edgetunnel2211.esvip.cloudns.be'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/'
+      headers:
+        Host: 'edgetunnel2211.esvip.cloudns.be'
+  - name: '免费节点 MENGvpn H04'
+    type: vless
+    server: 'www.5199dy.com'
+    port: 443
+    uuid: 'e6df2095-a73c-4043-8693-8d5a03686870'
+    udp: true
+    tls: true
+    servername: 'lucasjow.us.ci'
+    client-fingerprint: 'qq'
+    network: ws
+    ws-opts:
+      path: '/cart/docs/www/proxyip=108.160.132.132'
+      headers:
+        Host: 'lucasjow.us.ci'
+  - name: '免费节点 MENGvpn H05'
+    type: vless
+    server: 'www.5199dy.com'
+    port: 8443
+    uuid: 'fdc48be3-a615-41ac-8bd1-ed844c931048'
+    udp: true
+    tls: true
+    servername: 'edgetunnel-4uw.pages.dev'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/'
+      headers:
+        Host: 'edgetunnel-4uw.pages.dev'
+  - name: '免费节点 MENGvpn H06'
+    type: vless
+    server: 'www.5199dy.com'
+    port: 2053
+    uuid: 'fdc48be3-a615-41ac-8bd1-ed844c931048'
+    udp: true
+    tls: true
+    servername: 'edgetunnel-4uw.pages.dev'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/'
+      headers:
+        Host: 'edgetunnel-4uw.pages.dev'
+  - name: '免费节点 MENGvpn H07'
+    type: vless
+    server: 'www.5199dy.com'
+    port: 443
+    uuid: '49ef59c5-3491-4cba-824d-0fc76133f67c'
+    udp: true
+    tls: true
+    servername: 'jjkkll.ccwu.cc'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/anime/travel/settings/proxyip=103.170.233.213,151.241.5.88,45.95.212.117,154.31.113.22,103.53.80.24,45.63.124.130,150.230.212.247?ed=2560'
+      headers:
+        Host: 'jjkkll.ccwu.cc'
+  - name: '免费节点 MENGvpn H08'
+    type: vless
+    server: 'www.5199dy.com'
+    port: 443
+    uuid: '9784bb19-3833-43ad-83b0-27ef8fc04ef2'
+    udp: true
+    tls: true
+    servername: '20664.pages.dev'
+    client-fingerprint: 'random'
+    network: ws
+    ws-opts:
+      path: '/?ed=2048'
+      headers:
+        Host: '20664.pages.dev'
+  - name: '免费节点 MENGvpn I01'
+    type: vless
+    server: 'cf.090227.xyz'
+    port: 443
+    uuid: '5e610f80-fc6a-479d-8621-b672355b96a1'
+    udp: true
+    tls: true
+    servername: 'cf-1rm.pages.dev'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/'
+      headers:
+        Host: 'cf-1rm.pages.dev'
+  - name: '免费节点 MENGvpn I02'
+    type: vless
+    server: 'cf.090227.xyz'
+    port: 8443
+    uuid: '889fa37f-6bce-4674-8a49-1cc435e11de7'
+    udp: true
+    tls: true
+    servername: 'liusuyan.cc.cd'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/proxyip=ProxyIP.SG.CMLiussss.Net'
+      headers:
+        Host: 'liusuyan.cc.cd'
+  - name: '免费节点 MENGvpn I03'
+    type: vless
+    server: 'cf.090227.xyz'
+    port: 443
+    uuid: '7ba503c8-a627-4b10-87f8-aac0d1a574fa'
+    udp: true
+    tls: true
+    servername: 'edgetunnel2211.esvip.cloudns.be'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/'
+      headers:
+        Host: 'edgetunnel2211.esvip.cloudns.be'
+  - name: '免费节点 MENGvpn I04'
+    type: vless
+    server: 'cf.090227.xyz'
+    port: 443
+    uuid: 'e6df2095-a73c-4043-8693-8d5a03686870'
+    udp: true
+    tls: true
+    servername: 'lucasjow.us.ci'
+    client-fingerprint: 'qq'
+    network: ws
+    ws-opts:
+      path: '/cart/docs/www/proxyip=108.160.132.132'
+      headers:
+        Host: 'lucasjow.us.ci'
+  - name: '免费节点 MENGvpn I05'
+    type: vless
+    server: 'cf.090227.xyz'
+    port: 8443
+    uuid: 'fdc48be3-a615-41ac-8bd1-ed844c931048'
+    udp: true
+    tls: true
+    servername: 'edgetunnel-4uw.pages.dev'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/'
+      headers:
+        Host: 'edgetunnel-4uw.pages.dev'
+  - name: '免费节点 MENGvpn I06'
+    type: vless
+    server: 'cf.090227.xyz'
+    port: 2053
+    uuid: 'fdc48be3-a615-41ac-8bd1-ed844c931048'
+    udp: true
+    tls: true
+    servername: 'edgetunnel-4uw.pages.dev'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/'
+      headers:
+        Host: 'edgetunnel-4uw.pages.dev'
+  - name: '免费节点 MENGvpn I07'
+    type: vless
+    server: 'cf.090227.xyz'
+    port: 443
+    uuid: '49ef59c5-3491-4cba-824d-0fc76133f67c'
+    udp: true
+    tls: true
+    servername: 'jjkkll.ccwu.cc'
+    client-fingerprint: 'chrome'
+    network: ws
+    ws-opts:
+      path: '/anime/travel/settings/proxyip=103.170.233.213,151.241.5.88,45.95.212.117,154.31.113.22,103.53.80.24,45.63.124.130,150.230.212.247?ed=2560'
+      headers:
+        Host: 'jjkkll.ccwu.cc'
+  - name: '免费节点 MENGvpn I08'
+    type: vless
+    server: 'cf.090227.xyz'
+    port: 443
+    uuid: '9784bb19-3833-43ad-83b0-27ef8fc04ef2'
+    udp: true
+    tls: true
+    servername: '20664.pages.dev'
+    client-fingerprint: 'random'
+    network: ws
+    ws-opts:
+      path: '/?ed=2048'
+      headers:
+        Host: '20664.pages.dev'
+  - name: '美国 A组 流媒体 01'
+    type: hysteria2
+    server: 'lxyus1.777078.xyz'
+    port: 443
+    password: 'ff6c7492-7a7f-40e9-bf70-63e20d2afc3d'
+    sni: 'iosapps.itunes.apple.com'
+    skip-cert-verify: false
+    fingerprint: '4b10f090c73e5d841d56f81373b56168fd446a96adf85427738c6ef6c414b01b'
+    up: '50 Mbps'
+    down: '50 Mbps'
+    udp: true
+  - name: '美国 A组 流媒体 02'
+    type: hysteria2
+    server: 'lxyus2.777078.xyz'
+    port: 443
+    password: 'ff6c7492-7a7f-40e9-bf70-63e20d2afc3d'
+    sni: 'iosapps.itunes.apple.com'
+    skip-cert-verify: false
+    fingerprint: '58f2df9e444565f71bcdf624069d51ded4d699b648d59f1bf197e9aac859b9bc'
+    up: '50 Mbps'
+    down: '50 Mbps'
+    udp: true
+  - name: '美国 A组 流媒体 03'
+    type: hysteria2
+    server: 'lxyus3.777078.xyz'
+    port: 443
+    password: 'ff6c7492-7a7f-40e9-bf70-63e20d2afc3d'
+    sni: 'iosapps.itunes.apple.com'
+    skip-cert-verify: false
+    fingerprint: 'ee961590f9558c24cef02e44d1f54e9cd21fc929ae627f2e18fe5b3d67ca5561'
+    up: '50 Mbps'
+    down: '50 Mbps'
+    udp: true
+  - name: '美国 A组 流媒体 04'
+    type: hysteria2
+    server: 'lxyus4.777078.xyz'
+    port: 443
+    password: 'ff6c7492-7a7f-40e9-bf70-63e20d2afc3d'
+    sni: 'iosapps.itunes.apple.com'
+    skip-cert-verify: false
+    fingerprint: '4df742862fb9f529f841048ff99a914ae2ce83cbfa13ccf15618f72bc32f2650'
+    up: '50 Mbps'
+    down: '50 Mbps'
+    udp: true
+  - name: '美国 A组 流媒体 05'
+    type: hysteria2
+    server: '203.10.97.121'
+    port: 60000
+    password: 'ff6c7492-7a7f-40e9-bf70-63e20d2afc3d'
+    ports: '60000-65530'
+    sni: 'www.apple.com'
+    skip-cert-verify: false
+    fingerprint: '7883472b634b93a7ec09a020fdbd4b1ac7b0accc7569028dfaeb54c6384677c1'
+    up: '50 Mbps'
+    down: '50 Mbps'
+    udp: true
+  - name: '英国 B组 流媒体 01'
+    type: hysteria2
+    server: '62.164.143.251'
+    port: 60000
+    password: 'ff6c7492-7a7f-40e9-bf70-63e20d2afc3d'
+    ports: '60000-65530'
+    sni: 'bilibili-gb.biliimg.com'
+    skip-cert-verify: false
+    fingerprint: 'f7d837d9a8fd47ae4f18de5a72430fb02f7e4c6e37a8823db929a1e1b8792aa1'
+    up: '50 Mbps'
+    down: '50 Mbps'
+    udp: true
+
+proxy-groups:
+  # ★ 选择入口（Clash 里只有 select 组的成员可以手动点选）
+  # 慢就换一条线路试 —— 选线路只换入口域名，不换 worker，不会打爆节点
+  - name: '免费节点 MENGvpn 选择'
+    type: select
+    proxies:
+      - '免费节点 MENGvpn 全池均衡'
+      - '免费节点 MENGvpn 线路C'
+      - '免费节点 MENGvpn 线路D'
+      - '免费节点 MENGvpn 线路E'
+      - '免费节点 MENGvpn 线路F'
+      - '免费节点 MENGvpn 线路G'
+      - '免费节点 MENGvpn 线路H'
+      - '免费节点 MENGvpn 线路I'
+      - 'A组 美国流媒体'
+      - 'B组 英国流媒体'
+
+  # 全池均衡（默认项）：51 个出站一起分摊，7 条线路同时在用
+  - name: '免费节点 MENGvpn 全池均衡'
+    type: load-balance
+    url: 'https://www.gstatic.com/generate_204'
+    interval: 300
+    lazy: true
+    strategy: consistent-hashing
+    proxies:
+      - '免费节点 MENGvpn C01'
+      - '免费节点 MENGvpn C02'
+      - '免费节点 MENGvpn C03'
+      - '免费节点 MENGvpn C04'
+      - '免费节点 MENGvpn C05'
+      - '免费节点 MENGvpn C06'
+      - '免费节点 MENGvpn C07'
+      - '免费节点 MENGvpn C08'
+      - '免费节点 MENGvpn D01'
+      - '免费节点 MENGvpn D02'
+      - '免费节点 MENGvpn D03'
+      - '免费节点 MENGvpn D04'
+      - '免费节点 MENGvpn D05'
+      - '免费节点 MENGvpn D06'
+      - '免费节点 MENGvpn D07'
+      - '免费节点 MENGvpn D08'
+      - '免费节点 MENGvpn E01'
+      - '免费节点 MENGvpn E02'
+      - '免费节点 MENGvpn E03'
+      - '免费节点 MENGvpn F01'
+      - '免费节点 MENGvpn F02'
+      - '免费节点 MENGvpn F03'
+      - '免费节点 MENGvpn F04'
+      - '免费节点 MENGvpn F05'
+      - '免费节点 MENGvpn F06'
+      - '免费节点 MENGvpn F07'
+      - '免费节点 MENGvpn F08'
+      - '免费节点 MENGvpn G01'
+      - '免费节点 MENGvpn G02'
+      - '免费节点 MENGvpn G03'
+      - '免费节点 MENGvpn G04'
+      - '免费节点 MENGvpn G05'
+      - '免费节点 MENGvpn G06'
+      - '免费节点 MENGvpn G07'
+      - '免费节点 MENGvpn G08'
+      - '免费节点 MENGvpn H01'
+      - '免费节点 MENGvpn H02'
+      - '免费节点 MENGvpn H03'
+      - '免费节点 MENGvpn H04'
+      - '免费节点 MENGvpn H05'
+      - '免费节点 MENGvpn H06'
+      - '免费节点 MENGvpn H07'
+      - '免费节点 MENGvpn H08'
+      - '免费节点 MENGvpn I01'
+      - '免费节点 MENGvpn I02'
+      - '免费节点 MENGvpn I03'
+      - '免费节点 MENGvpn I04'
+      - '免费节点 MENGvpn I05'
+      - '免费节点 MENGvpn I06'
+      - '免费节点 MENGvpn I07'
+      - '免费节点 MENGvpn I08'
+
+  # 线路C → cf.130519.xyz → （解析失败，用域名）（8 个节点）
+  - name: '免费节点 MENGvpn 线路C'
+    type: load-balance
+    url: 'https://www.gstatic.com/generate_204'
+    interval: 300
+    lazy: true
+    strategy: consistent-hashing
+    proxies:
+      - '免费节点 MENGvpn C01'
+      - '免费节点 MENGvpn C02'
+      - '免费节点 MENGvpn C03'
+      - '免费节点 MENGvpn C04'
+      - '免费节点 MENGvpn C05'
+      - '免费节点 MENGvpn C06'
+      - '免费节点 MENGvpn C07'
+      - '免费节点 MENGvpn C08'
+
+  # 线路D → cf.3666888.xyz → （解析失败，用域名）（8 个节点）
+  - name: '免费节点 MENGvpn 线路D'
+    type: load-balance
+    url: 'https://www.gstatic.com/generate_204'
+    interval: 300
+    lazy: true
+    strategy: consistent-hashing
+    proxies:
+      - '免费节点 MENGvpn D01'
+      - '免费节点 MENGvpn D02'
+      - '免费节点 MENGvpn D03'
+      - '免费节点 MENGvpn D04'
+      - '免费节点 MENGvpn D05'
+      - '免费节点 MENGvpn D06'
+      - '免费节点 MENGvpn D07'
+      - '免费节点 MENGvpn D08'
+
+  # 线路E → 各自原地址，非 CF（3 个节点）
+  - name: '免费节点 MENGvpn 线路E'
+    type: load-balance
+    url: 'https://www.gstatic.com/generate_204'
+    interval: 300
+    lazy: true
+    strategy: consistent-hashing
+    proxies:
+      - '免费节点 MENGvpn E01'
+      - '免费节点 MENGvpn E02'
+      - '免费节点 MENGvpn E03'
+
+  # 线路F → cf.877774.xyz → （解析失败，用域名）（8 个节点）
+  - name: '免费节点 MENGvpn 线路F'
+    type: load-balance
+    url: 'https://www.gstatic.com/generate_204'
+    interval: 300
+    lazy: true
+    strategy: consistent-hashing
+    proxies:
+      - '免费节点 MENGvpn F01'
+      - '免费节点 MENGvpn F02'
+      - '免费节点 MENGvpn F03'
+      - '免费节点 MENGvpn F04'
+      - '免费节点 MENGvpn F05'
+      - '免费节点 MENGvpn F06'
+      - '免费节点 MENGvpn F07'
+      - '免费节点 MENGvpn F08'
+
+  # 线路G → cfip.xxxxxxxx.tk → （解析失败，用域名）（8 个节点）
+  - name: '免费节点 MENGvpn 线路G'
+    type: load-balance
+    url: 'https://www.gstatic.com/generate_204'
+    interval: 300
+    lazy: true
+    strategy: consistent-hashing
+    proxies:
+      - '免费节点 MENGvpn G01'
+      - '免费节点 MENGvpn G02'
+      - '免费节点 MENGvpn G03'
+      - '免费节点 MENGvpn G04'
+      - '免费节点 MENGvpn G05'
+      - '免费节点 MENGvpn G06'
+      - '免费节点 MENGvpn G07'
+      - '免费节点 MENGvpn G08'
+
+  # 线路H → www.5199dy.com → （解析失败，用域名）（8 个节点）
+  - name: '免费节点 MENGvpn 线路H'
+    type: load-balance
+    url: 'https://www.gstatic.com/generate_204'
+    interval: 300
+    lazy: true
+    strategy: consistent-hashing
+    proxies:
+      - '免费节点 MENGvpn H01'
+      - '免费节点 MENGvpn H02'
+      - '免费节点 MENGvpn H03'
+      - '免费节点 MENGvpn H04'
+      - '免费节点 MENGvpn H05'
+      - '免费节点 MENGvpn H06'
+      - '免费节点 MENGvpn H07'
+      - '免费节点 MENGvpn H08'
+
+  # 线路I → cf.090227.xyz → （解析失败，用域名）（8 个节点）
+  - name: '免费节点 MENGvpn 线路I'
+    type: load-balance
+    url: 'https://www.gstatic.com/generate_204'
+    interval: 300
+    lazy: true
+    strategy: consistent-hashing
+    proxies:
+      - '免费节点 MENGvpn I01'
+      - '免费节点 MENGvpn I02'
+      - '免费节点 MENGvpn I03'
+      - '免费节点 MENGvpn I04'
+      - '免费节点 MENGvpn I05'
+      - '免费节点 MENGvpn I06'
+      - '免费节点 MENGvpn I07'
+      - '免费节点 MENGvpn I08'
+
+  # A组 美国流媒体（5 个 hysteria2 节点）
+  - name: 'A组 美国流媒体'
+    type: load-balance
+    url: 'https://www.gstatic.com/generate_204'
+    interval: 300
+    lazy: true
+    strategy: consistent-hashing
+    proxies:
+      - '美国 A组 流媒体 01'
+      - '美国 A组 流媒体 02'
+      - '美国 A组 流媒体 03'
+      - '美国 A组 流媒体 04'
+      - '美国 A组 流媒体 05'
+
+  # B组 英国流媒体（1 个 hysteria2 节点）
+  - name: 'B组 英国流媒体'
+    type: load-balance
+    url: 'https://www.gstatic.com/generate_204'
+    interval: 300
+    lazy: true
+    strategy: consistent-hashing
+    proxies:
+      - '英国 B组 流媒体 01'
+
+rules:
+  - 'GEOSITE,private,DIRECT'
+  # 国内直连：不绕美国 worker，速度快，且省下 CF 每天的请求额度（免费版每 worker 10 万/天）
+  - 'GEOSITE,cn,DIRECT'
+  - 'GEOIP,CN,DIRECT'
+  - 'IP-CIDR,127.0.0.0/8,DIRECT,no-resolve'
+  - 'IP-CIDR,10.0.0.0/8,DIRECT,no-resolve'
+  - 'IP-CIDR,172.16.0.0/12,DIRECT,no-resolve'
+  - 'IP-CIDR,192.168.0.0/16,DIRECT,no-resolve'
+  # 拦截境外 QUIC（UDP 443），强制浏览器回落 TCP/TLS。
+  # YouTube / Google 默认走 HTTP/3，而 CF Workers 的 UDP 转发极不可靠，
+  # 浏览器会卡在 QUIC 上反复重试，带宽直接掉到几百 kbps。
+  # 放在国内直连规则之后 —— 国内站点的 QUIC 不受影响。
+  - 'AND,((NETWORK,UDP),(DST-PORT,443)),REJECT'
+  - 'MATCH,免费节点 MENGvpn 选择'
