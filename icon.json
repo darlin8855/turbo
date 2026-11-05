@@ -1,0 +1,42 @@
+{
+  "name": "emby-icon",
+  "description": "personal",
+  "icons": [
+    {
+      "name": "zhenying",
+      "url": "https:\/\/raw.githubusercontent.com\/darlin8855\/turbo\/blob\/main\/emby-icon\/zhenying.png"
+    },
+    {
+      "name": "zhezhimao",
+      "url": "https:\/\/raw.githubusercontent.com\/darlin8855\/turbo\/blob\/main\/emby-icon\/zhezhimao.png"
+    },
+    {
+      "name": "suiying",
+      "url": "https:\/\/raw.githubusercontent.com\/darlin8855\/turbo\/blob\/main\/emby-icon\/suiying.png"
+    },
+    {
+      "name": "Paul-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/darlin8855\/turbo\/blob\/main\/emby-icon\/Paul-emby.png"
+    },
+    {
+      "name": "aetrix",
+      "url": "https:\/\/raw.githubusercontent.com\/darlin8855\/turbo\/blob\/main\/emby-icon\/aetrix.png"
+    },
+    {
+      "name": "guangying",
+      "url": "https:\/\/raw.githubusercontent.com\/darlin8855\/turbo\/blob\/main\/emby-icon\/guangying.png"
+    },
+    {
+      "name": "chabao",
+      "url": "https:\/\/raw.githubusercontent.com\/darlin8855\/turbo\/blob\/main\/emby-icon\/chabao.png"
+    },
+    {
+      "name": "dachucaidanfu",
+      "url": "https:\/\/raw.githubusercontent.com\/darlin8855\/turbo\/blob\/main\/emby-icon\/dachucaidanfu.png"
+    },
+    {
+      "name": "9527",
+      "url": "https:\/\/raw.githubusercontent.com\/darlin8855\/turbo\/blob\/main\/emby-icon\/9527.png"
+    }
+  ]
+}
